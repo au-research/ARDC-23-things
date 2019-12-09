@@ -56,13 +56,13 @@ you want to do, or need to know.
 
 Click on the coloured buttons to see what Thing 1 has in store for you!
 
-[![Getting
-started](../images/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-start)[![Learn
-More](../images/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-learn)[![Challenge
-me](../images/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-challenge)
+[![Getting started](../images/23things_gettingstarted_big.jpg)](#t1-start)
+[![Learn More](../images/23things_learnmore_xsmall_dark.png)](#t1-learn)
+[![Challenge me](../images/23things_challengeme_xs.png)](#t1-challenge)
 
-![Getting
-started](../images/23things_gettingstarted_big.jpg)
+![Getting started](../images/23things_gettingstarted_big.jpg)
+
+(#t1-start)
 
 #### Thing 1: Getting started with research data
 
@@ -99,22 +99,20 @@ Do you have a question?  Want to share a resource?
 -   Tweet to
     [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
-![thing1 credly
-badge](../images/Badge-thing1.png)
+![thing1 credly badge](../images/Badge-thing1.png)
 
 Completion of Thing 1 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/65861/085-033C-95D)
 
-Go to [Thing
-2](thing-2.md "thing 2")
-Issues in research data management or to [All
-Things](index.md)
+Go to [Thing 2](thing-2.md "thing 2")
+Issues in research data management or to [All Things](index.md)
 
 ------------------------------------------------------------------------
 
-![Learn
-more](../images/23things_learnmore_xsmall_dark.png)
+![Learn more](../images/23things_learnmore_xsmall_dark.png)
+
+(#t1-learn)
 
 #### Thing 1: Getting started with research data
 
@@ -140,32 +138,26 @@ disciplinary data access can be facilitated.
 
 Do you have a question?  Want to share a resource?
 
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
+-   Post to the[Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
     to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
-
-
+-   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
 ------------------------------------------------------------------------
 
-![thing1 credly
-badge](../images/Badge-thing1.png)
+![thing1 credly badge](../images/Badge-thing1.png)
 
 Completion of Thing 1 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/65861/085-033C-95D)
 
-Go to [Thing
-2](thing-2.md "thing 2")
-Issues in research data management or to [All
-Things](index.md)
+Go to [Thing 2](thing-2.md "thing 2")
+Issues in research data management or to [All Things](index.md)
 
 ------------------------------------------------------------------------
 
-![Challenge
-me](../images/23things_challengeme_xs.png)
+![Challenge me](../images/23things_challengeme_xs.png)
+
+(#t1-challenge)
 
 #### Thing 1: Getting started with research data
 
@@ -190,39 +182,27 @@ and what skills you want to learn.
 
 Do you have a question?  Want to share a resource?
 
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
+-   Post to the[Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
     to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+-   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
 ------------------------------------------------------------------------
 
-![thing1 credly
-badge](../images/Badge-thing1.png)
+![thing1 credly badge](../images/Badge-thing1.png)
 
 Completion of Thing 1 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/65861/085-033C-95D)
 
-Go to [Thing
-2](thing-2.md "thing 2")
-Issues in research data management or to [All
-Things](index.md)
+Go to [Thing 2](thing-2.md "thing 2")
+Issues in research data management or to [All Things](index.md)
 
 -   ### Ready, set, data
 
     Kick off your research data journey with some data basics.
 
-    ![23T-Badge Thing
-    1](../images/23T-Badge-thing1.png)
+    ![23T-Badge Thing 1](../images/23T-Badge-thing1.png)
 
-    -   [Thing
-        1](thing-1.md "Thing 1"):
-        Start
-    -   [Thing
-        2](thing-2.md "Thing 2"):
-        RDM Issues
-    -   [Thing
-        3](thing-3.md "Thing 3"):
-        Lifecycle
+    -   [Thing 1](thing-1.md "Thing 1"): Start
+    -   [Thing 2](thing-2.md "Thing 2"): RDM Issues
+    -   [Thing 3](thing-3.md "Thing 3"): Lifecycle
