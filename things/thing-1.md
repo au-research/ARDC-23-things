@@ -58,7 +58,7 @@ Click on the coloured buttons to see what Thing 1 has in store for you!
 
 [![Getting started](../images/23things_gettingstarted_big.jpg)](#t1-start)
 [![Learn More](../images/23things_learnmore_xsmall_dark.png)](#t1-learn)
-[![Challenge me](../images/23things_challengeme_xs.png)](#t1-challenge)
+[![Challenge me](../images/23things_challengeme_xs.png)](#challenge-me)
 
 ![Getting started](../images/23things_gettingstarted_big.jpg)
 
@@ -157,7 +157,7 @@ Issues in research data management or to [All Things](index.md)
 
 ![Challenge me](../images/23things_challengeme_xs.png)
 
-[Challenge me](#t1-challenge)
+[Challenge me]
 
 #### Thing 1: Getting started with research data
 
