@@ -60,11 +60,9 @@ Click on the coloured buttons to see what Thing 1 has in store for you!
 [![Learn More](../images/23things_learnmore_xsmall_dark.png)](#learn-more)
 [![Challenge me](../images/23things_challengeme_xs.png)](#challenge-me)
 
-![Getting started](../images/23things_gettingstarted_big.jpg)
-
 ### Getting started
 
-[Getting started](#t1-start)
+![Getting started](../images/23things_gettingstarted_big.jpg)
 
 #### Thing 1: Getting started with research data
 
@@ -95,11 +93,9 @@ and reuse possibilities.
 
 Do you have a question?  Want to share a resource?
 
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
+-   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
     to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+-   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
 ![thing1 credly badge](../images/Badge-thing1.png)
 
@@ -140,7 +136,7 @@ disciplinary data access can be facilitated.
 
 Do you have a question?  Want to share a resource?
 
--   Post to the[Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
+-   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
     to connect with the community.
 -   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
@@ -184,7 +180,7 @@ and what skills you want to learn.
 
 Do you have a question?  Want to share a resource?
 
--   Post to the[Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
+-   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
     to connect with the community.
 -   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
