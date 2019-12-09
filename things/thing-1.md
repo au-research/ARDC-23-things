@@ -57,12 +57,12 @@ you want to do, or need to know.
 Click on the coloured buttons to see what Thing 1 has in store for you!
 
 [![Getting
-started](images/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-start)[![Learn
-More](images/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-learn)[![Challenge
-me](images/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-challenge)
+started](../images/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-start)[![Learn
+More](../images/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-learn)[![Challenge
+me](../images/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-challenge)
 
 ![Getting
-started](images/23things_gettingstarted_big.jpg)
+started](../images/23things_gettingstarted_big.jpg)
 
 #### Thing 1: Getting started with research data
 
@@ -100,7 +100,7 @@ Do you have a question?  Want to share a resource?
     [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
 ![thing1 credly
-badge](images/Badge-thing1.png)
+badge](../images/Badge-thing1.png)
 
 Completion of Thing 1 means you've earned a digital badge!
 
@@ -114,7 +114,7 @@ Things](index.md)
 ------------------------------------------------------------------------
 
 ![Learn
-more](images/23things_learnmore_xsmall_dark.png)
+more](../images/23things_learnmore_xsmall_dark.png)
 
 #### Thing 1: Getting started with research data
 
@@ -151,7 +151,7 @@ Do you have a question?  Want to share a resource?
 ------------------------------------------------------------------------
 
 ![thing1 credly
-badge](images/Badge-thing1.png)
+badge](../images/Badge-thing1.png)
 
 Completion of Thing 1 means you've earned a digital badge!
 
@@ -165,7 +165,7 @@ Things](index.md)
 ------------------------------------------------------------------------
 
 ![Challenge
-me](images/23things_challengeme_xs.png)
+me](../images/23things_challengeme_xs.png)
 
 #### Thing 1: Getting started with research data
 
@@ -199,7 +199,7 @@ Do you have a question?  Want to share a resource?
 ------------------------------------------------------------------------
 
 ![thing1 credly
-badge](images/Badge-thing1.png)
+badge](../images/Badge-thing1.png)
 
 Completion of Thing 1 means you've earned a digital badge!
 
@@ -215,7 +215,7 @@ Things](index.md)
     Kick off your research data journey with some data basics.
 
     ![23T-Badge Thing
-    1](images/23T-Badge-thing1.png)
+    1](../images/23T-Badge-thing1.png)
 
     -   [Thing
         1](thing-1.md "Thing 1"):
