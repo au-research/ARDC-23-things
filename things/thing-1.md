@@ -57,12 +57,12 @@ you want to do, or need to know.
 Click on the coloured buttons to see what Thing 1 has in store for you!
 
 [![Getting
-started](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-start)[![Learn
-More](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-learn)[![Challenge
-me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-challenge)
+started](images/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-start)[![Learn
+More](images/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-learn)[![Challenge
+me](images/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1#t1-challenge)
 
 ![Getting
-started](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg){#t1-start}
+started](images/23things_gettingstarted_big.jpg)
 
 #### Thing 1: Getting started with research data
 
@@ -100,7 +100,7 @@ Do you have a question?  Want to share a resource?
     [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
 ![thing1 credly
-badge](https://www.ands.org.au/__data/assets/image/0018/516510/Badge-thing1.png)
+badge](images/Badge-thing1.png)
 
 Completion of Thing 1 means you've earned a digital badge!
 
@@ -114,7 +114,7 @@ Things](index.md)
 ------------------------------------------------------------------------
 
 ![Learn
-more](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png){#t1-learn}
+more](images/23things_learnmore_xsmall_dark.png)
 
 #### Thing 1: Getting started with research data
 
@@ -151,21 +151,21 @@ Do you have a question?  Want to share a resource?
 ------------------------------------------------------------------------
 
 ![thing1 credly
-badge](https://www.ands.org.au/__data/assets/image/0018/516510/Badge-thing1.png)
+badge](images/Badge-thing1.png)
 
 Completion of Thing 1 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/65861/085-033C-95D)
 
 Go to [Thing
-2](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-2 "thing 2")
+2](thing-2.md "thing 2")
 Issues in research data management or to [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23)
+Things](index.md)
 
 ------------------------------------------------------------------------
 
 ![Challenge
-me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png){#t1-challenge}
+me](images/23things_challengeme_xs.png)
 
 #### Thing 1: Getting started with research data
 
@@ -199,23 +199,23 @@ Do you have a question?  Want to share a resource?
 ------------------------------------------------------------------------
 
 ![thing1 credly
-badge](https://www.ands.org.au/__data/assets/image/0018/516510/Badge-thing1.png)
+badge](images/Badge-thing1.png)
 
 Completion of Thing 1 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/65861/085-033C-95D)
 
 Go to [Thing
-2](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-2 "thing 2")
+2](thing-2.md "thing 2")
 Issues in research data management or to [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23)
+Things](index.md)
 
 -   ### Ready, set, data
 
     Kick off your research data journey with some data basics.
 
     ![23T-Badge Thing
-    1](https://www.ands.org.au/__data/assets/image/0008/493388/23T-Badge-thing1.png)
+    1](images/23T-Badge-thing1.png)
 
     -   [Thing
         1](thing-1.md "Thing 1"):
