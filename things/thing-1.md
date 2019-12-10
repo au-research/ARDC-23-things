@@ -30,7 +30,7 @@ viewport: |
 ---
 # Thing 1: Getting started with research data
 
-**[Thing 2&gt;&gt;](thing-2.md)**
+**[Jump to Thing 2&gt;&gt;](thing-2.md)**
 
 Research data comes in many shapes and sizes. Kick off your research
 data journey and start sharing your stories.
