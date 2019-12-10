@@ -28,15 +28,10 @@ viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0
 ---
-Thing 1: Getting started with research data
+# Thing 1: Getting started with research data
 ===========================================
 
-### [Thing 2&gt;&gt;](thing-2.md)
-
-------------------------------------------------------------------------
-
-[Thing 1: Getting started with research data](thing-1.md)
--------------------------------------------------------------------------------------------------------------------------------------
+**[Thing 2&gt;&gt;](thing-2.md)**
 
 Research data comes in many shapes and sizes. Kick off your research
 data journey and start sharing your stories.
@@ -54,19 +49,13 @@ you want to do, or need to know.
 
 ------------------------------------------------------------------------
 
-Click on the coloured buttons to see what Thing 1 has in store for you!
+* [Getting started](#getting-started)
+* [Learn more](#learn-more)
+* [Challenge me](#challenge-me)
 
-[![Getting started](../images/23things_gettingstarted_big.jpg)](#getting-started)
-[![Learn More](../images/23things_learnmore_xsmall_dark.png)](#learn-more)
-[![Challenge me](../images/23things_challengeme_xs.png)](#challenge-me)
+## Getting started
 
-### Getting started
-
-![Getting started](../images/23things_gettingstarted_big.jpg)
-
-#### Thing 1: Getting started with research data
-
-**What is research data?**
+### What is research data?
 
 What "research data" are we talking about?
 
@@ -108,13 +97,9 @@ Issues in research data management or to [All Things](index.md)
 
 ------------------------------------------------------------------------
 
-### Learn more
+## Learn more
 
-![Learn more](../images/23things_learnmore_xsmall_dark.png)
-
-#### Thing 1: Getting started with research data
-
-**Data across research disciplines**
+### Data across research disciplines
 
 1\. Choose one of the four specialised data repositories below, or find
 another data repository of interest - particularly one in a discipline
@@ -153,13 +138,9 @@ Issues in research data management or to [All Things](index.md)
 
 ------------------------------------------------------------------------
 
-### Challenge me
+## Challenge me
 
-![Challenge me](../images/23things_challengeme_xs.png)
-
-#### Thing 1: Getting started with research data
-
-**Let's talk tech!**
+### Let's talk tech!
 
 Get the ball rolling to introduce yourself and expand awareness of the
 technical aspects to data management and this rapidly growing community
@@ -192,15 +173,15 @@ Completion of Thing 1 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/65861/085-033C-95D)
 
-Go to [Thing 2](thing-2.md "thing 2")
+Go to [Thing 2](thing-2.md)
 Issues in research data management or to [All Things](index.md)
 
--   ### Ready, set, data
+### Ready, set, data
 
-    Kick off your research data journey with some data basics.
+Kick off your research data journey with some data basics.
 
-    ![23T-Badge Thing 1](../images/23T-Badge-thing1.png)
+![23T-Badge Thing 1](../images/23T-Badge-thing1.png)
 
-    -   [Thing 1](thing-1.md "Thing 1"): Start
-    -   [Thing 2](thing-2.md "Thing 2"): RDM Issues
-    -   [Thing 3](thing-3.md "Thing 3"): Lifecycle
+* [Thing 1](thing-1.md "Thing 1"): Start
+* [Thing 2](thing-2.md "Thing 2"): RDM Issues
+* [Thing 3](thing-3.md "Thing 3"): Lifecycle
