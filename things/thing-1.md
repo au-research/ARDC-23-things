@@ -29,7 +29,6 @@ viewport: |
     user-scalable=0
 ---
 # Thing 1: Getting started with research data
-===========================================
 
 **[Thing 2&gt;&gt;](thing-2.md)**
 
@@ -46,8 +45,6 @@ data journey and start sharing your stories.
 **Do I have to do them all?** No - you can pick'n'mix a different stream
 each week, or stay in the one stream. You can do as much or as little as
 you want to do, or need to know.
-
-------------------------------------------------------------------------
 
 * [Getting started](#getting-started)
 * [Learn more](#learn-more)
@@ -95,8 +92,6 @@ Completion of Thing 1 means you've earned a digital badge!
 Go to [Thing 2](thing-2.md "thing 2")
 Issues in research data management or to [All Things](index.md)
 
-------------------------------------------------------------------------
-
 ## Learn more
 
 ### Data across research disciplines
@@ -125,8 +120,6 @@ Do you have a question?  Want to share a resource?
     to connect with the community.
 -   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
-------------------------------------------------------------------------
-
 ![thing1 credly badge](../images/Badge-thing1.png)
 
 Completion of Thing 1 means you've earned a digital badge!
@@ -135,8 +128,6 @@ Completion of Thing 1 means you've earned a digital badge!
 
 Go to [Thing 2](thing-2.md "thing 2")
 Issues in research data management or to [All Things](index.md)
-
-------------------------------------------------------------------------
 
 ## Challenge me
 
@@ -164,8 +155,6 @@ Do you have a question?  Want to share a resource?
 -   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
     to connect with the community.
 -   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
-
-------------------------------------------------------------------------
 
 ![thing1 credly badge](../images/Badge-thing1.png)
 
