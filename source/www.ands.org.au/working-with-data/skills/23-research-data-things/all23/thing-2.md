@@ -27,10 +27,6 @@ viewport: |
     user-scalable=0
 ---
 
-Thing 2: Issues in research data management
-
-
-
 [Thing 2: Issues in research data management]
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -50,7 +46,6 @@ what are some of the issues we face in managing research data?
 #### Thing 2: Issues in research data management
 
 **Managing data for reuse**
-
 
 Research data is for everyone. Governments and universities all around
 Australia and the world are now encouraging researchers to better manage
@@ -79,8 +74,6 @@ which provides advice for researchers on how to manage their data.
 
 **Consider:** how just one of the data disasters depicted in the cartoon
 could have been avoided.
-
-
 
 Do you have a question?  Want to share a resource?
 
