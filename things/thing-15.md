@@ -39,9 +39,9 @@ Group](http://www.ands.org.au/partners-and-communities/ands-communities/dmps-int
 * [Learn more](#learn-more)
 * [Challenge me](#challenge-me)
 
-##Getting started 
+## Getting started 
 
-###An introduction to Data Management Plans
+### An introduction to Data Management Plans
 
 A Data Management Plan (DMP) documents how data will be managed, stored
 and shared during and after a research project. Some research funders
@@ -69,48 +69,18 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-</div>
+![thing15 credly badge](../images/Badge-thing15.png)
 
-</div>
+Completion of Thing 15 means you've earned a digital badge!
 
-<div id="new_content_container_537639_537639">
+[Claim your badge](https://credly.com/claim/66861/7E4-ABD9-344)
 
-<div id="content_container_433480">
+Go to [Thing 16](thing-16.md "thing 16")
+What are Publishers and Funders saying about data? or to [All Things](index.md)
 
-------------------------------------------------------------------------
+## Learn more
 
-![Thing 15 credly
-badge](https://www.ands.org.au/__data/assets/image/0006/523545/Badge-thing15.png)Completion
-of Thing 15 means you've earned a digital badge!
-
-[**Claim your
-badge**](https://credly.com/claim/66861/7E4-ABD9-344 "Credly")
-
-Go to [**Thing
-16**](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-16)
-: What are Publishers and Funders saying about data?
-
-------------------------------------------------------------------------
-
-</div>
-
-</div>
-
-<div id="new_content_container_408261">
-
-![learn more - Thing
-15](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png){#t15-learn}
-
-\
-**Thing 15: data management plans**
-
-**Learn more: ** Templates for Data Management Plans
-
-</div>
-
-<div id="new_content_container_537652_537652">
-
-<div id="content_container_433468">
+### Templates for Data Management Plans
 
 Imagine if the information contained in a DMP could flow across other
 systems automatically (e.g. to populate faculty profiles, monitor
