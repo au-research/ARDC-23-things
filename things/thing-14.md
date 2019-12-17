@@ -139,6 +139,7 @@ Do you have a question?  Want to share a resource?
     to connect with the community.
 -   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
+![thing14 credly badge](../images/Badge-thing14.png)
 
 Completion of Thing 14 means you've earned a digital badge!
 
@@ -193,6 +194,8 @@ Do you have a question?  Want to share a resource?
     to connect with the community.
 -   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
+
+![thing14 credly badge](../images/Badge-thing14.png)
 
 Completion of Thing 14 means you've earned a digital badge!
 
