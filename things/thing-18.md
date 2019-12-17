@@ -21,7 +21,9 @@ viewport: |
     user-scalable=0
 ---
 
-Thing 18: Data interviews: talk the talk
+# Thing 18: Data interviews: talk the talk
+
+**[Jump to Thing 19&gt;&gt;](thing-19.md)**
 
 Learn some tips and tricks for responding to data queries and starting a
 data conversation.
@@ -36,7 +38,8 @@ data conversation.
 
 
 
-**Getting started: **Starting a data conversation
+## Getting started 
+### Starting a data conversation
 
 Thing 18 offers a simple way to think about key messages and possible
 responses that can be used to quickly and succinctly pitch research data
@@ -69,9 +72,10 @@ Completion of Thing 18 means you've earned a digital badge!
 Go to [Thing 19](thing-19.md "thing 19")
 Exploring APIs andApps or to [All Things](index.md)
 
-**Learn more: ** Tools for data interviews
+## Learn more
+### Tools for data interviews
 
-**Option 1**: **Interviews to collect metadata**
+**Option 1: Interviews to collect metadata**
 
 Imagine you are asked to gather information to complete a metadata
 record for either data which will be created as a result of a project or
@@ -129,7 +133,8 @@ Completion of Thing 18 means you've earned a digital badge!
 Go to [Thing 19](thing-19.md "thing 19")
 Exploring APIs andApps or to [All Things](index.md)
 
-**Challenge me: ** Data Curation Profiles in depth
+## Challenge me
+### Data Curation Profiles in depth
 
 A ‘Data Curation Profile’ is a resource for people who want information
 about the specific data generated and used in research areas and how
@@ -179,7 +184,7 @@ data set was a lesser (medium) priority; possible uses would include
 knowing when a user reports that more recent data is available
 elsewhere."*
 
-**Consider: w**hat options could you offer the researcher to achieve
+**Consider:** what options could you offer the researcher to achieve
 their high and medium priorities? If you can't offer advice, how could
 you find a potential solution?
 
