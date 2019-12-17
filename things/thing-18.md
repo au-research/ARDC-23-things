@@ -147,11 +147,6 @@ options you could offer, to include information about tools, software
 etc in a metadata record or website where reuse is dependent on
 software.
 
-Note: if you aren’t familiar with Data Curation Profiles, you may wish
-to skim over the [Learn more Option
-2](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-18#t18-learn)
-activity before you start this one.
-
 **Option 1: Geophysics and Seismology / Structural Geology and
 Neotectonics**
 
