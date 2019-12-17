@@ -2,14 +2,14 @@
 HandheldFriendly: true
 author: ANDS
 description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
+    Thing 15: Some research institutions and research funders now require researchers
+    to submit a Data Management Plan (DMP) for new projects. What should a
+    DMP cover? Could you help with one?
 keywords: 'data, research, research data, australia'
 og:description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
+    Thing 15: Some research institutions and research funders now require researchers
+    to submit a Data Management Plan (DMP) for new projects. What should a
+    DMP cover? Could you help with one?
 og:site_name: ANDS
 og:title: 'Thing 15: Data management plans'
 og:type: website
