@@ -77,22 +77,18 @@ Do you have a question? Want to share a resource?
 Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 Tweet to [@ardc_au](https://twitter.com/ardc_au) using \#23things
 
-![thing1 credly badge](../images/Badge-thing1.png)
+[thing1 credly badge](../images/Badge-thing2.png)
 
 Completion of Thing 2 means you've earned a digital badge!
 
-[Claim your badge](https://credly.com/claim/65861/085-033C-95D)
+[Claim your badge](https://credly.com/claim/66836/72E-425C-EA6)
 
 Go to [Thing 3](thing-3.md "thing 3")
 Issues in research data management or to [All Things](index.md)
 
-------------------------------------------------------------------------
+## Learn More
 
-### Learn More
-
-#### Thing 2: Issues in research data management
-
-**How do you manage "Big Data"?**
+### How do you manage "Big Data"?
 
 
 "Big Data" is a term we're hearing with increasing frequency. Data
@@ -107,33 +103,28 @@ support better management and reuse of Big Data. If you don't think the
 5 Vs is of value, is there another framework or concept model which
 could be useful for exploring data management for big data?
 
-Do you have a question?  Want to share a resource?
+Do you have a question? Want to share a resource?
 
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+Tweet to [@ardc_au](https://twitter.com/ardc_au) using \#23things
 
-
-------------------------------------------------------------------------
+[thing1 credly badge](../images/Badge-thing2.png)
 
 Completion of Thing 2 means you've earned a digital badge!
 
+[Claim your badge](https://credly.com/claim/66836/72E-425C-EA6)
 
+Go to [Thing 3](thing-3.md "thing 3")
+Issues in research data management or to [All Things](index.md)
 
-------------------------------------------------------------------------
+## Challenge Me
 
-### Challenge Me
-
-#### Thing 2: Issues in research data management
-
-**Digital data in eLab Notebooks**
+### Digital data in Lab Notebooks**
 
 Laboratory Notebooks are used by researchers to formally record their
 research activities. As research has become increasingly digital and
 collaborative the utility of traditional hard copy Laboratory Notebooks
-has been challenged. Not surprisingly then, eLab Notebooks (ELN) have
+has been challenged. Not surprisingly then, electronic laboratory notebooks (ELNs) have
 emerged as an alternative, and they can be used for more than just
 lab-based research.
 
@@ -141,15 +132,23 @@ ELNs help researchers manage their data effectively and collaboratively
 during a project, making it easier to share and publish their data,
 either during or after the project has ended.
 
-**Consider:** your view on a data management issues and possible
-solutions, where data is generated, stored and shared via an  open ELN.
+1\. Read this [short guide](https://dx.doi.org/10.1038/d41586-018-05895-3) to choosing an ELN 
+2\. Then read this article [International team of scientists open sources search for malaria cure](https://opensource.com/life/14/6/international-team-open-sources-search-malaria-cure) about how an international team of scientists and citizen scientists are using open source ELNs to speed up a cure for malaria. You can see their open ELNs [here](http://malaria.ourexperiment.org/). Click on Matthew Todd's ELN to see what is recorded.
+3\. Check out [Harvard Medical School’s](http://malaria.ourexperiment.org/) comparative matrix of ELN platforms
 
-Do you have a question?  Want to share a resource?
+**Consider:** your views on data management issues and possible
+solutions for data that is generated, stored and shared via an open ELN.
 
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+Do you have a question? Want to share a resource?
+
+Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+Tweet to [@ardc_au](https://twitter.com/ardc_au) using \#23things
+
+[thing1 credly badge](../images/Badge-thing2.png)
 
 Completion of Thing 2 means you've earned a digital badge!
+
+[Claim your badge](https://credly.com/claim/66836/72E-425C-EA6)
+
+Go to [Thing 3](thing-3.md "thing 3")
+Issues in research data management or to [All Things](index.md)
