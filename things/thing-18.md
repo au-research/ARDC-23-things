@@ -36,7 +36,9 @@ data conversation.
 -   **Challenge me**: in depth interviews reveal the extent to which
     data reuse is dependent on tools and software - what’s your advice?
 
-
+* [Getting started](#getting-started)
+* [Learn more](#learn-more)
+* [Challenge me](#challenge-me)
 
 ## Getting started 
 ### Starting a data conversation
