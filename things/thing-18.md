@@ -60,10 +60,8 @@ what is available at your organisation.
 starters?
 
 Do you have a question?  Want to share a resource?
-
--   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 ![thing18 credly badge](../images/Badge-thing18.png)
 
@@ -121,10 +119,8 @@ concept?
 
 
 Do you have a question?  Want to share a resource?
-
--   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 ![thing18 credly badge](../images/Badge-thing18.png)
 
@@ -187,10 +183,8 @@ you find a potential solution?
 
 
 Do you have a question?  Want to share a resource?
-
--   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 ![thing18 credly badge](../images/Badge-thing18.png)
 
