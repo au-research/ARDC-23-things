@@ -35,25 +35,23 @@ particularly influential when it comes to encouraging data availability.
     affect data around the globe...
 -   **Challenge me**: 2020 vision about the future of data and funders
 
+* [Getting started](#getting-started)
+* [Learn more](#learn-more)
+* [Challenge me](#challenge-me)
 
-**Getting started**: Research data and scholarly publishing
-
-
-#### Thing 16: What are publishers and funders saying about data?
-Two choices for Thing 16!
+## Getting started
+### Two choices for Thing 16!
 
 Two exciting things are happening with data and journal publishers. More
 and more journal publishers are asking authors to make the
 data underpinning a journal article available. And, new forms of data
 publishing are emerging: data journals.
 
-![publishers with data
-policies](https://www.ands.org.au/__data/assets/image/0007/543616/funders-slide.png)
+![publishers with data policies](../images/funders-slide.png)
 
 It’s all about ensuring that the research being described in the article
 is based on solid, reproducible science. Thinking back to [Thing 5: Data
-Sharing](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5 "Thing 5"),
-remember that *available* can be “open” or “shared” through mediated
+Sharing](thing-5.md), remember that *available* can be “open” or “shared” through mediated
 access.
 
 ### Choice 1: Journal data policies
@@ -100,9 +98,9 @@ Do you have a question?  Want to share a resource?
     to connect with the community.
 -   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
-![thing1 credly badge](../images/Badge-thing6.png)
+![thing16 credly badge](../images/Badge-thing16.png)
 
-Completion of Thing 1 means you've earned a digital badge!
+Completion of Thing 16 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/66863/43B-EF86-1FF "Credly")
 
@@ -110,7 +108,8 @@ Go to [Thing 17](thing-17.md "thing 17")
 Issues in research data management or to [All Things](index.md)
 
 
-**Learn more:** Planning to publish: research data
+## Learn more 
+### Planning to publish: research data
 
 
 The number of funders, journals/publishers and institutions implementing
@@ -141,6 +140,7 @@ Do you have a question?  Want to share a resource?
     to connect with the community.
 -   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
+![thing16 credly badge](../images/Badge-thing16.png)
 
 Completion of Thing 16 means you've earned a digital badge!
 
@@ -149,11 +149,8 @@ Completion of Thing 16 means you've earned a digital badge!
 Go to [Thing 17](thing-17.md "thing 17")
 Issues in research data management or to [All Things](index.md)
 
-
-
-
-
-**Challenge me: **Research funders and data sharing
+## Challenge me
+### Research funders and data sharing
 
 The Australian National Health and Medical Research Council (NHMRC)
 funded more than \$896 million (2015) for health and medical research
@@ -187,6 +184,7 @@ Do you have a question?  Want to share a resource?
     to connect with the community.
 -   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
+![thing16 credly badge](../images/Badge-thing16.png)
 
 Completion of Thing 16 means you've earned a digital badge!
 
@@ -194,5 +192,4 @@ Completion of Thing 16 means you've earned a digital badge!
 
 Go to [Thing 17](thing-17.md "thing 17")
 Issues in research data management or to [All Things](index.md)
-
 
