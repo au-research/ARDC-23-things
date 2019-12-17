@@ -93,10 +93,8 @@ formats?
 
 
 Do you have a question?  Want to share a resource?
-
--   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 ![thing16 credly badge](../images/Badge-thing16.png)
 
@@ -134,10 +132,8 @@ data sharing upon publication at the end.
 
 
 Do you have a question?  Want to share a resource?
-
--   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 ![thing16 credly badge](../images/Badge-thing16.png)
 
@@ -178,10 +174,8 @@ funding. What does this mean for those working in data support areas?
 
 
 Do you have a question?  Want to share a resource?
-
--   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 ![thing16 credly badge](../images/Badge-thing16.png)
 
