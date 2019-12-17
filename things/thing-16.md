@@ -120,18 +120,17 @@ implications of policies for researchers can be unclear.
     introduction of a standardisation research data policy framework
     with four data policy types by reading this blog post, [Over 600
     Springer Nature journals commit to new data sharing
-    policies](http://group.springernature.com/gb/group/media/press-releases/over-600-springer-nature-journals-commit-to-new-data-sharing-policies/11111248).  
+    policies](https://group.springernature.com/gp/group/media/press-releases/archive-2016/over-600-springer-nature-journals-commit-to-new-data-sharing-policies/12000254).  
 2.  Learn about international efforts to standardise journal data
     policies through the Research Data Alliance [Interest Group on Data
     Policy Standardisation and
     Implementation](https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation)
 
-**Consider:** [ your top three pieces of advice for a young researcher
+**Consider:** your top three pieces of advice for a young researcher
 aiming to publish in one of the Springer journals which has a Type 3 or
-Type 4 data sharing policy.
-Hint: ]{style="color: rgb(51, 51, 51); font-size: 0.98em;"}[think about
+Type 4 data sharing policy. Hint: think about
 what needs to be considered at the start of a research project to enable
-data sharing upon publication at the end.]{style="font-size: 0.98em;"}
+data sharing upon publication at the end.
 
 
 Do you have a question?  Want to share a resource?
@@ -158,7 +157,7 @@ including 1030 new grants to universities, medical research institutions
 and hospitals across Australia.
 
 1\. Start by reading the [NHMRC Open Access
-Policy](https://www.nhmrc.gov.au/_files_nhmrc/file/research/nhmrc_open_access_policy_15_january_2018_v2.pdf "NHMRC Open Access Policy")
+Policy](https://www.nhmrc.gov.au/about-us/resources/open-access-policy)
 (section 3.2 and Appendix 2) and note the lifecycle diagram for data
 sharing.
 
@@ -168,7 +167,7 @@ a look at their data sharing policies:
 -   [National Science
     Foundation](http://www.nsf.gov/bfa/dias/policy/dmp.jsp) in the US,
     and note the Data Management Plan requirement (see [Thing 15:
-    DMPs](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-15 "Thing 15"))
+    DMPs](thing-16.md))
 -   [Wellcome
     Trust](https://wellcome.ac.uk/funding/managing-grant/policy-data-management-and-sharing)
     in the UK (1 page)
