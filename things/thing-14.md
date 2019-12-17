@@ -81,7 +81,7 @@ Do you have a question?  Want to share a resource?
     to connect with the community.
 -   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
-![thing1 credly badge](../images/Badge-thing14.png)
+![thing14 credly badge](../images/Badge-thing14.png)
 
 Completion of Thing 14 means you've earned a digital badge!
 
@@ -97,7 +97,7 @@ ORCID has emerged as the preferred identifier for people by a
 range of Australian universities, funders and publishers worldwide. You
 can choose from three activities that will get you in touch with ORCID.
 
-## Option 1. Don’t have an ORCID record but would like one?
+### Option 1. Don’t have an ORCID record but would like one?
 
 Use this time to create an ORCID profile and make it as complete as
 possible.
@@ -108,7 +108,7 @@ possible.
 3.  Send your new ORCID number to a colleague and ask for some feedback
     on your profile
 
-## Option 2. Already have an ORCID?
+### Option 2. Already have an ORCID?
 
 When was the last time you logged in to update or enhance your profile?
 You may be surprised at the additional functionality now available.
@@ -122,7 +122,7 @@ You may be surprised at the additional functionality now available.
 3.  When you’re done, add your ORCID to your email signature, LinkedIn
     profile and blog
 
-##Option 3. Don’t want an ORCID?
+### Option 3. Don’t want an ORCID?
 
 Get up to date with the latest features, functionality and news on the
 [ORCID blog](https://orcid.org/blog) and explore the [Australian ORCID
