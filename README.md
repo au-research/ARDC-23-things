@@ -25,3 +25,4 @@ You can:
 ## The things
 
 * [Thing 1: Getting started with research data](things/thing-1.md)
+* [Thing 14: Identifiers and linked data](things/thing-14.md)
