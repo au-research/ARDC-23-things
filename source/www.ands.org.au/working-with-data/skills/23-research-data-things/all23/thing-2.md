@@ -26,26 +26,23 @@ viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0
 ---
+# Thing 2: Issues in research data management
 
-[Thing 2: Issues in research data management]
--------------------------------------------------------------------------------------------------------------------------------------
+**[Jump to Thing 3&gt;&gt;](thing-3.md)**
 
 Research data is critical to solving the big questions of our time.  So
 what are some of the issues we face in managing research data?
 
--   **Getting started:** Watch a cartoon about what happens when a
+* [Getting started](#getting-started) Watch a cartoon about what happens when a
     researcher hasn't managed their data (at all…) What could possibly
     go wrong!?
--   **Learn more:** the 5Vs about Big Data everyone must know
--   **Challenge me:** what are the issues when data is part of an eLab
+* [Learn more](#learn-more) the 5Vs about Big Data everyone must know
+* [Challenge me](#challenge-me) what are the issues when data is part of an eLab
     Notebook?
 
-------------------------------------------------------------------------
+## Getting started
 
-
-#### Thing 2: Issues in research data management
-
-**Managing data for reuse**
+### Managing data for reuse
 
 Research data is for everyone. Governments and universities all around
 Australia and the world are now encouraging researchers to better manage
@@ -75,19 +72,19 @@ which provides advice for researchers on how to manage their data.
 **Consider:** how just one of the data disasters depicted in the cartoon
 could have been avoided.
 
-Do you have a question?  Want to share a resource?
+Do you have a question? Want to share a resource?
 
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+Tweet to [@ardc_au](https://twitter.com/ardc_au) using \#23things
 
-
-------------------------------------------------------------------------
+![thing1 credly badge](../images/Badge-thing1.png)
 
 Completion of Thing 2 means you've earned a digital badge!
 
+[Claim your badge](https://credly.com/claim/65861/085-033C-95D)
+
+Go to [Thing 3](thing-3.md "thing 3")
+Issues in research data management or to [All Things](index.md)
 
 ------------------------------------------------------------------------
 
