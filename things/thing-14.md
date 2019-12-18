@@ -170,10 +170,18 @@ and the Semantic Web and what is all the hype about?
 
 **Consider:** how these tools could be used to support linked data.
 
-
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 Go to [Thing 15](thing-15.md "thing 15")
 Data Management Plans [All Things](index.md)
+
+### Metadata & more
+Data is only as valuable as the metadata which describes and connects it.
+
+* [Thing 11](thing-11.md "Thing 11"): Metadata
+* [Thing 12](thing-12.md "Thing 12"): Vocabularies
+* [Thing 13](thing-13.md "Thing 13"): Crosswalks
+* [Thing 14](thing-14.md "Thing 14"): Identifiers
+
