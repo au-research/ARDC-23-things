@@ -81,12 +81,8 @@ records from over 100 Australian repositories.
 catalogue.
 
 Do you have a question?  Want to share a resource?
-
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 ![thing4 credly
 badge](https://www.ands.org.au/__data/assets/image/0003/516513/Badge-thing4.png)
@@ -120,12 +116,8 @@ Australia's research data repositories, and the data records they
 contain, could be achieved.
 
 Do you have a question?  Want to share a resource?
-
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 ![thing4 credly
 badge](https://www.ands.org.au/__data/assets/image/0003/516513/Badge-thing4.png)
@@ -162,12 +154,8 @@ repositories: have you used either or both of these resources? Would
 you?
 
 Do you have a question?  Want to share a resource?
-
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 
 
