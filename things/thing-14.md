@@ -21,7 +21,7 @@ viewport: |
     user-scalable=0
 ---
 # Thing 14: Identifiers and linked data
-**[&lt;&lt;Jump to Thing 13](thing-13.md) &nbsp; &nbsp; [Jump to Thing 5&gt;&gt;](thing-15.md)**
+**[&lt;&lt;Jump to Thing 13](thing-13.md) &nbsp; [Jump to Thing 15&gt;&gt;](thing-15.md)**
 
 Identifiers are crucial to disambiguation of people, accurate
 attribution and impact metrics.  We look at identifiers for people -
