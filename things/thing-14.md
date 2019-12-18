@@ -163,9 +163,9 @@ Identifiers), along with HTTP and RDF (Resource Description Framework)
 are the key technologies that underpin Linked Data. What is Linked Data
 and the Semantic Web and what is all the hype about?
 
-1\. Start by reading an introduction to these concepts from
+1. Start by reading an introduction to these concepts from
     [LinkedDataTools](http://www.linkeddatatools.com/semantic-web-basics).
-2\. Have a go at completing some or all of the five short  Semantic Web
+2. Have a go at completing some or all of the five short  Semantic Web
     Primer tutorials (5 min):
     1.  [Introducing Graph
         Data](http://www.linkeddatatools.com/introducing-rdf "Introducing graph data")
