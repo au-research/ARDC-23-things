@@ -162,11 +162,7 @@ Data conversations make sense - ensuring data is an asset.
 
 ![Badge-thing15](https://www.ands.org.au/__data/assets/image/0006/494124/Badge-thing15.png)
 
--   [Thing15:](thing-15.md)
-    Data management plans
--   [Thing16:](thing-16.md)
-    Publishers & funders
--   [Thing17:](thing-17.md)
-    Literacy & outreach
--   [Thing18:](thing-18.md)
-    Data interviews
+-   [Thing15:](thing-15.md) Data management plans
+-   [Thing16:](thing-16.md) Publishers & funders
+-   [Thing17:](thing-17.md) Literacy & outreach
+-   [Thing18:](thing-18.md) Data interviews

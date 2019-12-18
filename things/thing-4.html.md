@@ -188,12 +188,6 @@ Data sharing or to [All Things](index.md)
 ![23T Badge
 -thing4](https://www.ands.org.au/__data/assets/image/0005/494114/23T-Badge-thing4.png)
 
--   [Thing
-    4:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4)
-    Data discovery
--   [Thing
-    5:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5)
-    Data sharing
--   [Thing
-    6:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-6)
-    Curation & preservation
+-   [Thing 4:](thing-4.md) Data discovery
+-   [Thing 5:](thing-5.md) Data sharing
+-   [Thing 6:](thing-6.md) Curation & preservation
