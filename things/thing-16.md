@@ -22,8 +22,7 @@ viewport: |
 ---
 
 # Thing 16: What are publishers & funders saying about data?
-
-**[Jump to Thing 17&gt;&gt;](thing-17.md)**
+**[&lt;&lt;Jump to Thing 15](thing-15.md) &nbsp; [Jump to Thing 17&gt;&gt;](thing-17.md)**
 
 Data sharing policies are becoming increasingly common in Australia and
 internationally.  Learn why research funders and journal publishers are
