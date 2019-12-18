@@ -62,9 +62,7 @@ of the links below to explore some of these policies.
 
 1.  PLOS One [data
     policy](http://journals.plos.org/plosone/s/data-availability)
-2.  [Dryad](http://datadryad.org/pages/jdap "Dryad") is an data
-    repository which integrates data and articles. It lists how and when
-    to submit your data for 111 journals
+2.  Elsevier [research data guidelines](https://www.elsevier.com/authors/author-resources/research-data/data-guidelines) and [policy](https://www.elsevier.com/about/policies/research-data)
 3.  Look up a journal you know and see what the advice the journal gives
     on related data
 
