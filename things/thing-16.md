@@ -93,12 +93,6 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-![thing16 credly badge](../images/Badge-thing16.png)
-
-Completion of Thing 16 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66863/43B-EF86-1FF "Credly")
-
 Go to [Thing 17](thing-17.md "thing 17")
 Issues in research data management or to [All Things](index.md)
 
@@ -131,12 +125,6 @@ data sharing upon publication at the end.
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-![thing16 credly badge](../images/Badge-thing16.png)
-
-Completion of Thing 16 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66863/43B-EF86-1FF "Credly")
 
 Go to [Thing 17](thing-17.md "thing 17")
 Issues in research data management or to [All Things](index.md)
@@ -173,12 +161,6 @@ funding. What does this mean for those working in data support areas?
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-![thing16 credly badge](../images/Badge-thing16.png)
-
-Completion of Thing 16 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66863/43B-EF86-1FF "Credly")
 
 Go to [Thing 17](thing-17.md "thing 17")
 Issues in research data management or to [All Things](index.md)
