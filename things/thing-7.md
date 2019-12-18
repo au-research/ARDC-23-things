@@ -33,23 +33,14 @@ community. Find out where data fits in the citation picture.
 -   **Learn more**: may the FORCE(11) be with you (while you cite data)
 -   **Challenge me**: are some data formats more likely to be cited?
 
-[![Getting
-Started](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-7#t7-start)[![Learn
-more](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-7#t7-learn)[![Challenge
-Me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-7#t7-challenge)
 
+* [Getting started](#getting-started)
+* [Learn more](#learn-more)
+* [Challenge me](#challenge-me)
 
+## Getting started 
 
-![getting
-started](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg){#t7-start}
-****
-
-**Thing 7: [Data citation for access &
-attribution]{style="color: rgb(51, 51, 51); font-size: 0.98em; line-height: 1.25;"}**
-
-**Getting started: **Citing research data
-
-
+### Citing research data
 
 Data citation continues the tradition of acknowledging other people’s
 work and ideas. Along with books, journals and other scholarly works, it
@@ -109,13 +100,9 @@ Go to [Thing
 Citation metrics for data or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
-![Learn
-more](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png){#t7-learn}
+## Learn more
 
-**Thing 7:** [**Data citation for access &
-attribution**]{style="color: rgb(51, 51, 51); font-size: 0.98em; line-height: 1.25;"}
-
-**Learn more: **Data citation principles
+# Data citation principles
 
 
 The Force11 Joint Declaration of Data Citation Principles are a set of
@@ -158,15 +145,9 @@ Go to [Thing
 Citation metrics for data or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
+##Challenge me 
 
-![Challenge
-me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png){#t7-challenge}
-
-**Thing 7:** [**Data citation for access &
-attribution**]{style="color: rgb(51, 51, 51); font-size: 0.98em; line-height: 1.25;"}
-
-**Challenge me: **Data formats and data citation
-
+###Data formats and data citation
 
 Are some data formats more likely to be cited?
 
@@ -218,13 +199,13 @@ Citation metrics for data or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
 
-    ### Data citation & impact
+### Data citation & impact
 
-    ![Badge-thing7](https://www.ands.org.au/__data/assets/image/0006/494133/Badge-thing7.png)
+![Badge-thing7](https://www.ands.org.au/__data/assets/image/0006/494133/Badge-thing7.png)
 
-    -   [Thing
-        7:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-7)
-        Citation
-    -   [Thing
-        8:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-8)
-        Metrics
+-   [Thing
+    7:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-7)
+    Citation
+-   [Thing
+    8:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-8)
+    Metrics
