@@ -160,7 +160,7 @@ What are Publishers and Funders saying about data? or to [All Things](index.md)
 
 Data conversations make sense - ensuring data is an asset.
 
-![Badge-thing15](https://www.ands.org.au/__data/assets/image/0006/494124/Badge-thing15.png)
+![Badge-thing15](../images/Badge-thing15-small.png)
 
 -   [Thing15:](thing-15.md) Data management plans
 -   [Thing16:](thing-16.md) Publishers & funders
