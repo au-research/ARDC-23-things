@@ -78,8 +78,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 15](thing-15.md "thing 15")
-Data Management Plans [All Things](index.md)
+Go to [Thing 15](thing-15.md "thing 15") Data Management Plans or to [All Things](index.md)
 
 ## Learn more 
 ### Creating or updating your ORCID profile
@@ -128,9 +127,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 15](thing-15.md "thing 15")
-Data Management Plans [All Things](index.md)
-
+Go to [Thing 15](thing-15.md "thing 15") Data Management Plans or to [All Things](index.md)
 
 ## Challenge me 
 ### Identifiers and linked data
@@ -174,8 +171,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 15](thing-15.md "thing 15")
-Data Management Plans [All Things](index.md)
+Go to [Thing 15](thing-15.md "thing 15") Data Management Plans or to [All Things](index.md)
 
 ### Metadata & more
 Data is only as valuable as the metadata which describes and connects it.
