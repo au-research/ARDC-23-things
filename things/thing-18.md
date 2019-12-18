@@ -62,12 +62,6 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-![thing18 credly badge](../images/Badge-thing18.png)
-
-Completion of Thing 18 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66865/B99-F2E5-09E)
-
 Go to [Thing 19](thing-19.md "thing 19")
 Exploring APIs andApps or to [All Things](index.md)
 
@@ -120,12 +114,6 @@ concept?
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-![thing18 credly badge](../images/Badge-thing18.png)
-
-Completion of Thing 18 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66865/B99-F2E5-09E)
 
 Go to [Thing 19](thing-19.md "thing 19")
 Exploring APIs andApps or to [All Things](index.md)
@@ -184,12 +172,6 @@ you find a potential solution?
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-![thing18 credly badge](../images/Badge-thing18.png)
-
-Completion of Thing 18 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66865/B99-F2E5-09E)
 
 Go to [Thing 19](thing-19.md "thing 19")
 Exploring APIs andApps or to [All Things](index.md)
