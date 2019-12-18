@@ -93,10 +93,8 @@ Completion of Thing 4 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/66841/F9B-8BDC-B55)
 
-Go to [Thing
-5](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5 "Thing 5")
-Data sharing or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
+Go to [Thing 5](thing-5.md)
+Data sharing or to [All Things](index.md)
 
 ## Learn More 
 
@@ -128,10 +126,8 @@ Completion of Thing 4 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/66841/F9B-8BDC-B55)
 
-Go to [Thing
-5](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5 "Thing 5")
-Data sharing or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
+Go to [Thing 5](thing-5.md)
+Data sharing or to [All Things](index.md)
 
 ## Challenge me
 
