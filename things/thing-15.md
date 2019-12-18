@@ -93,7 +93,10 @@ definition](https://www.ddialliance.org/taxonomy/term/198)).
     Plans](http://riojournal.com/articles.php?id=13086). This White
     Paper is long, but incredibly rich - scroll down for lots of
     use-cases, interoperability, data discovery and more.
-2.  {}.
+2.  Check out how The University of Queensland is re-imagining DMPs in
+    the blog post [DMRs, making DMP’s relevant
+    again](https://web.archive.org/web/20180509004414/http://andscentral.blogspot.com.au/2017/05/dmrs-making-dmps-relevant-again.html).
+
 
 **Consider:** Do you think machine-actionable DMPs will make them more
 valuable to researchers? Institutions? Funders?
