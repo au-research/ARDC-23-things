@@ -153,7 +153,7 @@ a look at their data sharing policies:
     Trust](https://wellcome.ac.uk/funding/managing-grant/policy-data-management-and-sharing)
     in the UK (1 page)
 
-Now, imagine it is 2020… **consider** what you think Australian research
+Now, imagine it is 2025… **consider** what you think Australian research
 funders will be requiring of researchers who are seeking project
 funding. What does this mean for those working in data support areas?
 
