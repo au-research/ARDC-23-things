@@ -84,15 +84,6 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-![thing4 credly
-badge](https://www.ands.org.au/__data/assets/image/0003/516513/Badge-thing4.png)
-
-</div>
-
-Completion of Thing 4 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66841/F9B-8BDC-B55)
-
 Go to [Thing 5](thing-5.md)
 Data sharing or to [All Things](index.md)
 
@@ -116,15 +107,6 @@ contain, could be achieved.
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
-
-![thing4 credly
-badge](https://www.ands.org.au/__data/assets/image/0003/516513/Badge-thing4.png)
-
-</div>
-
-Completion of Thing 4 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66841/F9B-8BDC-B55)
 
 Go to [Thing 5](thing-5.md)
 Data sharing or to [All Things](index.md)
@@ -153,24 +135,12 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-
-
-![thing4 credly
-badge](https://www.ands.org.au/__data/assets/image/0003/516513/Badge-thing4.png)
-
-
-Completion of Thing 4 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66841/F9B-8BDC-B55)
-
-
 Go to [Thing 5](thing-5.md)
 Data sharing or to [All Things](index.md)
 
 ### Repositories for data
 
-![23T Badge
--thing4](https://www.ands.org.au/__data/assets/image/0005/494114/23T-Badge-thing4.png)
+
 
 -   [Thing 4:](thing-4.md) Data discovery
 -   [Thing 5:](thing-5.md) Data sharing
