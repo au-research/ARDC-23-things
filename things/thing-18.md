@@ -62,8 +62,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 19](thing-19.md "thing 19")
-Exploring APIs andApps or to [All Things](index.md)
+Go to [Thing 19](thing-19.md "thing 19") Exploring APIs and Apps or to [All Things](index.md)
 
 ## Learn more
 ### Tools for data interviews
@@ -115,8 +114,8 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 19](thing-19.md "thing 19")
-Exploring APIs andApps or to [All Things](index.md)
+
+Go to [Thing 19](thing-19.md "thing 19") Exploring APIs and Apps or to [All Things](index.md)
 
 ## Challenge me
 ### Data Curation Profiles in depth
@@ -173,8 +172,8 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 19](thing-19.md "thing 19")
-Exploring APIs andApps or to [All Things](index.md)
+
+Go to [Thing 19](thing-19.md "thing 19") Exploring APIs and Apps or to [All Things](index.md)
 
 ### Let's talk data
 Data conversations make sense - ensuring data is an asset.
