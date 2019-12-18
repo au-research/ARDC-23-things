@@ -165,3 +165,11 @@ Do you have a question?  Want to share a resource?
 Go to [Thing 17](thing-17.md "thing 17")
 Issues in research data management or to [All Things](index.md)
 
+### Let's talk data
+Data conversations make sense - ensuring data is an asset.
+
+* [Thing 15](thing-15.md "Thing 15"): Data management plans
+* [Thing 16](thing-16.md "Thing 16"): Publishers & funders
+* [Thing 17](thing-17.md "Thing 17"): Literacy & outreach
+* [Thing 18](thing-18.md "Thing 18"): Data interviews
+
