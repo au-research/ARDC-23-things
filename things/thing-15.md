@@ -66,12 +66,6 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-![thing15 credly badge](../images/Badge-thing15.png)
-
-Completion of Thing 15 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66861/7E4-ABD9-344)
-
 Go to [Thing 16](thing-16.md)
 What are Publishers and Funders saying about data? or to [All Things](index.md)
 
@@ -108,12 +102,6 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-![thing15 credly badge](../images/Badge-thing15.png)
-
-Completion of Thing 15 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66861/7E4-ABD9-344)
-
 Go to [Thing 16](thing-16.md)
 What are Publishers and Funders saying about data? or to [All Things](index.md)
 
@@ -145,12 +133,6 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-![thing15 credly badge](../images/Badge-thing15.png)
-
-Completion of Thing 15 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66861/7E4-ABD9-344)
-
 Go to [Thing 16](thing-16.md)
 What are Publishers and Funders saying about data? or to [All Things](index.md)
 
@@ -159,8 +141,6 @@ What are Publishers and Funders saying about data? or to [All Things](index.md)
 ### Let's talk data
 
 Data conversations make sense - ensuring data is an asset.
-
-![Badge-thing15](../images/Badge-thing15-small.png)
 
 -   [Thing15:](thing-15.md) Data management plans
 -   [Thing16:](thing-16.md) Publishers & funders
