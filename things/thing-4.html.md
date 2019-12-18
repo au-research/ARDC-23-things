@@ -28,15 +28,9 @@ viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0
 ---
+#Thing 4: Data Discovery
 
-
-
-### [&lt;&lt; Thing 3](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3 "thing 3") [Thing 5&gt;&gt;](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5 "thing 5")
-
-
-
-[Thing 4: Data discovery](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4)
-
+**[&lt;&lt;Jump to Thing 3](thing-3.md) &nbsp; &nbsp; [Jump to Thing 5&gt;&gt;](thing-5.md)**
 
 Repositories and portals play an important role in making research data
 discoverable and accessible.
@@ -49,27 +43,13 @@ discoverable and accessible.
     know?
 
 
+* [Getting started](#getting-started)
+* [Learn more](#learn-more)
+* [Challenge me](#challenge-me)
 
-[![Getting
-Started](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4#t4-start)[![Learn
-More](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4#t4-learn)[![Challenge
-me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4#t4-challenge)
+## Getting started 
 
-
-
-![23things\_gettingstarted\_small](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg "getting started"){#t4-start}
-
-#### Thing 4: Data discovery
-
-**Getting started: **Repositories for data discovery
-
-</div>
-
-<div id="new_content_container_429978_429978">
-
-<div id="content_container_413286_413286">
-
-#### Thing 4: Data discovery
+### Repositories for data discovery
 
 Repositories enable discovery of data by publishing data descriptions
 ("metadata") about the data they hold - like a library catalogue
@@ -122,19 +102,9 @@ Go to [Thing
 Data sharing or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
-![23things\_learnmore\_small](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png "learn more"){#t4-learn}
+## Learn More 
 
-#### Thing 4: Data discovery
-
-**Learn More: **Finding data repositories
-
-</div>
-
-<div id="new_content_container_429981_429981">
-
-<div id="content_container_413290_413290">
-
-#### Thing 4: Data discovery
+### Finding data repositories
 
 What data repositories exist and how are Australian researchers sharing
 their data?
@@ -148,14 +118,6 @@ their data?
 **Consider:** one idea for how you think improved discovery of
 Australia's research data repositories, and the data records they
 contain, could be achieved.
-
-</div>
-
-</div>
-
-<div id="new_content_container_549841_549841">
-
-<div id="content_container_537013">
 
 Do you have a question?  Want to share a resource?
 
@@ -178,19 +140,10 @@ Go to [Thing
 5](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5 "Thing 5")
 Data sharing or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
-![23things\_challengeme\_small](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png "challenge me"){#t4-challenge}
 
-#### Thing 4: Data discovery
+## Challenge me
 
-**Challenge me:** Evaluating data repositories
-
-</div>
-
-<div id="new_content_container_429983_429983">
-
-<div id="content_container_413294_413294">
-
-#### Thing 4: Data discovery
+### Evaluating data repositories
 
 What makes a "good" data repository?
 
@@ -208,14 +161,6 @@ Have a look at one or both of these resources:
 repositories: have you used either or both of these resources? Would
 you?
 
-</div>
-
-</div>
-
-<div id="new_content_container_543493_543493">
-
-<div id="content_container_537013">
-
 Do you have a question?  Want to share a resource?
 
 -   Post to the[Data Librarians Google
@@ -234,35 +179,21 @@ Completion of Thing 4 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/66841/F9B-8BDC-B55)
 
-Go to [Thing
-5](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5 "Thing 5")
-Data sharing or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
+Go to [Thing 5](thing-5.md)
+Data sharing or to [All Things](index.md)
 
-    ### 23 (research data) Things poster {#timetable}
+### Repositories for data
 
-    [![23Things
-    Poster](https://www.ands.org.au/__data/assets/image/0018/412308/23-things-poster-thumb.png)](https://www.ands.org.au/__data/assets/pdf_file/0004/582484/23things_undated_poster_A4.pdf "23 things poster")
+![23T Badge
+-thing4](https://www.ands.org.au/__data/assets/image/0005/494114/23T-Badge-thing4.png)
 
-    -   [Email for multiple
-        copies](mailto:contact@ands.org.au?subject=Copies%20of%20the%2023%20Things%20poster)
-    -   [Print it
-        yourself](https://www.ands.org.au/__data/assets/pdf_file/0004/582484/23things_undated_poster_A4.pdf "23 things Poster")
-
-
-
-    ### Repositories for data
-
-    ![23T Badge
-    -thing4](https://www.ands.org.au/__data/assets/image/0005/494114/23T-Badge-thing4.png)
-
-    -   [Thing
-        4:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4)
-        Data discovery
-    -   [Thing
-        5:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5)
-        Data sharing
-    -   [Thing
-        6:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-6)
-        Curation & preservation
+-   [Thing
+    4:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4)
+    Data discovery
+-   [Thing
+    5:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5)
+    Data sharing
+-   [Thing
+    6:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-6)
+    Curation & preservation
