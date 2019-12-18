@@ -167,19 +167,19 @@ and the Semantic Web and what is all the hype about?
     [LinkedDataTools](http://www.linkeddatatools.com/semantic-web-basics).
 2.  Have a go at completing some or all of the five short  Semantic Web
     Primer tutorials (5 min):
-    1.  [Introducing Graph
+    1\.  [Introducing Graph
         Data](http://www.linkeddatatools.com/introducing-rdf "Introducing graph data")
-    2.  [Introducing
+    2\.  [Introducing
         RDF](http://www.linkeddatatools.com/introducing-rdf-part-2 "Introducing RDF")
-    3.  [Semantic
+    3\.  [Semantic
         Modeling](http://www.linkeddatatools.com/semantic-modeling "Semantic modeling")
-    4.  [Introducing RDFS &
+    4\.  [Introducing RDFS &
         OWL](http://www.linkeddatatools.com/introducing-rdfs-owl "Introducing RDFS&OWL")
-    5.  [Querying Semantic
+    5\.  [Querying Semantic
         Data](http://www.linkeddatatools.com/querying-semantic-data "Querying semantic data")
 
-**If you have time**: try out the free online RDF data validator in
-tutorial 4 to describe research objects.
+**If you have time**: try out W3C's free online [RDF data validator](http://www.w3.org/RDF/Validator/) (mentioned in
+[Introducing RDFS & OWL](http://www.linkeddatatools.com/introducing-rdfs-owl)) to describe any research objects familiar to you.
 
 **Consider:** how these tools could be used to support linked data.
 
