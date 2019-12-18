@@ -81,16 +81,6 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-
-![thing7 credly
-badge](https://www.ands.org.au/__data/assets/image/0006/516516/Badge-thing7.png)
-
-</div>
-
-Completion of Thing 7 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66844/182-F245-6DF)
-
 Go to [Thing 8](thing-8.md)
 Citation metrics for data or to [All Things](index.md)
 
@@ -121,23 +111,12 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-![thing7 credly
-badge](https://www.ands.org.au/__data/assets/image/0006/516516/Badge-thing7.png)
+Go to [Thing 8](thing-8.md)
+Citation metrics for data or to [All Things](index.md)
 
-</div>
+## Challenge me 
 
-Completion of Thing 7 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66844/182-F245-6DF)
-
-Go to [Thing
-8](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-8 "Thing 8")
-Citation metrics for data or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
-
-##Challenge me 
-
-###Data formats and data citation
+### Data formats and data citation
 
 Are some data formats more likely to be cited?
 
@@ -170,28 +149,10 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-![thing7 credly
-badge](https://www.ands.org.au/__data/assets/image/0006/516516/Badge-thing7.png)
-
-</div>
-
-Completion of Thing 7 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66844/182-F245-6DF)
-
-Go to [Thing
-8](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-8 "Thing 8")
-Citation metrics for data or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
-
+Go to [Thing 8](thing-8.md)
+Citation metrics for data or to [All Things](index.md)
 
 ### Data citation & impact
 
-![Badge-thing7](https://www.ands.org.au/__data/assets/image/0006/494133/Badge-thing7.png)
-
--   [Thing
-    7:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-7)
-    Citation
--   [Thing
-    8:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-8)
-    Metrics
+-   [Thing 7:](thing-7.md) Citation
+-   [Thing 8:](thing-8.md) Metrics
