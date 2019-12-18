@@ -91,10 +91,8 @@ Completion of Thing 7 means you've earned a digital badge!
 
 [Claim your badge](https://credly.com/claim/66844/182-F245-6DF)
 
-Go to [Thing
-8](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-8 "Thing 8")
-Citation metrics for data or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
+Go to [Thing 8](thing-8.md)
+Citation metrics for data or to [All Things](index.md)
 
 ## Learn more
 
