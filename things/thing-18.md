@@ -22,8 +22,7 @@ viewport: |
 ---
 
 # Thing 18: Data interviews: talk the talk
-
-**[Jump to Thing 19&gt;&gt;](thing-19.md)**
+**[&lt;&lt;Jump to Thing 17](thing-17.md) &nbsp; &nbsp; [Jump to Thing 19&gt;&gt;](thing-19.md)**
 
 Learn some tips and tricks for responding to data queries and starting a
 data conversation.
