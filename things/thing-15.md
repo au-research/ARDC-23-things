@@ -22,7 +22,7 @@ viewport: |
 ---
 # Thing 15: Data management plans
 
-**[Jump to Thing 16&gt;&gt;](thing-16.md)**
+**[&lt;&lt;Jump to Thing 14](thing-14.md) &nbsp; &nbsp; [Jump to Thing 16&gt;&gt;](thing-16.md)**
 
 Some research institutions and research funders now require researchers
 to submit a Data Management Plan (DMP) for new projects. What should a
