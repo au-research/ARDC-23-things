@@ -24,6 +24,7 @@ viewport: |
 ---
 #Thing 7: Data citation for access & attribution
 
+**[&lt;&lt;Jump to Thing 6](thing-6.md) &nbsp; &nbsp; [Jump to Thing 8&gt;&gt;](thing-8.md)**
 
 Citation analysis and citation metrics are important to the academic
 community. Find out where data fits in the citation picture.
@@ -227,5 +228,3 @@ Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things
     -   [Thing
         8:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-8)
         Metrics
-
-  
