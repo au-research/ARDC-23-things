@@ -61,11 +61,9 @@ that was used to create or analyse the data.
     correlated increases in rural mental health issues. The beauty of
     this record is that it shows the entirety of the research outputs -
     publications, software, related datasets and more - all of which are
-    citable.
+    citable. Has this dataset been cited yet?
 4.  Click on the ‘Cite’ button to see the similarities between the
-    formats for citation of data and other scholarly publications.  Did
-    you notice that, as yet, there are no citation metrics to this
-    record?
+    formats for citation of data and other scholarly publications. 
 
 **If you have time,** poke around [Dryad
 repository](http://datadryad.org) to see how it has integrated citation
@@ -142,7 +140,7 @@ passenger dataset they have provided.
 
 2\. What is your opinion about whether publishing data as a visualisation
 is likely to make the data more or less accessible, reusable and
-therefore citable.
+therefore citable?
 
 
 Do you have a question?  Want to share a resource?
