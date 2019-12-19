@@ -27,4 +27,5 @@ You can:
 * [Thing 1: Getting started with research data](things/thing-1.md)
 * [Thing 4: Data discovery](things/thing-4.md)
 * [Thing 7: Data citation for access and attribution](things/thing-7.md)
+* [Thing 9: Licensing data for reuse](things/thing-9.md)
 * [Thing 15: Data management plans](things/thing-15.md)

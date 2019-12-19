@@ -2,14 +2,18 @@
 HandheldFriendly: true
 author: ANDS
 description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
+    Consider this scenario: You’ve found a dataset you (or your client) is
+    interested in.  You’ve downloaded it. Excellent!  But do you know what
+    you (or your client) can and cannot do with the data?  The answer lies
+    in data licensing.  Licensing is critical to enabling data to be reused
+    and cited.
 keywords: 'data, research, research data, australia'
 og:description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
+    Consider this scenario: You’ve found a dataset you (or your client) is
+    interested in.  You’ve downloaded it. Excellent!  But do you know what
+    you (or your client) can and cannot do with the data?  The answer lies
+    in data licensing.  Licensing is critical to enabling data to be reused
+    and cited.
 og:site_name: ANDS
 og:title: 'Thing 9: Licensing data for reuse'
 og:type: website
