@@ -52,7 +52,7 @@ discoverable and accessible.
 ### Repositories for data discovery
 
 Repositories enable discovery of data by publishing data descriptions
-("metadata") about the data they hold - like a library catalogue
+("metadata") about the data they hold - like a library catalogues
 describes the materials held in a library.  Most repositories provide
 access to the data itself, but not always.
 
@@ -96,7 +96,7 @@ their data?
 
 -   Start by going to [re3data.org](http://www.re3data.org/)
 -   Click on Browse &gt; By Country &gt; click on Australia in the map
--   There are 87 repositories listed for Australia. Does this represent
+-   How many repositories are listed for Australia? Does this represent
     all the research data repositories Australia has to offer? Is
     anything missing?
 
