@@ -63,12 +63,8 @@ which may have commercial value to others - what license would you
 apply?
 
 Do you have a question?  Want to share a resource?
-
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 
 Go to [Thing
@@ -118,12 +114,8 @@ Does your institution have a policy or guidelines around data
 licensing?
 
 Do you have a question?  Want to share a resource?
-
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 Go to [Thing
 10](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10 "Thing 10")
@@ -153,12 +145,8 @@ be!
 for encouraging uptake of 'open' licensing.
 
 Do you have a question?  Want to share a resource?
-
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 
 
