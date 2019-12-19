@@ -48,7 +48,7 @@ is now possible to formally cite research datasets and even the software
 that was used to create or analyse the data.
 
 1.  Start by looking back to the [Weddell Seal
-    dataset](https://researchdata.ands.org.au/measuring-effects-human-leptonychotes-weddellii/640511 "Wendell seal dataset")
+    dataset](https://researchdata.ands.org.au/measuring-effects-human-leptonychotes-weddellii/699460 "Wendell seal dataset")
     we explored in Thing 4.  Check out how many times it has been cited.
     This citation count has been measured by Thomson Reuters Data
     Citation Index product.
