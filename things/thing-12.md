@@ -80,19 +80,6 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
--------------------
-
-<div class="imgCaption imgFloatLeft" style="width:235px;">
-
-![thing12 credly
-badge](https://www.ands.org.au/__data/assets/image/0020/523541/Badge-thing12.png)
-
-</div>
-
-Completion of Thing 12 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66854/C0F-A749-56A)
-
 Go to [Thing
 13](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13 "Thing 13")
 Walk the crosswalk or [All
@@ -122,20 +109,6 @@ RVA.
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
-
-
-------------------------------------------------------------------------
-
-<div class="imgCaption imgFloatLeft" style="width:235px;">
-
-![thing12 credly
-badge](https://www.ands.org.au/__data/assets/image/0020/523541/Badge-thing12.png)
-
-</div>
-
-Completion of Thing 12 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66854/C0F-A749-56A)
 
 Go to [Thing
 13](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13 "Thing 13")
@@ -172,20 +145,6 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-
-------------------------------------------------------------------------
-
-<div class="imgCaption imgFloatLeft" style="width:235px;">
-
-![thing12 credly
-badge](https://www.ands.org.au/__data/assets/image/0020/523541/Badge-thing12.png)
-
-</div>
-
-Completion of Thing 12 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66854/C0F-A749-56A)
-
 Go to [Thing
 13](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13 "Thing 13")
 Walk the crosswalk or [All
@@ -198,9 +157,6 @@ Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things
 
 Data is only as valuable as the metadata which describes and
 connects it.
-
-![23T Credly badge - Thing
-11](https://www.ands.org.au/__data/assets/image/0010/493264/23T-Badge-thing11.png)
 
 -   [Thing
     11](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11"):
