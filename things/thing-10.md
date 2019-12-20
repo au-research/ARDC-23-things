@@ -17,9 +17,9 @@ viewport: |
     user-scalable=0
 ---
 
-### [&lt;&lt;Thing 9](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-9 "Thing 9 ") [Thing 11&gt;&gt;](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11")
+#Thing 10: Sharing sensitive data
 
-[Thing 10: Sharing sensitive data](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10)
+**[&lt;&lt;Jump to Thing 9](thing-9.md) &nbsp; &nbsp; [Jump to Thing 11&gt;&gt;](thing-11.md)**
 
 Sharing sensitive data requires careful consideration, but it can be
 done.  Find out how.
@@ -30,29 +30,17 @@ done.  Find out how.
 -   **Challenge me:** Make me anonymous
 
 
-[![Getting
-started](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10#t10-start)[![Learn
-More](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10#t10-learn)[![Challenge
-me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10#t10-challenge)
+* [Getting started](#getting-started)
+* [Learn more](#learn-more)
+* [Challenge me](#challenge-me)
 
-**Thing 10 - Sharing sensitive data**
+## Getting started 
 
-**Getting started: ** Sensitive data *can* be shared!
+### Sensitive data *can* be shared!
 
-</div>
-
-<div id="new_content_container_487491_487491">
-
-<div id="content_container_433232">
-
-#### Thing 10: Sharing sensitive data
-
-M[ajor, familiar, categories of sensitive data are
-]{style="font-size: 0.98em; line-height: 1.25;"}**human data**[ (eg
-health and personal data, secret or sacred practices); or
-]{style="font-size: 0.98em; line-height: 1.25;"} **ecological data** [
-(may place vulnerable species at
-risk).]{style="font-size: 0.98em; line-height: 1.25;"}
+Major, familiar, categories of sensitive data are
+**human data** (eg health and personal data, secret or sacred practices); or
+**ecological data** (may place vulnerable species at risk)
 
 Given the nature of this type of data, you might expect that it can’t be
 shared and reused. But in many cases, it can be.
@@ -69,7 +57,7 @@ shared and reused. But in many cases, it can be.
     Women’s Health data has been successfully published for almost 20
     years.
 
-2\. **How do you share and publish sensitive data?**
+2\. How do you share and publish sensitive data?
 
 -   Scan the ANDS [sensitive
     data](https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data)
@@ -118,17 +106,9 @@ Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things
 ![Learn
 more](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png){#t10-learn}
 
-**Thing 10 - Sharing sensitive data**
+## Learn more
 
-**Learn more: **The ethics of sensitive data
-
-</div>
-
-<div id="new_content_container_487499_487499">
-
-<div id="content_container_433236_433236">
-
-#### Thing 10: Sharing sensitive data
+### The ethics of sensitive data
 
 How we manage sensitive data through its lifecycle and who has a role in
 ensuring sensitive data is appropriately managed and shared are critical
@@ -180,11 +160,10 @@ Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things
 ![Challenge
 me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png){#t10-challenge}
 
-**Thing 10 - Sharing sensitive data**
+## Challenge me
 
-**Challenge me:** Anonymising sensitive data
+###Anonymising sensitive data
 
-#### Thing 10: Sharing sensitive data
 
 De-identification (also called anonymisation or confidentialisation in
 some cases) is most commonly undertaken to protect the privacy of
@@ -218,7 +197,6 @@ Do you have a question?  Want to share a resource?
 ![thing10 credly
 badge](https://www.ands.org.au/__data/assets/image/0009/516537/Badge-thing10.png)
 
-</div>
 
 Completion of Thing 10 means you've earned a digital badge!
 
