@@ -89,22 +89,11 @@ Do you have a question?  Want to share a resource?
 -   Tweet to
     [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
-![thing10 credly
-badge](https://www.ands.org.au/__data/assets/image/0009/516537/Badge-thing10.png)
-
-</div>
-
-Completion of Thing 10 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66850/68A-502F-AF9)
-
 Go to [Thing
 11](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11")
 What's my metadata schema? or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
-![Learn
-more](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png){#t10-learn}
 
 ## Learn more
 
@@ -142,23 +131,12 @@ Do you have a question?  Want to share a resource?
     [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
 
-
-![thing10 credly
-badge](https://www.ands.org.au/__data/assets/image/0009/516537/Badge-thing10.png)
-
-Completion of Thing 10 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66850/68A-502F-AF9)
-
 Go to [Thing
 11](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11")
 What's my metadata schema? or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
 
-
-![Challenge
-me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png){#t10-challenge}
 
 ## Challenge me
 
@@ -193,14 +171,6 @@ Do you have a question?  Want to share a resource?
 -   Tweet to
     [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
-
-![thing10 credly
-badge](https://www.ands.org.au/__data/assets/image/0009/516537/Badge-thing10.png)
-
-
-Completion of Thing 10 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66850/68A-502F-AF9)
 
 Go to [Thing
 11](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11")
