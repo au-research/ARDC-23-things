@@ -2,14 +2,14 @@
 HandheldFriendly: true
 author: ANDS
 description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
+    Data descriptor, keyword, subject … these are all terms commonly used
+    when discussing metadata.  Learn about the use of controlled
+    vocabularies to enhance data discovery.
 keywords: 'data, research, research data, australia'
 og:description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
+    Data descriptor, keyword, subject … these are all terms commonly used
+    when discussing metadata.  Learn about the use of controlled
+    vocabularies to enhance data discovery.
 og:site_name: ANDS
 og:title: 'Thing 12: Vocabularies for data description'
 og:type: website
