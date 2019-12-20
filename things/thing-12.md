@@ -36,23 +36,13 @@ vocabularies to enhance data discovery.
     service and widget
 
 
-[![getting
-started](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12#t12-start)[![Learn
-more](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12#t12-learn)[![challenge
-me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12#t12-challenge)
+* [Getting started](#getting-started)
+* [Learn more](#learn-more)
+* [Challenge me](#challenge-me)
 
-![getting
-started](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg){#t12-start}
+## Getting started: 
 
-**Thing 12: Vocabularies for data description**
-
-**Getting started: **Controlled vocabularies for data description
-
-</div>
-
-<div id="new_content_container_497764">
-
-<div id="content_container_433289_433289">
+###Controlled vocabularies for data description
 
 In addition to selecting a metadata standard or schema, whenever
 possible you should also use a controlled vocabulary. A controlled
@@ -112,19 +102,9 @@ Go to [Thing
 Walk the crosswalk or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
+## Learn more
 
-![Learn
-more](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png){#t12-learn}
-
-**Thing 12: Vocabularies for data description**
-
-**Learn more: **What controlled vocabularies exist?
-
-</div>
-
-<div id="new_content_container_497783">
-
-<div id="content_container_433293_433293">
+### What controlled vocabularies exist?
 
 Think about (or find out!) what standard vocabularies are used, or could
 be used, by research groups in a discipline which interests you. Note
@@ -171,19 +151,9 @@ Walk the crosswalk or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
 
+## Challenge me 
 
-![Challenge
-me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png){#t12-challenge}
-
-**Thing 12: Vocabularies for data description**
-
-**Challenge me: **Supporting multiple vocabularies
-
-</div>
-
-<div id="new_content_container_497800">
-
-<div id="content_container_433297_433297">
+### Supporting multiple vocabularies
 
 The Science Keyword Aggregator has been developed by CSIRO and released
 as open source to allow others to adapt and reuse. It is a service that
@@ -236,23 +206,23 @@ Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things
 ------------------------------------------------------------------------
 
 
-    ### Metadata & more
+### Metadata & more
 
-    Data is only as valuable as the metadata which describes and
-    connects it.
+Data is only as valuable as the metadata which describes and
+connects it.
 
-    ![23T Credly badge - Thing
-    11](https://www.ands.org.au/__data/assets/image/0010/493264/23T-Badge-thing11.png)
+![23T Credly badge - Thing
+11](https://www.ands.org.au/__data/assets/image/0010/493264/23T-Badge-thing11.png)
 
-    -   [Thing
-        11](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11"):
-        Metadata
-    -   [Thing
-        12](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12 "Thing 12"):
-        Vocabularies
-    -   [Thing
-        13](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13 "Thing 13"):
-        Crosswalks
-    -   [Thing
-        14](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-14 "Thing 14"):
-        Identifiers
+-   [Thing
+    11](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11"):
+    Metadata
+-   [Thing
+    12](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12 "Thing 12"):
+    Vocabularies
+-   [Thing
+    13](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13 "Thing 13"):
+    Crosswalks
+-   [Thing
+    14](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-14 "Thing 14"):
+    Identifiers
