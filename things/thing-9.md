@@ -69,7 +69,7 @@ Do you have a question?  Want to share a resource?
 Go to [Thing 10](thing-10.md)
 Sharing sensitive data or to [All Things](index.md)
 
-## Learn more: 
+## Learn more 
 
 ### Data licenses: unlock data for innovation
 
@@ -117,9 +117,9 @@ Do you have a question?  Want to share a resource?
 Go to [Thing 10](thing-10.md)
 Sharing sensitive data or to [All Things](index.md)
 
-##Challenge me
+## Challenge me
 
-###Data licensing in practice
+### Data licensing in practice
 
 Not all research data that is shared is licensed for reuse. It should
 be!
