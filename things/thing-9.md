@@ -52,11 +52,10 @@ and cited.
     in NZ at
     [NZGOAL](https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/)
 2.  Now have a closer look at the
-    [poster](http://creativecommons.org.au/content/LicencePoster_Sep20151.pdf)
-    from creativecommons.org.  Click on the descriptions for more
+    [fact sheet](https://creativecommons.org.au/materials/factsheets/cc-licences.pdf) from creativecommons.org.  Click on the descriptions for more
     information.  Notice they have used CC BY as the licensing
-    information at the bottom of the poster so you know what you can do
-    with the poster itself.
+    information at the bottom of the fact sheet so you know what you can do
+    with the fact sheet itself.
 
 **Consider:** If you were considering licensing a dataset on something
 which may have commercial value to others - what license would you
