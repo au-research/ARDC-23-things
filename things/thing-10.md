@@ -47,10 +47,10 @@ shared and reused. But in many cases, it can be.
 
 1\. **Explore** one of these examples of published sensitive data:
 
--   [Pregnancy and Lifestyle
-    dataset](https://researchdata.ands.org.au/de-identified-dataset-reproductive-outcome/617280/)
+-   [The Pregnancy and Lifestyle
+    dataset](https://data.unisa.edu.au/dap/dataset.aspx?datasetid=96137)
     shows how sensitive, de-identified data can be safely and openly
-    shared. Click on “Go to Data Provider” to see the actual data.
+    shared.
 -   This [one page
     story](https://www.ands.org.au/working-with-data/publishing-and-reusing-data/data-reuse/benefiting-womens-health)
     tells how sensitive data from the Australian Longitudinal Study of
@@ -125,7 +125,7 @@ What's my metadata schema? or to [All Things](index.md)
 
 ## Challenge me
 
-###Anonymising sensitive data
+### Anonymising sensitive data
 
 
 De-identification (also called anonymisation or confidentialisation in
