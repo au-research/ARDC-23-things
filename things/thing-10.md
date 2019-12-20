@@ -2,14 +2,10 @@
 HandheldFriendly: true
 author: ANDS
 description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
+    Sharing sensitive data requires careful consideration, but it can be done.  Find out how.
 keywords: 'data, research, research data, australia'
 og:description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
+    Sharing sensitive data requires careful consideration, but it can be done.  Find out how.
 og:site_name: ANDS
 og:title: 'Thing 10: Sharing sensitive data'
 og:type: website
