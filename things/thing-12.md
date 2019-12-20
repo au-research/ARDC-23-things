@@ -80,10 +80,8 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing
-13](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13 "Thing 13")
-Walk the crosswalk or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
+Go to [Thing 13](thing-13.md "Thing 13")
+Walk the crosswalk or to [All Things](index.md)
 
 ## Learn more
 
@@ -110,10 +108,8 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing
-13](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13 "Thing 13")
-Walk the crosswalk or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
+Go to [Thing 13](thing-13.md "Thing 13")
+Walk the crosswalk or to [All Things](index.md)
 
 
 ## Challenge me 
@@ -145,10 +141,8 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing
-13](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13 "Thing 13")
-Walk the crosswalk or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
+Go to [Thing 13](thing-13.md "Thing 13")
+Walk the crosswalk or to [All Things](index.md)
 
 ------------------------------------------------------------------------
 
@@ -158,15 +152,7 @@ Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things
 Data is only as valuable as the metadata which describes and
 connects it.
 
--   [Thing
-    11](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11"):
-    Metadata
--   [Thing
-    12](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12 "Thing 12"):
-    Vocabularies
--   [Thing
-    13](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13 "Thing 13"):
-    Crosswalks
--   [Thing
-    14](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-14 "Thing 14"):
-    Identifiers
+-   [Thing 11](thing-11.md): Metadata
+-   [Thing 12](thing-12.md): Vocabularies
+-   [Thing 13](thing-13.md): Crosswalks
+-   [Thing 14](thing-14.md): Identifiers
