@@ -64,7 +64,7 @@ shared and reused. But in many cases, it can be.
     webpage.
 
 [![Sensitive data
-tree](https://www.ands.org.au/__data/assets/image/0005/385358/sensitive-data-decision-tree.png)](https://www.ands.org.au/__data/assets/pdf_file/0010/385309/sensitive-decision-tree.pdf)
+tree](../images/sensitive-data-decision-tree.png)](https://www.ands.org.au/__data/assets/pdf_file/0010/385309/sensitive-decision-tree.pdf)
 
 -   **If you have time**: follow a couple of the links on the sensitive
     data page which are of particular interest to you.
