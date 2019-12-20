@@ -82,12 +82,8 @@ survey:
 
 
 Do you have a question?  Want to share a resource?
-
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 Go to [Thing 11](thing-11.md)
 What's my metadata schema? or to [All Things](index.md)
@@ -120,12 +116,8 @@ based on a research project you a familiar with.
 
 
 Do you have a question?  Want to share a resource?
-
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 Go to [Thing 11](thing-11.md)
 What's my metadata schema? or to [All Things](index.md)
@@ -157,12 +149,8 @@ findings or endangered species.
 might not be needed or appropriate?
 
 Do you have a question?  Want to share a resource?
-
--   Post to the[Data Librarians Google
-    Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to
-    [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 Go to [Thing 11](thing-11.md)
 What's my metadata schema? or to [All Things](index.md)
