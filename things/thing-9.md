@@ -67,10 +67,8 @@ Do you have a question?  Want to share a resource?
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
 
-Go to [Thing
-10](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10 "Thing 10")
-Sharing sensitive data or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
+Go to [Thing 10](thing-10.md)
+Sharing sensitive data or to [All Things](index.md)
 
 ## Learn more: 
 
@@ -117,10 +115,8 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing
-10](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10 "Thing 10")
-Sharing sensitive data or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
+Go to [Thing 10](thing-10.md)
+Sharing sensitive data or to [All Things](index.md)
 
 ##Challenge me
 
@@ -148,18 +144,10 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-
-
-Go to [Thing
-10](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10 "Thing 10")
-Sharing sensitive data or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
+Go to [Thing 10](thing-10.md)
+Sharing sensitive data or to [All Things](index.md)
 
 ### Rights, ethics & sensitive data
 
--   [Thing
-    9:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-9)
-    Licensing
--   [Thing
-    10:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10)
-    Sensitive data
+-   [Thing 9:](thing-9.md) Licensing
+-   [Thing 10:](thing-10.md) Sensitive data
