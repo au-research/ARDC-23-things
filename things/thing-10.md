@@ -89,11 +89,8 @@ Do you have a question?  Want to share a resource?
 -   Tweet to
     [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
-Go to [Thing
-11](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11")
-What's my metadata schema? or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
-
+Go to [Thing 11](thing-11.md)
+What's my metadata schema? or to [All Things](index.md)
 
 ## Learn more
 
@@ -130,12 +127,8 @@ Do you have a question?  Want to share a resource?
 -   Tweet to
     [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
-
-Go to [Thing
-11](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11")
-What's my metadata schema? or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
-
+Go to [Thing 11](thing-11.md)
+What's my metadata schema? or to [All Things](index.md)
 
 
 ## Challenge me
@@ -171,21 +164,10 @@ Do you have a question?  Want to share a resource?
 -   Tweet to
     [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
 
-
-Go to [Thing
-11](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-11 "Thing 11")
-What's my metadata schema? or [All
-Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
-
-
+Go to [Thing 11](thing-11.md)
+What's my metadata schema? or to [All Things](index.md)
 
 ### Rights, ethics & sensitive data
 
-![Badge-thing9](https://www.ands.org.au/__data/assets/image/0007/494134/Badge-thing9.png)
-
--   [Thing
-    9:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-9)
-    Licensing
--   [Thing
-    10:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10)
-    Sensitive data
+-   [Thing 9:](thing-9.md) Licensing
+-   [Thing 10:](thing-10.md) Sensitive data
