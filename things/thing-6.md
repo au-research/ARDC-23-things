@@ -63,10 +63,9 @@ researcher, yourself?
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 7](thing-7.md)
-Data citation for access & attribution or to [All Things](index.md)
+Go to [Thing 7](thing-7.md) Data citation for access & attribution or to [All Things](index.md)
 
 ## Learn more
 ### A model for data curation, preservation and archiving
@@ -85,7 +84,7 @@ for data repositories?
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 Go to [Thing 7](thing-7.md)
 Data citation for access & attribution or to [All Things](index.md)
@@ -125,10 +124,10 @@ to profile a small number of files.
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 Go to [Thing 7](thing-7.md)
-Data citation for access & attribution or to [All Things](index.md)Go to [Thing 7](thing-7.md)
+Data citation for access & attribution or to [All Things](index.md)
 
 ### Repositories for data
 
