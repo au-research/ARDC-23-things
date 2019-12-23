@@ -42,7 +42,7 @@ vocabularies to enhance data discovery.
 
 ## Getting started: 
 
-###Controlled vocabularies for data description
+### Controlled vocabularies for data description
 
 In addition to selecting a metadata standard or schema, whenever
 possible you should also use a controlled vocabulary. A controlled
@@ -60,10 +60,9 @@ from JISC in the UK. Make sure you scroll down to *5. Conclusion* - it’s
 worth a read.
 
 2\. We are going to see some controlled vocabularies in action in
-the Atlas of Living Australia. We are going to use [Browse
-Datasets](http://www.ala.org.au/data-sets/ "ALA"): type *text:magpie* in
-the search box. Choose your favourite magpie species and click on the
-(red text) *View record* link. Any metadata field where you see
+the Atlas of Living Australia. We are going to use the [Species Search](https://bie.ala.org.au/ "ALA"): type *text:magpie* in
+the search box. Choose your favourite magpie species and click on the red *View Records* button under the occurrence records map. Pick a record and click on the
+*View record* link. Any metadata field where you see
 *Supplied...* tells you that the information supplied by the person who
 submitted the record (often a 'citizen scientist') has been changed to
 the controlled vocabulary being used in metadata fields e.g. Observer,
