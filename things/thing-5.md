@@ -49,12 +49,10 @@ access conditions.
 
 1.  Watch this 2.5 minute [video](https://vimeo.com/125783029)from the
     Open Data Institute titled *Open/Closed/Shared: the world of data.*
-2.  Now open [this
-    page](https://www.ands.org.au/working-with-data/articulating-the-value-of-open-data/open-data "Value of open data")
+2.  Now open [this page](https://www.ands.org.au/working-with-data/articulating-the-value-of-open-data/open-data "Value of open data")
     to see a more in-depth view of why data is sometimes open, shared or
     closed.
-3.  If you have time, go to [Research Data
-    Australia](https://researchdata.ands.org.au) and try searching for
+3.  If you have time, go to [Research Data Australia](https://researchdata.ands.org.au) and try searching for
     data that is 'open'. Hint: Look for the option to limit your search
     to data that is publicly accessible online.
 
@@ -62,10 +60,9 @@ access conditions.
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 6](thing-6.md)
-Data sharing or to [All Things](index.md)
+Go to [Thing 6:](thing-6.md) "Long-lived data: curation & preservation" or to [All Things](index.md)
 
 ## Learn more
 
@@ -73,7 +70,7 @@ Data sharing or to [All Things](index.md)
 
 Repositories are one means by which research data may be shared.
 
-1.  Take a look at these infographics from Wiley titled [*Research Data Sharing Insights*](http://www.acscinf.org/PDF/Giffi-%20Researcher%20Data%20Insights%20--%20Infographic%20FINAL%20REVISED.pdf) \[PDF, 2.08MB\], and [Global Data Sharing Trends](https://www.ands.org.au/__data/assets/pdf_file/0011/962282/Wiley-Global-Data-Sharing-Infographic-June-2017.pdf "Wiley - Global Data Sharing Trends"). They provide a succinct overview of current data sharing practice and perceptions.
+1.  Take a look at these infographics from Wiley titled [*Research Data Sharing Insights*](http://doi.org/10.6084/m9.figshare.3555993.v1) \[PDF, 2.08MB\], and [Global Data Sharing Trends](https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/Wiley%20Global%20Data%20Sharing%20Infographic%20June%202017.pdf "Wiley - Global Data Sharing Trends"). They provide a succinct overview of current data sharing practice and perceptions.
 2.  Now look closely at the sections titled 'Global Data Sharing Trends' and 'Data Sharing By Discipline'
 
 **Consider:** Why do you think there are differences between disciplines
@@ -82,10 +79,9 @@ between 2014 and now?
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 5](thing-5.md)
-Data sharing or to [All Things](index.md)
+Go to [Thing 6:](thing-6.md) "Long-lived data: curation & preservation" or to [All Things](index.md)
 
 ## Challenge me
 ### Tools to preserve research data
@@ -109,10 +105,9 @@ feasible it is to expect such preservation tools to be widely used?
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 5](thing-5.md)
-Data sharing or to [All Things](index.md)
+Go to [Thing 6:](thing-6.md) "Long-lived data: curation & preservation" or to [All Things](index.md)
 
 ### Repositories for data
 
