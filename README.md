@@ -28,4 +28,6 @@ You can:
 * [Thing 4: Data discovery](things/thing-4.md)
 * [Thing 7: Data citation for access and attribution](things/thing-7.md)
 * [Thing 9: Licensing data for reuse](things/thing-9.md)
+* [Thing 10: Sharing sensitive data](things/thing-10.md)
+* [Thing 12: Controlled vocabularies for data description](things/thing-12.md)
 * [Thing 15: Data management plans](things/thing-15.md)
