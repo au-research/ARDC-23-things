@@ -47,9 +47,7 @@ a range of other research inputs and outputs. There are over 120 million
 DOIs in use, and last year DOIs were “resolved” (clicked on) over five
 billion times.
 
-Each DOI is unique but a typical DOI looks like this:
-
-`https://doi.org/10.4225/08/50F62E0D359D5`
+Each DOI is unique but a typical DOI looks like this: <https://doi.org/10.4225/08/50F62E0D359D5>
 
 DOIs can be used to collect citation metrics about the use of a dataset
 or article.
@@ -61,8 +59,7 @@ or article.
 2.  Have a look at the poster below (opens to an A4 size) - follow the
     arrows to see how DOIs are attached to data sets.\
     [![data citation
-    poster](https://www.ands.org.au/__data/assets/image/0008/471185/data-citation-poster-small.png){width="250"
-    height="176"}](https://www.ands.org.au/__data/assets/pdf_file/0003/383025/data_citation_poster.pdf "data citation poster")
+    poster](https://www.ands.org.au/__data/assets/image/0008/471185/data-citation-poster-small.png)](https://www.ands.org.au/__data/assets/pdf_file/0003/383025/data_citation_poster.pdf "data citation poster")
 3.  This CSIRO data record shows how DOIs are used. Click on this DOI to
     ‘resolve’ the DOI and be taken to the record:
     <https://doi.org/10.4225/08/50F62E0D359D5>\
@@ -70,7 +67,7 @@ or article.
     the DOI is used in this data record. It will give you some idea why
     DOIs are given such prominence.
 4.  This [same
-    record](https://researchdata.ands.org.au/time-series-plankton-loganaposs-dam "time series plankton record")has
+    record](https://researchdata.ands.org.au/time-series-plankton-loganaposs-dam "time series plankton record") has
     been syndicated to Research Data Australia. Click on the Cite icon
     on the upper left of the record (under the green button Access the
     Data). Then click on the DOI in the data citation. No matter where
@@ -114,7 +111,7 @@ By way of comparison, as of early November 2018:
 -   the same dataset had been cited once in Web of Science Data Citation
     Index
 -   the article had been cited 690 times in [Web of
-    Science](http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=2&SID=E4hcr2sIg7gEPv5OcTf&page=1&doc=3 "Web of science - citation of Phylogenomics paper")
+    Science](http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=2&SID=E4hcr2sIg7gEPv5OcTf&page=1&doc=3 "Web of science - citation of Phylogenomics paper") (requires log in)
 
 **Consider:** Do you think altmetrics for data have value in academic
 settings?  Why, or why not?
@@ -134,8 +131,8 @@ and grey literature. The service is intended for use by publicly funded
 Australian  research organisations and is available as a
 machine-to-machine or manual service.
 
-1.  Start by reading an overview of the [ANDS DOI
-    service](https://www.ands.org.au/online-services/doi-service "DOI service")
+1.  Start by reading an overview of the [ARDC DOI
+    service](https://ardc.edu.au/services/identifier/doi/ "DOI service")
     and perhaps the ANDS DOI service [technical
     documentation](https://documentation.ands.org.au/display/DOC/DOI+Service).
 2.  Consider also the need for guidelines around when a DOI will be
@@ -171,18 +168,3 @@ Go to [Thing 9](thing-9.md) Licensing data for reuse or to [All Things](index.md
 
 -   [Thing 7:](thing-7.md) Citation
 -   [Thing 8:](thing-8.md) Metrics
-
-### Building a culture of data citation
-
-    [![data citation
-    poster](https://www.ands.org.au/__data/assets/image/0018/472212/data-citation-150px.png)](https://www.ands.org.au/__data/assets/pdf_file/0003/383025/data_citation_poster.pdf "data citation poster")
-
--   [Read the poster](https://www.ands.org.au/__data/assets/pdf_file/0003/383025/data_citation_poster.pdf "data citation poster")
-
-### Data citation toolkit
-
--   [ANDS Guide - Digital Object Identifier (DOI) System for research data](https://www.ands.org.au/guides/doi "DOIs - ANDS Guide")
--   [ANDS Guide - Data citation](https://www.ands.org.au/guides/data-citation-awareness "ANDS Guide - Data citation")
--   [Data Citation](https://www.ands.org.au/working-with-data/citation-and-identifiers/data-citation "Data Citation ")
--   [Implementing Data Citation for Institutions](https://www.ands.org.au/working-with-data/citation-and-identifiers/data-citation/data-citation-for-institutions "Data Citation for Institutions")
--   [Implementing Data Citation for Researchers](https://www.ands.org.au/working-with-data/citation-and-identifiers/data-citation/data-citation-for-researchers "Data Citation for Researchers")
