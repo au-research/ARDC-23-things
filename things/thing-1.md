@@ -77,17 +77,9 @@ What "research data" are we talking about?
 **Consider:** how the complexity and range of data formats affect access
 and reuse possibilities.
 
-Do you have a question?  Want to share a resource?
-
--   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
-
-![thing1 credly badge](../images/Badge-thing1.png)
-
-Completion of Thing 1 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/65861/085-033C-95D)
+Do you have a question?  Want to share a resource?
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
 
 Go to [Thing 2](thing-2.md "thing 2")
 Issues in research data management or to [All Things](index.md)
@@ -114,17 +106,9 @@ with, for example, in format, size and access method.
 discipline data conventions, and also think about one way cross
 disciplinary data access can be facilitated.
 
-Do you have a question?  Want to share a resource?
-
--   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
-
-![thing1 credly badge](../images/Badge-thing1.png)
-
-Completion of Thing 1 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/65861/085-033C-95D)
+Do you have a question?  Want to share a resource?
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
 
 Go to [Thing 2](thing-2.md "thing 2")
 Issues in research data management or to [All Things](index.md)
@@ -150,26 +134,13 @@ What is:
 **Consider:** a personal audit on what data technical skills you have,
 and what skills you want to learn.
 
-Do you have a question?  Want to share a resource?
-
--   Post to the [Data Librarians Google Group](https://plus.google.com/u/0/communities/105455769899183786145)
-    to connect with the community.
--   Tweet to [@ands\_nectar\_rds](http://twitter.com/ands_nectar_rds "ANDS Nectar RDS on Twitter")
-
-![thing1 credly badge](../images/Badge-thing1.png)
-
-Completion of Thing 1 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/65861/085-033C-95D)
-
-Go to [Thing 2](thing-2.md)
-Issues in research data management or to [All Things](index.md)
+Do you have a question?  Want to share a resource?
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
 
 ### Ready, set, data
 
 Kick off your research data journey with some data basics.
-
-![23T-Badge Thing 1](../images/23T-Badge-thing1.png)
 
 * [Thing 1](thing-1.md "Thing 1"): Start
 * [Thing 2](thing-2.md "Thing 2"): RDM Issues
