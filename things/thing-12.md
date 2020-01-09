@@ -77,7 +77,7 @@ controlled vocabularies in their data descriptions?
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 Go to [Thing 13](thing-13.md "Thing 13")
 Walk the crosswalk or to [All Things](index.md)
@@ -105,7 +105,7 @@ RVA.
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 Go to [Thing 13](thing-13.md "Thing 13")
 Walk the crosswalk or to [All Things](index.md)
@@ -138,7 +138,7 @@ organisation? How would you use it?
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 Go to [Thing 13](thing-13.md "Thing 13")
 Walk the crosswalk or to [All Things](index.md)
