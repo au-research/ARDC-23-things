@@ -83,7 +83,7 @@ survey:
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 Go to [Thing 11](thing-11.md)
 What's my metadata schema? or to [All Things](index.md)
@@ -117,7 +117,7 @@ based on a research project you a familiar with.
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 Go to [Thing 11](thing-11.md)
 What's my metadata schema? or to [All Things](index.md)
@@ -150,7 +150,7 @@ might not be needed or appropriate?
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 Go to [Thing 11](thing-11.md)
 What's my metadata schema? or to [All Things](index.md)
