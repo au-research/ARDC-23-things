@@ -31,3 +31,4 @@ You can:
 * [Thing 8: Metrics](thing/thing-8.md)
 * [Thing 7: Data citation for access and attribution](things/thing-7.md)
 * [Thing 15: Data management plans](things/thing-15.md)
+* [Thing 20: Do it with data](things/thing-15.md)
