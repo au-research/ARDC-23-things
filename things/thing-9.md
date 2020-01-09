@@ -18,7 +18,7 @@ viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0
 ---
-#Thing 9: Licensing data for reuse
+# Thing 9: Licensing data for reuse
 
 **[&lt;&lt;Jump to Thing 8](thing-8.md) &nbsp; &nbsp; [Jump to Thing 10&gt;&gt;](thing-10.md)**
 
@@ -63,7 +63,7 @@ apply?
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 
 Go to [Thing 10](thing-10.md)
@@ -72,12 +72,6 @@ Sharing sensitive data or to [All Things](index.md)
 ## Learn more 
 
 ### Data licenses: unlock data for innovation
-
-</div>
-
-<div id="new_content_container_478385">
-
-<div id="content_container_433216_433216">
 
 Enabling reuse of data can speed up research and innovation.  Licensing
 is critical to enabling data reuse.
@@ -112,7 +106,7 @@ licensing?
 
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
 Go to [Thing 10](thing-10.md)
 Sharing sensitive data or to [All Things](index.md)
