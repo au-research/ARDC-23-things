@@ -28,6 +28,7 @@ You can:
 * [Thing 4: Data discovery](things/thing-4.md)
 * [Thing 5: Data Sharing](things/thing-5.md)
 * [Thing 6: Curation & Preservation](thing/thing-6.md)
-* [Thing 8: Metrics](thing/thing-8.md)
 * [Thing 7: Data citation for access and attribution](things/thing-7.md)
+* [Thing 8: Metrics](thing/thing-8.md)
 * [Thing 15: Data management plans](things/thing-15.md)
+* [Thing 17: Literacy & outreach](things/thing-17.md)
