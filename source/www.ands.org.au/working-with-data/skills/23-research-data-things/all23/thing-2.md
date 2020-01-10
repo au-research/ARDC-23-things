@@ -1,34 +1,18 @@
 ---
-HandheldFriendly: true
-author: ANDS
+author: ARDC
 description: |
-    Thing 2: Issues in research data management Research data is for
-    everyone. Governments and universities all around Australia and the
-    world are now encouraging researchers to better manage their data so
-    others can use it. Research data might be critical to solving the big
-    questions of our time, but so much data are being lost or poorly
-    managed.
+    Research data is for everyone. Governments and universities all around
+    Australia and the world are now encouraging researchers to better manage
+    their data so others can use it. Research data might be critical to
+    solving the big questions of our time, but so much data are being lost 
+    or poorly managed.
 keywords: 'Thing 2, data, research, research data, australia'
-og:description: |
-    Thing 2: Issues in research data management Research data is for
-    everyone. Governments and universities all around Australia and the
-    world are now encouraging researchers to better manage their data so
-    others can use it. Research data might be critical to solving the big
-    questions of our time, but so much data are being lost or poorly
-    managed.
-og:site_name: ANDS
-og:title: 'Thing 2: Issues in research data management'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-2'
-robots: 'index,follow'
-title: 'Thing 2: Issues in research data management - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+title: 'Issues in research data management'
+
 ---
 # Thing 2: Issues in research data management
 
-**[Jump to Thing 3&gt;&gt;](thing-3.md)**
+**[&lt;&lt;Jump to Thing 1](thing-1.md) [Jump to Thing 3&gt;&gt;](thing-3.md)**
 
 Research data is critical to solving the big questions of our time.  So
 what are some of the issues we face in managing research data?
@@ -41,7 +25,6 @@ what are some of the issues we face in managing research data?
     Notebook?
 
 ## Getting started
-
 ### Managing data for reuse
 
 Research data is for everyone. Governments and universities all around
@@ -74,20 +57,12 @@ could have been avoided.
 
 Do you have a question? Want to share a resource?
 
-Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-Tweet to [@ardc_au](https://twitter.com/ardc_au) using \#23things
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ardc_au) using \#23things
 
-[thing1 credly badge](../images/Badge-thing2.png)
-
-Completion of Thing 2 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66836/72E-425C-EA6)
-
-Go to [Thing 3](thing-3.md "thing 3")
-Issues in research data management or to [All Things](index.md)
+Go to [Thing 3](thing-3.md) Issues in research data management or to [All Things](index.md)
 
 ## Learn More
-
 ### How do you manage "Big Data"?
 
 
@@ -105,21 +80,13 @@ could be useful for exploring data management for big data?
 
 Do you have a question? Want to share a resource?
 
-Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-Tweet to [@ardc_au](https://twitter.com/ardc_au) using \#23things
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ardc_au) using \#23things
 
-[thing1 credly badge](../images/Badge-thing2.png)
-
-Completion of Thing 2 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66836/72E-425C-EA6)
-
-Go to [Thing 3](thing-3.md "thing 3")
-Issues in research data management or to [All Things](index.md)
+Go to [Thing 3](thing-3.md) Issues in research data management or to [All Things](index.md)
 
 ## Challenge Me
-
-### Digital data in Lab Notebooks**
+### Digital data in Lab Notebooks
 
 Laboratory Notebooks are used by researchers to formally record their
 research activities. As research has become increasingly digital and
@@ -141,14 +108,7 @@ solutions for data that is generated, stored and shared via an open ELN.
 
 Do you have a question? Want to share a resource?
 
-Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-Tweet to [@ardc_au](https://twitter.com/ardc_au) using \#23things
+- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
+- Tweet to [@ardc_au](https://twitter.com/ardc_au) using \#23things
 
-[thing1 credly badge](../images/Badge-thing2.png)
-
-Completion of Thing 2 means you've earned a digital badge!
-
-[Claim your badge](https://credly.com/claim/66836/72E-425C-EA6)
-
-Go to [Thing 3](thing-3.md "thing 3")
-Issues in research data management or to [All Things](index.md)
+Go to [Thing 3](thing-3.md) Issues in research data management or to [All Things](index.md)
