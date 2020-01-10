@@ -2,26 +2,20 @@
 HandheldFriendly: true
 author: ANDS
 description: |
-    Thing 2: Issues in research data management Research data is for
-    everyone. Governments and universities all around Australia and the
-    world are now encouraging researchers to better manage their data so
-    others can use it. Research data might be critical to solving the big
-    questions of our time, but so much data are being lost or poorly
-    managed.
-keywords: 'Thing 2, data, research, research data, australia'
+    Thing 3: Data in the research lifecycle Data and its management change
+    over time. Here we look at data and research lifecycles and make
+    connections between them.
+keywords: 'Thing 3, data, research, research data, australia'
 og:description: |
-    Thing 2: Issues in research data management Research data is for
-    everyone. Governments and universities all around Australia and the
-    world are now encouraging researchers to better manage their data so
-    others can use it. Research data might be critical to solving the big
-    questions of our time, but so much data are being lost or poorly
-    managed.
+    Thing 3: Data in the research lifecycle Data and its management change
+    over time. Here we look at data and research lifecycles and make
+    connections between them.
 og:site_name: ANDS
-og:title: 'Thing 2: Issues in research data management'
+og:title: 'Thing 3: Data in the research lifecycle'
 og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-2'
+og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3'
 robots: 'index,follow'
-title: 'Thing 2: Issues in research data management - ANDS'
+title: 'Thing 3: Data in the research lifecycle - ANDS'
 viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0
@@ -45,7 +39,7 @@ viewport: |
 
 <div class="searchToggle">
 
-[[ ]{.icon}[Search]{}](#)
+[[ ]{.icon}[Search]{}](#)
 
 </div>
 
@@ -476,8 +470,8 @@ Working with data
     23](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23)
 
 []{#content}
-Thing 2: Issues in research data management
-===========================================
+Thing 3: Data in the research lifecycle
+=======================================
 
 </div>
 
@@ -491,8 +485,9 @@ Thing 2: Issues in research data management
 
 <div class="contentPanel">
 
-<div class="centreColumn bodyCopy" module="493381,422299,422898,391760"
-eq="" empty="493381,422299,422898,391760" charcount="27">
+<div class="centreColumn bodyCopy"
+module="493381,494028,422299,422898,391760" eq=""
+empty="493381,494028,422299,422898,391760" charcount="34">
 
 <div class="addThis">
 
@@ -526,101 +521,89 @@ height="32"}]{.addthis_button}
 
 </div>
 
-<div id="new_content_container_408123">
+<div id="new_content_container_408121">
 
-### [&lt;&lt;Thing 1](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1 "Thing 1") [Thing 3&gt;&gt;](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3 "Thing 3")
-
-------------------------------------------------------------------------
-
-</div>
-
-<div id="new_content_container_413130">
-
-<div id="content_container_413128">
-
-[Thing 2: Issues in research data management](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-2)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Research data is critical to solving the big questions of our time.  So
-what are some of the issues we face in managing research data?
-
--   **Getting started:** Watch a cartoon about what happens when a
-    researcher hasn't managed their data (at all…) What could possibly
-    go wrong!?
--   **Learn more:** the 5Vs about Big Data everyone must know
--   **Challenge me:** what are the issues when data is part of an eLab
-    Notebook?
+### [&lt;&lt;Thing 2](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-2 "Thing 2") [Thing 4&gt;&gt;](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4 "Thing 4")
 
 ------------------------------------------------------------------------
 
 </div>
 
+<div id="new_content_container_413153">
+
+<div id="content_container_413135">
+
+[Thing 3: Data in the research lifecycle](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3)
+---------------------------------------------------------------------------------------------------------------------------------
+
+Data and its management change over time.  Here we look at data and
+research lifecycles and make connections between them.
+
+-   **Getting started:** follow the pink circles around the data
+    lifecycle
+-   **Learn more:** how would you modify a Lifecycle model for your
+    institution?
+-   **Challenge me:** share the current emerging opportunities for
+    institutions to integrate management systems for your research data
+    assets
+
+------------------------------------------------------------------------
+
 </div>
 
-<div id="new_content_container_534641">
+</div>
 
-<div id="content_container_514367">
+<div id="new_content_container_535099">
+
+<div id="content_container_514371">
 
 [![Getting
-Started](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-2#t2-start)[![Learn
-More](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-2#t2-learn)[![Challenge
-me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-2#t2-challenge)
+Started](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3#t3-start)[![Learn
+more](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3#t3-learn)[![Challenge
+Me](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png)](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3#t3-challenge)
 
 </div>
 
 </div>
 
-<div id="new_content_container_408027">
+<div id="new_content_container_408037">
 
-![23things\_gettingstarted\_small](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg "getting started"){#t2-start}
+![23things\_gettingstarted\_small](https://www.ands.org.au/__data/assets/image/0019/408061/23things_gettingstarted_big.jpg "getting started"){#t3-start}
 
-#### Thing 2: Issues in research data management
+#### Thing 3: Data in the research lifecycle
 
-**Managing data for reuse**
+**Getting Started:** The lifecycle of research data
 
 </div>
 
-<div id="new_content_container_419531">
+<div id="new_content_container_419563">
 
-<div id="content_container_413110_413110">
+<div id="content_container_413143_413143">
 
-Research data is for everyone. Governments and universities all around
-Australia and the world are now encouraging researchers to better manage
-their data so others can reuse it.
+Research Lifecycle Models provide a high-level overview of the stages
+and actions during the research lifecycle required for successful
+management of data. A data lifecycle shows the different phases a
+dataset goes through as the research project moves from "having a
+brilliant idea" to "making ground breaking discoveries" to "telling the
+world about it".
 
-Research data might be critical to solving the big questions of our
-time, but so much data are being lost or poorly managed.
+Watch the short video on the [UK Data Archive Research Data
+Lifecycle](http://www.data-archive.ac.uk/create-manage/life-cycle)
 
-1.   Take just a minute and browse over some ways the [Queensland
-Government
-Data](https://data.qld.gov.au/article/case-studies "Queensland government using data")
-is being used by businesses, families, travellers, and farmers.
-
-2.   This 4.40min
-[cartoon](https://www.youtube.com/watch?v=66oNv_DJuPc "YouTube cartoon")
-put together by the New York University Health Sciences Library, is
-about what happens when a researcher hasn't managed their data (at all…)
-What could possibly go wrong!?\
-As you watch the cartoon jot down the data management mistakes which
-interest or appeal you.
-
-3.   Now, scan through the dot points in the *Consider the following*
-section of the University of the Sunshine Coast's
-[LibGuide](http://libguides.usc.edu.au/c.php?g=508408&p=3477838 "USC libguide - Consider the following")
-which provides advice for researchers on how to manage their data.
-
-**Consider:** how just one of the data disasters depicted in the cartoon
-could have been avoided.
+**Consider:** What other things impact how data is managed through the
+lifecycle? For example, this could be funding policies which make
+sharing the data mandatory, or data which is part of an ongoing
+longitudinal study.
 
 </div>
 
 </div>
 
-<div id="new_content_container_548429">
+<div id="new_content_container_548493">
 
 <div id="content_container_537013">
 
-Do you have a question?  Want to share a resource?
+Do you have a question?  Want to share a resource?
 
 -   Post to the[Data Librarians Google
     Group](https://plus.google.com/u/0/communities/105455769899183786145)
@@ -632,26 +615,26 @@ Do you have a question?  Want to share a resource?
 
 </div>
 
-<div id="new_content_container_419541">
+<div id="new_content_container_419631">
 
-<div id="content_container_413124">
+<div id="content_container_413139">
 
 ------------------------------------------------------------------------
 
 <div class="imgCaption imgFloatLeft" style="width:235px;">
 
-![thing2 credly
-badge](https://www.ands.org.au/__data/assets/image/0019/516511/Badge-thing2.png)
+![thing3 credly
+badge](https://www.ands.org.au/__data/assets/image/0020/516512/Badge-thing3.png)
 
 </div>
 
-Completion of Thing 2 means you've earned a digital badge!
+Completion of Thing 3 means you've earned a digital badge!
 
-[Claim your badge](https://credly.com/claim/66836/72E-425C-EA6)
+[Claim your badge](https://credly.com/claim/66840/6A6-A377-768)
 
 Go to [Thing
-3](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3 "Thing 3")
-Data in the research lifecycle or [All
+4](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4 "Thing 4")
+Data discovery or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
 ------------------------------------------------------------------------
@@ -660,41 +643,44 @@ Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things
 
 </div>
 
-<div id="new_content_container_408029">
+<div id="new_content_container_408039">
 
-![23things\_learnmore\_small](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png "learn more"){#t2-learn}
+![23things\_learnmore\_small](https://www.ands.org.au/__data/assets/image/0013/408100/23things_learnmore_xsmall_dark.png "learn more"){#t3-learn}
 
-#### Thing 2: Issues in research data management
+#### Thing 3: Data in the research lifecycle
 
-**How do you manage "Big Data"?**
-
-</div>
-
-<div id="new_content_container_419533">
-
-<div id="content_container_413116_413116">
-
-"Big Data" is a term we're hearing with increasing frequency. Data
-management for Big Data brings much complexity - citing dynamic data,
-software, high volume compute, storage costs, transfer of petabytes of
-data, preservation,
-[provenance](https://www.ands.org.au/working-with-data/publishing-and-reusing-data/data-provenance "Data provenance"),
-and more.
-
-**Consider:** your views on whether the concept of the 5 Vs is useful to
-support better management and reuse of Big Data. If you don't think the
-5 Vs is of value, is there another framework or concept model which
-could be useful for exploring data management for big data?
+**Learn More: **Managing data through the lifecycle
 
 </div>
 
+<div id="new_content_container_419593">
+
+<div id="content_container_413147_413147">
+
+Data often have a longer lifespan than the research project that creates
+them. Follow-up projects may analyse or add to the data, and data may be
+reused by other researchers. Journals publishers are increasingly
+mandating that the data underpinning a journal article be retained and
+made accessible for the long term. Data needs to managed carefully to
+ensure long-term preservation.
+
+-   Take a look at the [DCC Curation Lifecycle
+    Model](http://www.dcc.ac.uk/resources/curation-lifecycle-model)
+    which concentrates of preservation and curation within data
+    management.
+
+**Consider:** a modification or addition you would include to make this
+model contextualised to your situation.
+
 </div>
 
-<div id="new_content_container_548433">
+</div>
+
+<div id="new_content_container_549362">
 
 <div id="content_container_537013">
 
-Do you have a question?  Want to share a resource?
+Do you have a question?  Want to share a resource?
 
 -   Post to the[Data Librarians Google
     Group](https://plus.google.com/u/0/communities/105455769899183786145)
@@ -706,26 +692,26 @@ Do you have a question?  Want to share a resource?
 
 </div>
 
-<div id="new_content_container_419539">
+<div id="new_content_container_419623">
 
-<div id="content_container_413124">
+<div id="content_container_413139">
 
 ------------------------------------------------------------------------
 
 <div class="imgCaption imgFloatLeft" style="width:235px;">
 
-![thing2 credly
-badge](https://www.ands.org.au/__data/assets/image/0019/516511/Badge-thing2.png)
+![thing3 credly
+badge](https://www.ands.org.au/__data/assets/image/0020/516512/Badge-thing3.png)
 
 </div>
 
-Completion of Thing 2 means you've earned a digital badge!
+Completion of Thing 3 means you've earned a digital badge!
 
-[Claim your badge](https://credly.com/claim/66836/72E-425C-EA6)
+[Claim your badge](https://credly.com/claim/66840/6A6-A377-768)
 
 Go to [Thing
-3](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3 "Thing 3")
-Data in the research lifecycle or [All
+4](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4 "Thing 4")
+Data discovery or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
 ------------------------------------------------------------------------
@@ -734,43 +720,43 @@ Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things
 
 </div>
 
-<div id="new_content_container_408031">
+<div id="new_content_container_408042">
 
-![23things\_challengeme\_small](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png "challenge me"){#t2-challenge}
+![23things\_challengeme\_small](https://www.ands.org.au/__data/assets/image/0016/408112/23things_challengeme_xs.png "challenge me"){#t3-challenge}
 
-#### Thing 2: Issues in research data management
+#### Thing 3: Data in the research lifecycle
 
-**Digital data in eLab Notebooks**
-
-</div>
-
-<div id="new_content_container_419535">
-
-<div id="content_container_413120_413120">
-
-Laboratory Notebooks are used by researchers to formally record their
-research activities. As research has become increasingly digital and
-collaborative the utility of traditional hard copy Laboratory Notebooks
-has been challenged. Not surprisingly then, eLab Notebooks (ELN) have
-emerged as an alternative, and they can be used for more than just
-lab-based research.
-
-ELNs help researchers manage their data effectively and collaboratively
-during a project, making it easier to share and publish their data,
-either during or after the project has ended.
-
-**Consider:** your view on a data management issues and possible
-solutions, where data is generated, stored and shared via an  open ELN.
+**Challenge me: **Research data management in practice
 
 </div>
 
+<div id="new_content_container_419613">
+
+<div id="content_container_413151_413151">
+
+Data management is likely to be most effective where it is integrated
+into existing system-wide research and administrative processes. New
+software and products are being developed particularly with this in
+mind.
+
+-   Skim through this ANDS Guide [Research Data Management in
+    Practice](https://www.ands.org.au/guides/rdm-in-practice "Research data management in practice")
+-   Look carefully at Figure 1 *Key Steps in Research Data Management*,
+    Section 3.
+
+**Consider:** your experience about the current emerging opportunities
+for institutions to integrate management systems for their research data
+assets.
+
 </div>
 
-<div id="new_content_container_543484">
+</div>
+
+<div id="new_content_container_543488">
 
 <div id="content_container_537013">
 
-Do you have a question?  Want to share a resource?
+Do you have a question?  Want to share a resource?
 
 -   Post to the[Data Librarians Google
     Group](https://plus.google.com/u/0/communities/105455769899183786145)
@@ -782,26 +768,26 @@ Do you have a question?  Want to share a resource?
 
 </div>
 
-<div id="new_content_container_419537">
+<div id="new_content_container_419617">
 
-<div id="content_container_413124">
+<div id="content_container_413139">
 
 ------------------------------------------------------------------------
 
 <div class="imgCaption imgFloatLeft" style="width:235px;">
 
-![thing2 credly
-badge](https://www.ands.org.au/__data/assets/image/0019/516511/Badge-thing2.png)
+![thing3 credly
+badge](https://www.ands.org.au/__data/assets/image/0020/516512/Badge-thing3.png)
 
 </div>
 
-Completion of Thing 2 means you've earned a digital badge!
+Completion of Thing 3 means you've earned a digital badge!
 
-[Claim your badge](https://credly.com/claim/66836/72E-425C-EA6)
+[Claim your badge](https://credly.com/claim/66840/6A6-A377-768)
 
 Go to [Thing
-3](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3 "Thing 3")
-Data in the research lifecycle or [All
+4](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4 "Thing 4")
+Data discovery or [All
 Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23 "All Things")
 
 ------------------------------------------------------------------------
@@ -832,6 +818,27 @@ Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things
     -   [Thing
         3](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-3 "Thing 3"):
         Lifecycle
+
+    </div>
+
+<!-- -->
+
+-   <div id="content_container_494030">
+
+    ### Repositories for data
+
+    ![23T Badge
+    -thing4](https://www.ands.org.au/__data/assets/image/0005/494114/23T-Badge-thing4.png)
+
+    -   [Thing
+        4:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4)
+        Data discovery
+    -   [Thing
+        5:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5)
+        Data sharing
+    -   [Thing
+        6:](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-6)
+        Curation & preservation
 
     </div>
 
@@ -1022,7 +1029,7 @@ in [Skills](https://www.ands.org.au/working-with-data/skills)
     -   [About ANDS](https://www.ands.org.au/about-us)
     -   [Contact us](https://www.ands.org.au/contact-us)
     -   [Image credits and
-        site reuse](https://www.ands.org.au/home/reusing-this-site)
+        site reuse](https://www.ands.org.au/home/reusing-this-site)
     -   [Using our
         logo](https://www.ands.org.au/about-us/using-our-logo)
     -   [Legal and
