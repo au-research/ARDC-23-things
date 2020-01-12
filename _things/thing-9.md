@@ -1,4 +1,5 @@
 ---
+layout: page
 HandheldFriendly: true
 author: ANDS
 description: |
@@ -13,7 +14,8 @@ og:title: 'Thing 9: Licensing data for reuse'
 og:type: website
 og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-9'
 robots: 'index,follow'
-title: 'Thing 9: Licensing data for reuse - ANDS'
+title: 'Licensing data for reuse'
+thing: 9
 viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0

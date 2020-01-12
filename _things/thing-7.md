@@ -1,4 +1,5 @@
 ---
+layout: page
 HandheldFriendly: true
 author: ANDS
 description: |
@@ -17,7 +18,8 @@ og:title: 'Thing 7: Data citation for access &amp; attribution'
 og:type: website
 og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-7'
 robots: 'index,follow'
-title: 'Thing 7: Data citation for access & attribution - ANDS'
+title: 'Data citation for access & attribution'
+thing: 7
 viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0

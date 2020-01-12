@@ -1,4 +1,5 @@
 ---
+layout: page
 HandheldFriendly: true
 author: ANDS
 description: |
@@ -23,7 +24,8 @@ og:title: 'Thing 4: Data discovery'
 og:type: website
 og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-4'
 robots: 'index,follow'
-title: 'Thing 4: Data discovery - ANDS'
+title: 'Data discovery'
+thing: 4
 viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0

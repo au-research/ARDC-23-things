@@ -1,4 +1,5 @@
 ---
+layout: page
 HandheldFriendly: true
 author: ANDS
 description: |
@@ -15,7 +16,8 @@ og:title: 'Thing 15: Data management plans'
 og:type: website
 og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-15'
 robots: 'index,follow'
-title: 'Thing 15: Data management plans - ANDS'
+title: 'Data management plans'
+thing: 15
 viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0

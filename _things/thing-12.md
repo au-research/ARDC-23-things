@@ -1,4 +1,5 @@
 ---
+layout: page
 HandheldFriendly: true
 author: ANDS
 description: |
@@ -15,7 +16,8 @@ og:title: 'Thing 12: Vocabularies for data description'
 og:type: website
 og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12'
 robots: 'index,follow'
-title: 'Thing 12: Vocabularies for data description - ANDS'
+title: 'Vocabularies for data description'
+thing: 12
 viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0

@@ -29,7 +29,7 @@ twitter_username: ARDC_AU
 github_username:  au-research
 last_thing: 23 # the last thing... used to limit navigation
 # Build settings
-theme: minima
+#theme: minima
 collections:
   things:
     output: true

@@ -1,4 +1,5 @@
 ---
+layout: page
 HandheldFriendly: true
 author: ANDS
 description: |
@@ -21,7 +22,8 @@ og:title: 'Thing 6: Long-lived data: curation &amp; preservation'
 og:type: website
 og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-6'
 robots: 'index,follow'
-title: 'Thing 6: Long-lived data: curation & preservation - ANDS'
+title: 'Long-lived data: curation & preservation'
+thing: 6
 viewport: |
     width=device-width, initial-scale=1.0, maximum-scale=1.0,
     user-scalable=0
