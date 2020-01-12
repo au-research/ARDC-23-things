@@ -24,7 +24,7 @@ viewport: |
 ---
 #Thing 7: Data citation for access & attribution
 
-**[&lt;&lt;Jump to Thing 6](thing-6.md) &nbsp; &nbsp; [Jump to Thing 8&gt;&gt;](thing-8.md)**
+{% include nav_back_forward.md %}
 
 Citation analysis and citation metrics are important to the academic
 community. Find out where data fits in the citation picture.
@@ -79,12 +79,10 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing 8](thing-8.md)
-Citation metrics for data or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Learn more
-
-# Data citation principles
+### Data citation principles
 
 
 The Force11 Joint Declaration of Data Citation Principles are a set of
@@ -109,8 +107,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing 8](thing-8.md)
-Citation metrics for data or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Challenge me 
 
@@ -147,8 +144,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing 8](thing-8.md)
-Citation metrics for data or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ### Data citation & impact
 

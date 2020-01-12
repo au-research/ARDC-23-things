@@ -24,7 +24,7 @@ viewport: |
 ---
 # Thing 5: Data sharing
 
-**<<[Jump to Thing 4](thing-4.md) [Jump to Thing 5](thing-6.md)>>**
+{% include nav_back_forward.md %}
 
 Research data may be shared in many ways.  This week we look at 3 ways:
 
@@ -62,7 +62,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 6:](thing-6.md) "Long-lived data: curation & preservation" or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Learn more
 
@@ -81,7 +81,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 6:](thing-6.md) "Long-lived data: curation & preservation" or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Challenge me
 ### Tools to preserve research data
@@ -107,7 +107,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 6:](thing-6.md) "Long-lived data: curation & preservation" or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ### Repositories for data
 

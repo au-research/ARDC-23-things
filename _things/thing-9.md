@@ -20,7 +20,7 @@ viewport: |
 ---
 # Thing 9: Licensing data for reuse
 
-**[&lt;&lt;Jump to Thing 8](thing-8.md) &nbsp; &nbsp; [Jump to Thing 10&gt;&gt;](thing-10.md)**
+{% include nav_back_forward.md %}
 
 Understand the importance of data licensing and learn about Creative
 Commons.
@@ -65,9 +65,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-
-Go to [Thing 10](thing-10.md)
-Sharing sensitive data or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Learn more 
 
@@ -108,8 +106,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 10](thing-10.md)
-Sharing sensitive data or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Challenge me
 
@@ -137,8 +134,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing 10](thing-10.md)
-Sharing sensitive data or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ### Rights, ethics & sensitive data
 

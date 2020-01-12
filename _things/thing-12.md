@@ -23,7 +23,7 @@ viewport: |
 
 #Thing 12: Vocabularies for data description
 
-**[&lt;&lt;Jump to Thing 11](thing-11.md) &nbsp; &nbsp; [Jump to Thing 13&gt;&gt;](thing-13.md)**
+{% include nav_back_forward.md %}
 
 Data descriptor, keyword, subject … these are all terms commonly used
 when discussing metadata.  Learn about the use of controlled
@@ -79,8 +79,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 13](thing-13.md "Thing 13")
-Walk the crosswalk or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Learn more
 
@@ -107,9 +106,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 13](thing-13.md "Thing 13")
-Walk the crosswalk or to [All Things](index.md)
-
+{% include nav_forward.md %}
 
 ## Challenge me 
 
@@ -140,8 +137,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 13](thing-13.md "Thing 13")
-Walk the crosswalk or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ------------------------------------------------------------------------
 

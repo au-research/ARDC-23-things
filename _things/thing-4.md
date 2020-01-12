@@ -30,7 +30,7 @@ viewport: |
 ---
 #Thing 4: Data Discovery
 
-**[&lt;&lt;Jump to Thing 3](thing-3.md) &nbsp; &nbsp; [Jump to Thing 5&gt;&gt;](thing-5.md)**
+{% include nav_back_forward.md %}
 
 Repositories and portals play an important role in making research data
 discoverable and accessible.
@@ -84,8 +84,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing 5](thing-5.md)
-Data sharing or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Learn More 
 
@@ -108,8 +107,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing 5](thing-5.md)
-Data sharing or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Challenge me
 
@@ -135,12 +133,9 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing 5](thing-5.md)
-Data sharing or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ### Repositories for data
-
-
 
 -   [Thing 4:](thing-4.md) Data discovery
 -   [Thing 5:](thing-5.md) Data sharing

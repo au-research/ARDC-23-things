@@ -30,7 +30,7 @@ viewport: |
 ---
 # Thing 1: Getting started with research data
 
-**[Jump to Thing 2&gt;&gt;](thing-2.md)**
+{% include nav_back_forward.md %}
 
 Research data comes in many shapes and sizes. Kick off your research
 data journey and start sharing your stories.
@@ -81,8 +81,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
 
-Go to [Thing 2](thing-2.md "thing 2")
-Issues in research data management or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Learn more
 
@@ -110,8 +109,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
 
-Go to [Thing 2](thing-2.md "thing 2")
-Issues in research data management or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Challenge me
 
@@ -137,6 +135,8 @@ and what skills you want to learn.
 Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
+
+{% include nav_forward.md %}
 
 ### Ready, set, data
 

@@ -30,7 +30,7 @@ viewport: |
 
 # Thing 6: Long-lived data: curation & preservation
 
-**<<[Jump to Thing 5](thing-5.md) [Jump to Thing 7](thing-7.md)>>**
+{% include nav_back_forward.md %}
 
 Ensuring data stays accessible and reusable into the future.  Learn
 about the curation of data and try out a free tool for managing file
@@ -65,7 +65,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 7](thing-7.md) Data citation for access & attribution or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Learn more
 ### A model for data curation, preservation and archiving
@@ -86,8 +86,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 7](thing-7.md)
-Data citation for access & attribution or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Challenge me
 ### Tools to preserve research data
@@ -126,8 +125,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 7](thing-7.md)
-Data citation for access & attribution or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ### Repositories for data
 

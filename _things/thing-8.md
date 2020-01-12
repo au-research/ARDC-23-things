@@ -21,7 +21,7 @@ viewport: |
     user-scalable=0
 ---
 
-**<<[Jump to Thing 7](thing-7.md "Thing 7") [Jump to Thing 9](thing-9.md "Thing 9")>>**
+{% include nav_back_forward.md %}
 
 # Thing 8 - DOIs and citation metrics for data
 
@@ -82,8 +82,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 9](thing-9.md) Licensing data for reuse or to [All Things](index.md)
-
+{% include nav_forward.md %}
 
 ## Learn more: Who cares about (alt)metrics?
 
@@ -120,7 +119,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 9](thing-9.md) Licensing data for reuse or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Challenge me: Minting' DOIs for research data
 
@@ -160,7 +159,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
 
-Go to [Thing 9](thing-9.md) Licensing data for reuse or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Related Things
 

@@ -22,7 +22,7 @@ viewport: |
 ---
 # Thing 15: Data management plans
 
-**[&lt;&lt;Jump to Thing 14](thing-14.md) &nbsp; &nbsp; [Jump to Thing 16&gt;&gt;](thing-16.md)**
+{% include nav_back_forward.md %}
 
 Some research institutions and research funders now require researchers
 to submit a Data Management Plan (DMP) for new projects. What should a
@@ -66,8 +66,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing 16](thing-16.md)
-What are Publishers and Funders saying about data? or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Learn more
 
@@ -105,8 +104,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing 16](thing-16.md)
-What are Publishers and Funders saying about data? or to [All Things](index.md)
+{% include nav_forward.md %}
 
 ## Challenge me 
 
@@ -136,10 +134,7 @@ Do you have a question?  Want to share a resource?
 - Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
 - Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
 
-Go to [Thing 16](thing-16.md)
-What are Publishers and Funders saying about data? or to [All Things](index.md)
-
-
+{% include nav_forward.md %}
 
 ### Let's talk data
 
