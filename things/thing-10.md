@@ -1,42 +1,24 @@
 ---
-HandheldFriendly: true
-author: ANDS
+author: ARDC
 description: |
     Sharing sensitive data requires careful consideration, but it can be done.  Find out how.
 keywords: 'data, research, research data, australia'
-og:description: |
-    Sharing sensitive data requires careful consideration, but it can be done.  Find out how.
-og:site_name: ANDS
-og:title: 'Thing 10: Sharing sensitive data'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10'
-robots: 'index,follow'
-title: 'Thing 10: Sharing sensitive data - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+title: 'Sharing sensitive data'
+thing: 10
+categories:
+    - "Rights, ethics & sensitive data"
 ---
-
-#Thing 10: Sharing sensitive data
-
 **[&lt;&lt;Jump to Thing 9](thing-9.md) &nbsp; &nbsp; [Jump to Thing 11&gt;&gt;](thing-11.md)**
 
 Sharing sensitive data requires careful consideration, but it can be
 done.  Find out how.
 
--   **Getting started:** If it’s so sensitive - how can it possibly be
-    shared and published?!
--   **Learn more:** Who are the “data gatekeepers”?
--   **Challenge me:** Make me anonymous
+{% include toc.md 
+    start="If it’s so sensitive - how can it possibly be shared and published?!"
+    learn='Who are the “data gatekeepers”?'
+    challenge="Make me anonymous" %}
 
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
-## Getting started 
-
-### Sensitive data *can* be shared!
+{% include start.md text="Sensitive data *can* be shared!" %}
 
 Major, familiar, categories of sensitive data are
 **human data** (eg health and personal data, secret or sacred practices); or
@@ -81,16 +63,12 @@ survey:
     world to see”?
 
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 11](thing-11.md)
 What's my metadata schema? or to [All Things](index.md)
 
-## Learn more
-
-### The ethics of sensitive data
+{% include learn.md text="The ethics of sensitive data" %}
 
 How we manage sensitive data through its lifecycle and who has a role in
 ensuring sensitive data is appropriately managed and shared are critical
@@ -115,17 +93,13 @@ discussion or workshop.
 based on a research project you a familiar with.
 
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 11](thing-11.md)
 What's my metadata schema? or to [All Things](index.md)
 
 
-## Challenge me
-
-### Anonymising sensitive data
+{% include challenge.md text="Anonymising sensitive data" %}
 
 
 De-identification (also called anonymisation or confidentialisation in
@@ -148,9 +122,7 @@ findings or endangered species.
 **Consider:** What types of data are there for which de-identification
 might not be needed or appropriate?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 11](thing-11.md)
 What's my metadata schema? or to [All Things](index.md)

@@ -1,47 +1,31 @@
 ---
-HandheldFriendly: true
-author: ANDS
+author: ARDC
 description: |
-    Thing 15: Some research institutions and research funders now require researchers
+    Some research institutions and research funders now require researchers
     to submit a Data Management Plan (DMP) for new projects. What should a
     DMP cover? Could you help with one?
 keywords: 'data, research, research data, australia'
-og:description: |
-    Thing 15: Some research institutions and research funders now require researchers
-    to submit a Data Management Plan (DMP) for new projects. What should a
-    DMP cover? Could you help with one?
-og:site_name: ANDS
-og:title: 'Thing 15: Data management plans'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-15'
-robots: 'index,follow'
-title: 'Thing 15: Data management plans - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+title: 'Data management plans'
+thing: 15
+categories:
+    - "Let's talk data"
 ---
-# Thing 15: Data management plans
-
 **[&lt;&lt;Jump to Thing 14](thing-14.md) &nbsp; &nbsp; [Jump to Thing 16&gt;&gt;](thing-16.md)**
 
 Some research institutions and research funders now require researchers
 to submit a Data Management Plan (DMP) for new projects. What should a
 DMP cover? Could you help with one?
 
--   **Getting started**: What’s a DMP?
--   **Learn more**: Why machine-actionable DMPs?
--   **Challenge me**: Exploring DMP Tools
+
+{% include toc.md 
+    start="What’s a DMP?"
+    learn="Why machine-actionable DMPs?"
+    challenge="Exploring DMP Tools" %}
 
 [Find out about the work of the Australasian DMP Interest
 Group](http://tiny.cc/DMP-IG)
 
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
-## Getting started 
-
-### An introduction to Data Management Plans
+{% include start.md text="An introduction to Data Management Plans" %}
 
 A Data Management Plan (DMP) documents how data will be managed, stored
 and shared during and after a research project. Some research funders
@@ -62,16 +46,12 @@ project proposal.
 extremely long and complex. What do you think are the two or three
 pieces of information essential to include in every DMP and why?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+{% include get-help.md %}
 
 Go to [Thing 16](thing-16.md)
 What are Publishers and Funders saying about data? or to [All Things](index.md)
 
-## Learn more
-
-### Templates for Data Management Plans
+{% include learn.md text="Templates for Data Management Plans" %}
 
 Imagine if the information contained in a DMP could flow across other
 systems automatically (e.g. to populate faculty profiles, monitor
@@ -101,16 +81,12 @@ definition](https://www.ddialliance.org/taxonomy/term/198)).
 **Consider:** Do you think machine-actionable DMPs will make them more
 valuable to researchers? Institutions? Funders?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+{% include get-help.md %}
 
 Go to [Thing 16](thing-16.md)
 What are Publishers and Funders saying about data? or to [All Things](index.md)
 
-## Challenge me 
-
-### Data Management Plans for the Humanities
+{% include challenge.md text="Data Management Plans for the Humanities" %}
 
 1.  First have a look at the [The DMPTool: A Brief Overview 90 sec
     video](https://www.youtube.com/watch?v=xT1by-p5jUw&feature=youtu.be "DMP overview video")
@@ -132,9 +108,7 @@ goals or further enhancements?
 [Find out about the work of the Australasian DMP Interest
 Group](http://tiny.cc/DMP-IG)
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+{% include get-help.md %}
 
 Go to [Thing 16](thing-16.md)
 What are Publishers and Funders saying about data? or to [All Things](index.md)

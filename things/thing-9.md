@@ -1,43 +1,25 @@
 ---
-HandheldFriendly: true
-author: ANDS
+author: ARDC
 description: |
     Understand the importance of data licensing and learn about Creative
     Commons.
 keywords: 'data, research, research data, australia'
-og:description: |
-    Understand the importance of data licensing and learn about Creative
-    Commons.
-og:site_name: ANDS
-og:title: 'Thing 9: Licensing data for reuse'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-9'
-robots: 'index,follow'
-title: 'Thing 9: Licensing data for reuse - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+title: 'Licensing data for reuse'
+thing: 9
+categories:
+    - "Rights, ethics & sensitive data"
 ---
-# Thing 9: Licensing data for reuse
-
 **[&lt;&lt;Jump to Thing 8](thing-8.md) &nbsp; &nbsp; [Jump to Thing 10&gt;&gt;](thing-10.md)**
 
 Understand the importance of data licensing and learn about Creative
 Commons.
 
--   **Getting started**: don’t let CC pass you BY!
--   **Learn more**: Licensing - a keystone for innovation and business
--   **Challenge me**: How does Licensing work in tricky or complex
-    situations?
+{% include toc.md 
+    start="don’t let CC pass you BY!"
+    learn="Licensing - a keystone for innovation and business"
+    challenge="How does Licensing work in tricky or complex situations?" %}
 
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
-## Getting started
-
-### Why license research data?
+{% include start.md text="Why license research data?" %}
 
 Consider this scenario: You’ve found a dataset you (or your client) is
 interested in.  You’ve downloaded it. Excellent!  But do you know what
@@ -61,17 +43,12 @@ and cited.
 which may have commercial value to others - what license would you
 apply?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
+{% include get-help.md %}
 
 Go to [Thing 10](thing-10.md)
 Sharing sensitive data or to [All Things](index.md)
 
-## Learn more 
-
-### Data licenses: unlock data for innovation
+{% include learn.md text="Data licenses: unlock data for innovation" %}
 
 Enabling reuse of data can speed up research and innovation.  Licensing
 is critical to enabling data reuse.
@@ -104,16 +81,12 @@ and Innovation Agenda](http://www.innovation.gov.au/page/agenda)?\
 Does your institution have a policy or guidelines around data
 licensing?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 10](thing-10.md)
 Sharing sensitive data or to [All Things](index.md)
 
-## Challenge me
-
-### Data licensing in practice
+{% include challenge.md text="Data licensing in practice" %}
 
 Not all research data that is shared is licensed for reuse. It should
 be!
@@ -133,9 +106,7 @@ be!
 **Consider:** Assigning Open Licenses is not routine. Suggest one tip
 for encouraging uptake of 'open' licensing.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+{% include get-help.md %}
 
 Go to [Thing 10](thing-10.md)
 Sharing sensitive data or to [All Things](index.md)

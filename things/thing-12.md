@@ -1,27 +1,15 @@
 ---
-HandheldFriendly: true
-author: ANDS
+author: ARDC
 description: |
     Data descriptor, keyword, subject … these are all terms commonly used
     when discussing metadata.  Learn about the use of controlled
     vocabularies to enhance data discovery.
 keywords: 'data, research, research data, australia'
-og:description: |
-    Data descriptor, keyword, subject … these are all terms commonly used
-    when discussing metadata.  Learn about the use of controlled
-    vocabularies to enhance data discovery.
-og:site_name: ANDS
-og:title: 'Thing 12: Vocabularies for data description'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12'
-robots: 'index,follow'
-title: 'Thing 12: Vocabularies for data description - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+title: 'Vocabularies for data description'
+thing: 12
+categories:
+    - "Metadata & more"
 ---
-
-#Thing 12: Vocabularies for data description
 
 **[&lt;&lt;Jump to Thing 11](thing-11.md) &nbsp; &nbsp; [Jump to Thing 13&gt;&gt;](thing-13.md)**
 
@@ -29,20 +17,12 @@ Data descriptor, keyword, subject … these are all terms commonly used
 when discussing metadata.  Learn about the use of controlled
 vocabularies to enhance data discovery.
 
--   **Get started:** Control your language, please!
--   **Learn more**: Make a contribution to Research Vocabularies
-    Australia
--   **Challenge me**: KWA - the CSIRO  Science Keyword Aggregator - a
-    service and widget
+{% include toc.md 
+    start="Control your language, please!"
+    learn="Make a contribution to Research Vocabularies Australia"
+    challenge="KWA - the CSIRO  Science Keyword Aggregator - a service and widget" %}
 
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
-## Getting started: 
-
-### Controlled vocabularies for data description
+{% include start.md text="Controlled vocabularies for data description" %}
 
 In addition to selecting a metadata standard or schema, whenever
 possible you should also use a controlled vocabulary. A controlled
@@ -75,16 +55,12 @@ Australia](http://www.ala.org.au/ "ALA").
 **Consider:** How do you think we could encourage people to use
 controlled vocabularies in their data descriptions?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 13](thing-13.md "Thing 13")
 Walk the crosswalk or to [All Things](index.md)
 
-## Learn more
-
-### What controlled vocabularies exist?
+{% include learn.md text="What controlled vocabularies exist?" %}
 
 Think about (or find out!) what standard vocabularies are used, or could
 be used, by research groups in a discipline which interests you. Note
@@ -103,17 +79,13 @@ vocabulary is included.
 **Consider:** why your vocabulary should (or shouldn't) be included in
 RVA.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 13](thing-13.md "Thing 13")
 Walk the crosswalk or to [All Things](index.md)
 
 
-## Challenge me 
-
-### Supporting multiple vocabularies
+{% include challenge.md text="Supporting multiple vocabularies" %}
 
 The Science Keyword Aggregator has been developed by CSIRO and released
 as open source to allow others to adapt and reuse. It is a service that
@@ -136,9 +108,7 @@ embed in their application and thus provide a term search there.
 **Consider:** Is this a tool that could be implemented in your
 organisation? How would you use it?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 13](thing-13.md "Thing 13")
 Walk the crosswalk or to [All Things](index.md)

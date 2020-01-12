@@ -1,58 +1,35 @@
 ---
-HandheldFriendly: true
-author: ANDS
+author: ARDC
 description: |
-    Thing 1: Getting started with research data Research data comes in many
+    Getting started with research data Research data comes in many
     shapes and sizes. Kick off your research data journey and start sharing
     your stories. Getting started is for you if you are just beginning to
     learn about research data Learn more is if you know a bit but want to
     know more Challenge me is often more technical or assumes that you are
     familiar with at least the basics of managing and wrangling research
     data.
-keywords: 'Thing 1, Research data, data, research, research data, australia'
-og:description: |
-    Thing 1: Getting started with research data Research data comes in many
-    shapes and sizes. Kick off your research data journey and start sharing
-    your stories. Getting started is for you if you are just beginning to
-    learn about research data Learn more is if you know a bit but want to
-    know more Challenge me is often more technical or assumes that you are
-    familiar with at least the basics of managing and wrangling research
-    data.
-og:site_name: ANDS
-og:title: 'Thing 1: Getting started with research data'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-1'
-robots: 'index,follow'
-title: 'Thing 1: Getting started with research data - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
----
-# Thing 1: Getting started with research data
+title: 'Getting started with research data'
+thing: 1
+categories:
+    - "Ready, set, data"
 
+---
 **[Jump to Thing 2&gt;&gt;](thing-2.md)**
 
 Research data comes in many shapes and sizes. Kick off your research
 data journey and start sharing your stories.
 
--   **Getting started** is for you if you are just beginning to learn
-    about research data
--   **Learn more** is if you know a bit but want to know more
--   **Challenge me** is often more technical or assumes that you are
-    familiar with at least the basics of managing and wrangling research
-    data.
+{% include toc.md 
+    start="is for you if you are just beginning to learn"
+    learn="is if you know a bit but want to know more"
+    challenge="is often more technical or assumes that you are familiar with at least the basics of managing and wrangling research data." %}
 
 **Do I have to do them all?** No - you can pick'n'mix a different stream
 each week, or stay in the one stream. You can do as much or as little as
 you want to do, or need to know.
 
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
 
-## Getting started
-
-### What is research data?
+{% include start.md text="What is research data?" %}
 
 What "research data" are we talking about?
 
@@ -77,16 +54,12 @@ What "research data" are we talking about?
 **Consider:** how the complexity and range of data formats affect access
 and reuse possibilities.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
+{% include get-help.md %}
 
 Go to [Thing 2](thing-2.md "thing 2")
 Issues in research data management or to [All Things](index.md)
 
-## Learn more
-
-### Data across research disciplines
+{% include learn.md text="Data across research disciplines"}
 
 1\. Choose one of the four specialised data repositories below, or find
 another data repository of interest - particularly one in a discipline
@@ -106,16 +79,12 @@ with, for example, in format, size and access method.
 discipline data conventions, and also think about one way cross
 disciplinary data access can be facilitated.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
+{% include get-help.md %}
 
 Go to [Thing 2](thing-2.md "thing 2")
 Issues in research data management or to [All Things](index.md)
 
-## Challenge me
-
-### Let's talk tech!
+{% include challenge.md text="Let's talk tech!"}
 
 Get the ball rolling to introduce yourself and expand awareness of the
 technical aspects to data management and this rapidly growing community
@@ -134,9 +103,7 @@ What is:
 **Consider:** a personal audit on what data technical skills you have,
 and what skills you want to learn.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
+{% include get-help.md %}
 
 ### Ready, set, data
 

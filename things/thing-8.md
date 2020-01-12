@@ -1,45 +1,29 @@
 ---
-HandheldFriendly: true
-author: ANDS
+author: ARDC
 description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
+    What are Digital Object Identifiers (DOIs) and how do they support data
+    citation and metrics for data and related research objects?
 keywords: 'data, research, research data, australia'
-og:description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
-og:site_name: ANDS
-og:title: 'Thing 8: DOIs and citation metrics for data'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-8'
-robots: 'index,follow'
-title: 'Thing 8: DOIs and citation metrics for data - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+title: 'DOIs and citation metrics for data'
+thing: 8
+categories:
+    - "Data citation & impact"
 ---
-
 **<<[Jump to Thing 7](thing-7.md "Thing 7") [Jump to Thing 9](thing-9.md "Thing 9")>>**
-
-# Thing 8 - DOIs and citation metrics for data
 
 What are Digital Object Identifiers (DOIs) and how do they support data
 citation and metrics for data and related research objects?
 
--   **Getting started**: what are DOIs and why are they critical for
-    accurate citation metrics?
--   **Learn more**: delves into altmetrics (and donuts!)
--   **Challenge me**: what about minting DOIs for software, algorithms
-    and grey literature?
+{% include toc.md 
+    start="what are DOIs and why are they critical for accurate citation metrics?"
+    learn="delves into altmetrics (and donuts!)"
+    challenge="what about minting DOIs for software, algorithms and grey literature?" %}
 
 **Did you know?** You don't need to do all three streams, or even stay
 in the same stream. 23 Things is about picking which Things and streams
 you want to explore or know more about.
 
-
-## Getting started: DOIs, data citation and metrics
+{% include start.md text="DOIs, data citation and metrics" %}
 
 Digital Object Identifiers (DOIs) are unique identifiers that provide
 persistent access to published articles, datasets, software versions and
@@ -78,14 +62,11 @@ or article.
     <http://dx.doi.org/10.4227/11/50459F7BD4D0B> in the NSW Archaeology
     Online: Grey Literature Archive.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 9](thing-9.md) Licensing data for reuse or to [All Things](index.md)
 
-
-## Learn more: Who cares about (alt)metrics?
+{% include learn.md text="Who cares about (alt)metrics?" %}
 
 Alternative metrics or "altmetrics" count the number of views, number of
 downloads, social media "likes" and recommendations associated with a
@@ -116,13 +97,11 @@ By way of comparison, as of early November 2018:
 **Consider:** Do you think altmetrics for data have value in academic
 settings?  Why, or why not?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 9](thing-9.md) Licensing data for reuse or to [All Things](index.md)
 
-## Challenge me: Minting' DOIs for research data
+{% include challenge.md text="Minting DOIs for research data"%}
 
 The ANDS DOI service (Cite My Data) enables research organisations to
 assign Digital Object Identifiers (DOIs) to research datasets and
@@ -156,9 +135,7 @@ through the
 **Consider:** What do you think are the critical issues to ensure the
 persistence of DOIs over a number of years?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 9](thing-9.md) Licensing data for reuse or to [All Things](index.md)
 

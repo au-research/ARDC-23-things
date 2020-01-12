@@ -1,46 +1,27 @@
 ---
-HandheldFriendly: true
-author: ANDS
+author: ARDC
 description: |
-    Thing 7: Data citation for access & attribution. Citation analysis and
-    citation metrics are important to the academic community. Find out where
-    data fits in the citation picture.
+    Citation analysis and citation metrics are important to the academic
+    community. Find out where data fits in the citation picture.
 keywords: |
     Thing 7, data citation, citation analysis, citation metrics,data,
     research, research data, australia
-og:description: |
-    Thing 7: Data citation for access & attribution. Citation analysis and
-    citation metrics are important to the academic community. Find out where
-    data fits in the citation picture.
-og:site_name: ANDS
-og:title: 'Thing 7: Data citation for access &amp; attribution'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-7'
-robots: 'index,follow'
-title: 'Thing 7: Data citation for access & attribution - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+title: 'Data citation for access & attribution'
+thing: 7
+categories:
+    - "Data citation & impact"
 ---
-#Thing 7: Data citation for access & attribution
-
 **[&lt;&lt;Jump to Thing 6](thing-6.md) &nbsp; &nbsp; [Jump to Thing 8&gt;&gt;](thing-8.md)**
 
 Citation analysis and citation metrics are important to the academic
 community. Find out where data fits in the citation picture.
 
--   **Getting started**: how to cite data
--   **Learn more**: may the FORCE(11) be with you (while you cite data)
--   **Challenge me**: are some data formats more likely to be cited?
+{% include toc.md 
+    start="how to cite data"
+    learn="may the FORCE(11) be with you (while you cite data)"
+    challenge="are some data formats more likely to be cited?" %}
 
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
-## Getting started 
-
-### Citing research data
+{% include start.md text="Citing research data" %}
 
 Data citation continues the tradition of acknowledging other people’s
 work and ideas. Along with books, journals and other scholarly works, it
@@ -74,18 +55,12 @@ landscape and as yet, is not routinely done by researchers, or expected
 by most journals. What could be done to encourage routine citation of
 research data and software associated with research outputs?
 
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+{% include get-help.md %}
 
 Go to [Thing 8](thing-8.md)
 Citation metrics for data or to [All Things](index.md)
 
-## Learn more
-
-# Data citation principles
-
+{% include learn.md text="Data citation principles" %}
 
 The Force11 Joint Declaration of Data Citation Principles are a set of
 principles for citing data. They are based on the premise that data
@@ -105,16 +80,12 @@ individuals and more than 100 data centres, publishers and societies.
 data citation has not been uniformly adopted, so far, across all
 disciplines?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+{% include get-help.md %}
 
 Go to [Thing 8](thing-8.md)
 Citation metrics for data or to [All Things](index.md)
 
-## Challenge me 
-
-### Data formats and data citation
+{% include challenge.md text="Data formats and data citation" %}
 
 Are some data formats more likely to be cited?
 
@@ -142,10 +113,7 @@ passenger dataset they have provided.
 is likely to make the data more or less accessible, reusable and
 therefore citable?
 
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
+{% include get-help.md %}
 
 Go to [Thing 8](thing-8.md)
 Citation metrics for data or to [All Things](index.md)

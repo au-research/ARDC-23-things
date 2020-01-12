@@ -1,50 +1,29 @@
 ---
-HandheldFriendly: true
-author: ANDS
+author: ARDC
 description: |
-    Thing 6: Long-lived data: curation & preservation Traditional
-    information sources such as books, photos and sculptures can easily
-    survive for years, decades or even centuries but digital items require
-    special care to keep them usable over time. Ensuring data stays
+    Traditional information sources such as books, photos and sculptures can 
+    easily survive for years, decades or even centuries but digital items 
+    require special care to keep them usable over time. Ensuring data stays
     accessible and reusable into the future. Learn about the curation of
     data and try out a free tool for managing file formats.
 keywords: 'Thing 6, reusable data, data, research, research data, australia'
-og:description: |
-    Thing 6: Long-lived data: curation & preservation Traditional
-    information sources such as books, photos and sculptures can easily
-    survive for years, decades or even centuries but digital items require
-    special care to keep them usable over time. Ensuring data stays
-    accessible and reusable into the future. Learn about the curation of
-    data and try out a free tool for managing file formats.
-og:site_name: ANDS
-og:title: 'Thing 6: Long-lived data: curation &amp; preservation'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-6'
-robots: 'index,follow'
-title: 'Thing 6: Long-lived data: curation & preservation - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
-
+title: 'Long-lived data: curation & preservation'
+thing: 6
+categories:
+    - ""
 ---
-
-# Thing 6: Long-lived data: curation & preservation
-
 **<<[Jump to Thing 5](thing-5.md) [Jump to Thing 7](thing-7.md)>>**
 
 Ensuring data stays accessible and reusable into the future.  Learn
 about the curation of data and try out a free tool for managing file
 formats.
 
-1.  **Getting started:** how would you advise someone what to do to make
-    sure their fragile born digital data is robust and long lived?
-2.  **Learn more:** how does archiving, preserving and curating data
-    "Stack" up?
-3.  **Challenge me:** what's in a (PRO)NOM?
+{% include toc.md 
+    start="how would you advise someone what to do to make sure their fragile born digital data is robust and long lived?"
+    learn='how does archiving, preserving and curating data "Stack" up?'
+    challenge="what's in a (PRO)NOM?" %}
 
-
-## Getting started
-### Preserving born digital objects
+{% include start.md text="Preserving born digital objects" %}
 
 Traditional information sources such as books, photos and maps can
 easily survive for years, decades or even centuries but digital items
@@ -61,14 +40,11 @@ require special care to keep them usable over time.
 their born digital objects. For example the family historian, a
 researcher, yourself?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 7](thing-7.md) Data citation for access & attribution or to [All Things](index.md)
 
-## Learn more
-### A model for data curation, preservation and archiving
+{% include learn.md text="A model for data curation, preservation and archiving" %}
 
 ‘Curation’, ‘preservation’, ‘archiving’ … are all commonly used data
 management terms.  Are they all the same thing?
@@ -82,15 +58,12 @@ and curation.
 **Consider:** What do you think about the Stack Model and its relevance
 for data repositories?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 7](thing-7.md)
 Data citation for access & attribution or to [All Things](index.md)
 
-## Challenge me
-### Tools to preserve research data
+{% include challenge.md text="Tools to preserve research data" %}
 
 Data managers often refer to ‘long-lived data formats’, ‘open file
 formats’ and ‘format migration’. The UK National Archives has made
@@ -122,9 +95,7 @@ to profile a small number of files.
 
 **Consider:** Are PRONOM and DROID tools you'd like to explore further?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
+{% include get-help.md %}
 
 Go to [Thing 7](thing-7.md)
 Data citation for access & attribution or to [All Things](index.md)
