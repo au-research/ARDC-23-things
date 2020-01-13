@@ -44,3 +44,4 @@ You can:
 * [Thing 20: Do it with data](things/thing-20.md)
 * [Thing 21: Tools of the trade](things/thing-21.md)
 * [Thing 22: What's in a name?](things/thing-22.md)
+* [Thing 23: Making connections](things/thing-23.md)
