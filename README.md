@@ -40,4 +40,4 @@ You can:
 * [Thing 17: Literacy & outreach](things/thing-17.md)
 * [Thing 18: Data interviews: talk the talk](things/thing-18.md)
 * [Thing 19: APIs & Apps](thing/thing-19.md)
-
+* [Thing 20: Do it with data](things/thing-20.md)
