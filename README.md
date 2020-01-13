@@ -33,6 +33,7 @@ You can:
 * [Thing 9: Licensing data for reuse](things/thing-9.md)
 * [Thing 10: Sharing sensitive data](things/thing-10.md)
 * [Thing 12: Controlled vocabularies for data description](things/thing-12.md)
+* [Thing 13: Walk the crosswalk](thing/thing-13.md)
 * [Thing 14: Identifiers and linked data](things/thing-14.md)
 * [Thing 15: Data management plans](things/thing-15.md)
 * [Thing 16: What are publishers & funders saying about data?](things/thing-16.md)
