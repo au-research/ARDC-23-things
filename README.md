@@ -43,3 +43,4 @@ You can:
 * [Thing 19: APIs & Apps](thing/thing-19.md)
 * [Thing 20: Do it with data](things/thing-20.md)
 * [Thing 21: Tools of the trade](things/thing-21.md)
+* [Thing 22: What's in a name?](things/thing-22.md)
