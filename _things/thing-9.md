@@ -1,44 +1,18 @@
 ---
-layout: page
-HandheldFriendly: true
-author: ANDS
+thing: 9
+title: 'Licensing data for reuse'
+short_title: Licensing data
 description: |
     Understand the importance of data licensing and learn about Creative
     Commons.
-keywords: 'data, research, research data, australia'
-og:description: |
-    Understand the importance of data licensing and learn about Creative
-    Commons.
-og:site_name: ANDS
-og:title: 'Thing 9: Licensing data for reuse'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-9'
-robots: 'index,follow'
-title: 'Licensing data for reuse'
-thing: 9
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+overview:
+ - Getting started: don’t let CC pass you BY!
+ - Learn more: Licensing - a keystone for innovation and business
+ - Challenge me: How does Licensing work in tricky or complex situations?
+categories:
+  - Rights, ethics & sensitive data
 ---
-# Thing 9: Licensing data for reuse
-
-{% include nav_back_forward.md %}
-
-Understand the importance of data licensing and learn about Creative
-Commons.
-
--   **Getting started**: don’t let CC pass you BY!
--   **Learn more**: Licensing - a keystone for innovation and business
--   **Challenge me**: How does Licensing work in tricky or complex
-    situations?
-
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
 ## Getting started
-
 ### Why license research data?
 
 Consider this scenario: You’ve found a dataset you (or your client) is
@@ -63,14 +37,7 @@ and cited.
 which may have commercial value to others - what license would you
 apply?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
 ## Learn more 
-
 ### Data licenses: unlock data for innovation
 
 Enabling reuse of data can speed up research and innovation.  Licensing
@@ -104,14 +71,8 @@ and Innovation Agenda](http://www.innovation.gov.au/page/agenda)?\
 Does your institution have a policy or guidelines around data
 licensing?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
 
 ## Challenge me
-
 ### Data licensing in practice
 
 Not all research data that is shared is licensed for reuse. It should
@@ -131,14 +92,3 @@ be!
 
 **Consider:** Assigning Open Licenses is not routine. Suggest one tip
 for encouraging uptake of 'open' licensing.
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
-
-{% include nav_forward.md %}
-
-### Rights, ethics & sensitive data
-
--   [Thing 9:](thing-9.md) Licensing
--   [Thing 10:](thing-10.md) Sensitive data

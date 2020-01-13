@@ -1,47 +1,18 @@
 ---
-layout: page
-HandheldFriendly: true
-author: ANDS
-description: |
-    Thing 7: Data citation for access & attribution. Citation analysis and
-    citation metrics are important to the academic community. Find out where
-    data fits in the citation picture.
-keywords: |
-    Thing 7, data citation, citation analysis, citation metrics,data,
-    research, research data, australia
-og:description: |
-    Thing 7: Data citation for access & attribution. Citation analysis and
-    citation metrics are important to the academic community. Find out where
-    data fits in the citation picture.
-og:site_name: ANDS
-og:title: 'Thing 7: Data citation for access &amp; attribution'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-7'
-robots: 'index,follow'
-title: 'Data citation for access & attribution'
 thing: 7
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+title: 'Data citation for access & attribution'
+short_title: Citation
+description: |
+    Citation analysis and citation metrics are important to the academic 
+    community. Find out where data fits in the citation picture.
+overview
+ - Getting started: how to cite data
+ - Learn more: may the FORCE(11) be with you (while you cite data)
+ - Challenge me: are some data formats more likely to be cited?
+categories:
+    - Data citation & impact
 ---
-#Thing 7: Data citation for access & attribution
-
-{% include nav_back_forward.md %}
-
-Citation analysis and citation metrics are important to the academic
-community. Find out where data fits in the citation picture.
-
--   **Getting started**: how to cite data
--   **Learn more**: may the FORCE(11) be with you (while you cite data)
--   **Challenge me**: are some data formats more likely to be cited?
-
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
 ## Getting started 
-
 ### Citing research data
 
 Data citation continues the tradition of acknowledging other people’s
@@ -76,16 +47,8 @@ landscape and as yet, is not routinely done by researchers, or expected
 by most journals. What could be done to encourage routine citation of
 research data and software associated with research outputs?
 
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
-
-{% include nav_forward.md %}
-
 ## Learn more
 ### Data citation principles
-
 
 The Force11 Joint Declaration of Data Citation Principles are a set of
 principles for citing data. They are based on the premise that data
@@ -105,14 +68,7 @@ individuals and more than 100 data centres, publishers and societies.
 data citation has not been uniformly adopted, so far, across all
 disciplines?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
-
-{% include nav_forward.md %}
-
-## Challenge me 
-
+## Challenge me
 ### Data formats and data citation
 
 Are some data formats more likely to be cited?
@@ -140,15 +96,3 @@ passenger dataset they have provided.
 2\. What is your opinion about whether publishing data as a visualisation
 is likely to make the data more or less accessible, reusable and
 therefore citable?
-
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
-
-{% include nav_forward.md %}
-
-### Data citation & impact
-
--   [Thing 7:](thing-7.md) Citation
--   [Thing 8:](thing-8.md) Metrics

@@ -1,29 +1,18 @@
 ---
-author: ARDC
+thing: 17
+title: 'Data literacy & outreach'
+short_title: 'Literacy & outreach'
 description: |
     What resources exist for building an inclusive culture of data literacy
     - not just scientists and science disciplines?  Find resources and think
     about the skills we need as information and data professionals
-keywords: 'data, research, research data, australia'
-title: 'Data literacy & outreach'
-short_title: 'Literacy & outreach'
-thing: 17
+overview:
+ - Getting started: enjoy a quirky video and find some resources to build data literacy
+ - Learn more: tinker, tailor, soldier, sailor?: is data literacy the same for all of us?
+ - Challenge me: B(uild)YO data technical skills through the 4 Carpentries
 categories: 
     - "Let's talk data"
 ---
-
-What resources exist for building an inclusive culture of data literacy
-- not just scientists and science disciplines?  Find resources and think
-about the skills we need as information and data professionals
-
--   **Getting started**: enjoy a quirky video and find some resources to
-    build data literacy
--   **Learn more**: tinker, tailor, soldier, sailor?: is data literacy
-    the same for all of us?
--   **Challenge me**: B(uild)YO data technical skills through the 4
-    Carpentries
-
-
 ## Getting started
 ### Building data literacy - what can you do?
 
@@ -57,13 +46,6 @@ citizens.
     recommendations](http://libereurope.eu/wp-content/uploads/The%20research%20data%20group%202012%20v7%20final.pdf)
     for libraries to get started with research data management from
     LIBER (3 pages)
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 18](thing-18.md) Data interviews or [All Things](index.md)
-
 
 ## Learn more
 ### Data literacy for whom?
@@ -100,12 +82,6 @@ perspectives of these diverse roles:
 **Consider:** your ideas about how we can build universal data literacy
 if we have such diverse needs.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 18](thing-18.md) Data interviews or [All Things](index.md)
-
 ## Challenge me
 ### DIY to build your own data literacy
 
@@ -133,18 +109,3 @@ We will get more hands-on with Carpentry in Thing 21
 
 **Consider:** your ideas or experience about the value of the various
 Carpentry courses.
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 18](thing-18.md) Data interviews or [All Things](index.md)
-
-### Let's talk data
-
-Data conversations make sense - ensuring data is an asset.
-
--   [Thing 15:](thing-15.md) Data management plans
--   [Thing 16:](thing-16.md) Publishers & funders
--   [Thing 17:](thing-17.md) Literacy & outreach
--   [Thing 18:](thing-18.md) Data interviews

@@ -1,49 +1,18 @@
 ---
-layout: page
-HandheldFriendly: true
-author: ANDS
+thing: 12
+title: 'Vocabularies for data description'
 description: |
     Data descriptor, keyword, subject … these are all terms commonly used
     when discussing metadata.  Learn about the use of controlled
     vocabularies to enhance data discovery.
-keywords: 'data, research, research data, australia'
-og:description: |
-    Data descriptor, keyword, subject … these are all terms commonly used
-    when discussing metadata.  Learn about the use of controlled
-    vocabularies to enhance data discovery.
-og:site_name: ANDS
-og:title: 'Thing 12: Vocabularies for data description'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12'
-robots: 'index,follow'
-title: 'Vocabularies for data description'
-thing: 12
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+overview:
+ - Get started: Control your language, please!
+ - Learn more: Make a contribution to Research Vocabularies Australia
+ - Challenge me: KWA - the CSIRO  Science Keyword Aggregator - a service and widget
+categories:
+    - Metadata & more
 ---
-
-#Thing 12: Vocabularies for data description
-
-{% include nav_back_forward.md %}
-
-Data descriptor, keyword, subject … these are all terms commonly used
-when discussing metadata.  Learn about the use of controlled
-vocabularies to enhance data discovery.
-
--   **Get started:** Control your language, please!
--   **Learn more**: Make a contribution to Research Vocabularies
-    Australia
--   **Challenge me**: KWA - the CSIRO  Science Keyword Aggregator - a
-    service and widget
-
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
 ## Getting started: 
-
 ### Controlled vocabularies for data description
 
 In addition to selecting a metadata standard or schema, whenever
@@ -77,14 +46,7 @@ Australia](http://www.ala.org.au/ "ALA").
 **Consider:** How do you think we could encourage people to use
 controlled vocabularies in their data descriptions?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
 ## Learn more
-
 ### What controlled vocabularies exist?
 
 Think about (or find out!) what standard vocabularies are used, or could
@@ -104,14 +66,7 @@ vocabulary is included.
 **Consider:** why your vocabulary should (or shouldn't) be included in
 RVA.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
 ## Challenge me 
-
 ### Supporting multiple vocabularies
 
 The Science Keyword Aggregator has been developed by CSIRO and released
@@ -134,22 +89,3 @@ embed in their application and thus provide a term search there.
 
 **Consider:** Is this a tool that could be implemented in your
 organisation? How would you use it?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
-------------------------------------------------------------------------
-
-
-### Metadata & more
-
-Data is only as valuable as the metadata which describes and
-connects it.
-
--   [Thing 11](thing-11.md): Metadata
--   [Thing 12](thing-12.md): Vocabularies
--   [Thing 13](thing-13.md): Crosswalks
--   [Thing 14](thing-14.md): Identifiers

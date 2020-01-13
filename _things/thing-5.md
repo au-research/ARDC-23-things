@@ -1,45 +1,16 @@
 ---
-layout: page
-HandheldFriendly: true
-author: ANDS
-description: |
-    Thing 5: Data sharing Introducing 'open', 'shared' and 'closed' data.
-    This activity explains why different datasets may have different access
-    conditions.
-keywords: |
-    Thing 5, open data, shared data, closed data,data, research, research
-    data, australia
-og:description: |
-    Thing 5: Data sharing Introducing 'open', 'shared' and 'closed' data.
-    This activity explains why different datasets may have different access
-    conditions.
-og:site_name: ANDS
-og:title: 'Thing 5: Data sharing'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-5'
-robots: 'index,follow'
-title: 'Data sharing'
 thing: 5
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+title: 'Data sharing'
+description: |
+    Research data may be shared in many ways.  This week we look at 3 ways.
+overview:
+- Getting started: "looks at sharing data via access methods: Open, Shared and Closed Data"
+- Learn more: "explores data sharing trends of some countries and by disciplines"
+- Challenge me: "dips into ensuring that data can be shared for a long time via some preservation tools"
+categories:
+ - Repositories for data
 ---
-# Thing 5: Data sharing
-
-{% include nav_back_forward.md %}
-
-Research data may be shared in many ways.  This week we look at 3 ways:
-
-1.  **Getting started** looks at sharing data via access methods: Open,
-    Shared and Closed Data
-2.  **Learn more** explores data sharing trends of some countries and by
-    disciplines
-3.  **Challenge me** dips into ensuring that data can be shared for a
-    long time via some preservation tools
-
-
 ## Getting started
-
 ### Access to research data
 
 Introducing 'open', 'shared' and 'closed' data.
@@ -60,14 +31,7 @@ access conditions.
 
 **Consider:** why more data isn't publicly accessible or more 'open'.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
 ## Learn more
-
 ### Data sharing practices
 
 Repositories are one means by which research data may be shared.
@@ -78,12 +42,6 @@ Repositories are one means by which research data may be shared.
 **Consider:** Why do you think there are differences between disciplines
 and countries - what changes to these statistics would you expect
 between 2014 and now?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
 
 ## Challenge me
 ### Tools to preserve research data
@@ -104,15 +62,3 @@ need to preserve digital data.
 
 **Consider:** Have you, or would you, use any of these tools? How
 feasible it is to expect such preservation tools to be widely used?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
-### Repositories for data
-
-- [Thing 4:](thing-4.md) Data discovery
-- [Thing 5:](thing-5.md) Data sharing
-- [Thing 6:](thing-6.md) Curation & preservation

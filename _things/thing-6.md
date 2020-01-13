@@ -1,50 +1,18 @@
 ---
-layout: page
-HandheldFriendly: true
-author: ANDS
-description: |
-    Thing 6: Long-lived data: curation & preservation Traditional
-    information sources such as books, photos and sculptures can easily
-    survive for years, decades or even centuries but digital items require
-    special care to keep them usable over time. Ensuring data stays
-    accessible and reusable into the future. Learn about the curation of
-    data and try out a free tool for managing file formats.
-keywords: 'Thing 6, reusable data, data, research, research data, australia'
-og:description: |
-    Thing 6: Long-lived data: curation & preservation Traditional
-    information sources such as books, photos and sculptures can easily
-    survive for years, decades or even centuries but digital items require
-    special care to keep them usable over time. Ensuring data stays
-    accessible and reusable into the future. Learn about the curation of
-    data and try out a free tool for managing file formats.
-og:site_name: ANDS
-og:title: 'Thing 6: Long-lived data: curation &amp; preservation'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-6'
-robots: 'index,follow'
-title: 'Long-lived data: curation & preservation'
 thing: 6
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
-
+title: 'Long-lived data: curation & preservation'
+short_title: "Curation & preservation"
+description: |
+    Ensuring data stays accessible and reusable into the future.  Learn
+    about the curation of data and try out a free tool for managing file
+    formats.
+overview:
+ - Getting started: how would you advise someone what to do to make sure their fragile born digital data is robust and long lived?
+ - Learn more: how does archiving, preserving and curating data "Stack" up?
+ - Challenge me: what's in a (PRO)NOM?
+ categories:
+ - Repositories for data
 ---
-
-# Thing 6: Long-lived data: curation & preservation
-
-{% include nav_back_forward.md %}
-
-Ensuring data stays accessible and reusable into the future.  Learn
-about the curation of data and try out a free tool for managing file
-formats.
-
-1.  **Getting started:** how would you advise someone what to do to make
-    sure their fragile born digital data is robust and long lived?
-2.  **Learn more:** how does archiving, preserving and curating data
-    "Stack" up?
-3.  **Challenge me:** what's in a (PRO)NOM?
-
-
 ## Getting started
 ### Preserving born digital objects
 
@@ -63,12 +31,6 @@ require special care to keep them usable over time.
 their born digital objects. For example the family historian, a
 researcher, yourself?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
 ## Learn more
 ### A model for data curation, preservation and archiving
 
@@ -83,12 +45,6 @@ and curation.
 
 **Consider:** What do you think about the Stack Model and its relevance
 for data repositories?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
 
 ## Challenge me
 ### Tools to preserve research data
@@ -122,20 +78,3 @@ If you have time: download the current version of DROID and try using it
 to profile a small number of files.
 
 **Consider:** Are PRONOM and DROID tools you'd like to explore further?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
-### Repositories for data
-
-- [Thing 4:](thing-4.md) Data discovery
-- [Thing 5:](thing-5.md) Data sharing
-- [Thing 6:](thing-6.md) Curation & preservation
-
-### Data citation & impact
-
-- [Thing 7:](thing-7.md) Citation
-- [Thing 8:](thing-8.md) Metrics

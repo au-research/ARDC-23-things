@@ -1,43 +1,18 @@
 ---
-HandheldFriendly: true
-author: ANDS
+thing: 16
+title: 'What are publishers & funders saying about data?'
+short_title: 'Publishers & funders'
 description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
-keywords: 'data, research, research data, australia'
-og:description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
-og:site_name: ANDS
-og:title: 'Thing 16: What are publishers &amp; funders saying about data?'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-16'
-robots: 'index,follow'
-title: 'Thing 16: What are publishers & funders saying about data? - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+    Data sharing policies are becoming increasingly common in Australia and
+    internationally.  Learn why research funders and journal publishers are
+    particularly influential when it comes to encouraging data availability.
+overview:
+ - Getting started: experience what it’s like to navigate journal data policies
+ - Learn more: this newly announced journal data policy might affect data around the globe...
+ - Challenge me: 2020 vision about the future of data and funders
+categories:
+ - Let's talk data
 ---
-
-# Thing 16: What are publishers & funders saying about data?
-**[&lt;&lt;Jump to Thing 15](thing-15.md) &nbsp; [Jump to Thing 17&gt;&gt;](thing-17.md)**
-
-Data sharing policies are becoming increasingly common in Australia and
-internationally.  Learn why research funders and journal publishers are
-particularly influential when it comes to encouraging data availability.
-
--   **Getting started**: experience what it’s like to navigate journal
-    data policies
--   **Learn more**: this newly announced journal data policy might
-    affect data around the globe...
--   **Challenge me**: 2020 vision about the future of data and funders
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
 ## Getting started
 ### Two choices for Thing 16!
 
@@ -88,18 +63,8 @@ traditional journals).
 in data journals rather than, or in addition to, traditional journal
 formats?
 
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-Go to [Thing 17](thing-17.md "thing 17")
-Issues in research data management or to [All Things](index.md)
-
-
 ## Learn more 
 ### Planning to publish: research data
-
 
 The number of funders, journals/publishers and institutions implementing
 a research data policy is growing. However the landscape is complex and
@@ -120,14 +85,6 @@ aiming to publish in one of the Springer journals which has a Type 3 or
 Type 4 data sharing policy. Hint: think about
 what needs to be considered at the start of a research project to enable
 data sharing upon publication at the end.
-
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-Go to [Thing 17](thing-17.md "thing 17")
-Issues in research data management or to [All Things](index.md)
 
 ## Challenge me
 ### Research funders and data sharing
@@ -156,20 +113,3 @@ a look at their data sharing policies:
 Now, imagine it is 2025… **consider** what you think Australian research
 funders will be requiring of researchers who are seeking project
 funding. What does this mean for those working in data support areas?
-
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-Go to [Thing 17](thing-17.md "thing 17")
-Issues in research data management or to [All Things](index.md)
-
-### Let's talk data
-Data conversations make sense - ensuring data is an asset.
-
-* [Thing 15](thing-15.md "Thing 15"): Data management plans
-* [Thing 16](thing-16.md "Thing 16"): Publishers & funders
-* [Thing 17](thing-17.md "Thing 17"): Literacy & outreach
-* [Thing 18](thing-18.md "Thing 18"): Data interviews
-

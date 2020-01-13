@@ -1,44 +1,17 @@
 ---
-HandheldFriendly: true
-author: ANDS
+thing: 18
+title: 'Data interviews: talk the talk'
+short_title: 'Data interviews'
 description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
-keywords: 'data, research, research data, australia'
-og:description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
-og:site_name: ANDS
-og:title: 'Thing 18: Data interviews: talk the talk'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-18'
-robots: 'index,follow'
-title: 'Thing 18: Data interviews: talk the talk - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+    Learn some tips and tricks for responding to data queries and starting a
+    data conversation.
+overview:
+ - Getting started: asking the essential questions to create metadata records, or find out about research data needs
+ - Learn more: conversations starters about research data services, or think about how interviews uncover vital information useful for data planning
+ - Challenge me: in depth interviews reveal the extent to which data reuse is dependent on tools and software - what’s your advice?
+categories:
+    - Let's talk data
 ---
-
-# Thing 18: Data interviews: talk the talk
-**[&lt;&lt;Jump to Thing 17](thing-17.md) &nbsp; &nbsp; [Jump to Thing 19&gt;&gt;](thing-19.md)**
-
-Learn some tips and tricks for responding to data queries and starting a
-data conversation.
-
--   **Getting started**: asking the essential questions to create
-    metadata records, or find out about research data needs
--   **Learn more**: conversations starters about research data services,
-    or think about how interviews uncover vital information useful for
-    data planning
--   **Challenge me**: in depth interviews reveal the extent to which
-    data reuse is dependent on tools and software - what’s your advice?
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
 ## Getting started 
 ### Starting a data conversation
 
@@ -57,12 +30,6 @@ what is available at your organisation.
 
 **Consider:** what are some ideas you may have for conversation
 starters?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-Go to [Thing 19](thing-19.md "thing 19") Exploring APIs and Apps or to [All Things](index.md)
 
 ## Learn more
 ### Tools for data interviews
@@ -108,14 +75,6 @@ Profile like the one you have just looked at.
 **Consider:** choose one question where the researcher did not know how
 to respond. What would you do to support the researcher with this
 concept?
-
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-
-Go to [Thing 19](thing-19.md "thing 19") Exploring APIs and Apps or to [All Things](index.md)
 
 ## Challenge me
 ### Data Curation Profiles in depth
@@ -166,20 +125,3 @@ elsewhere."*
 **Consider:** what options could you offer the researcher to achieve
 their high and medium priorities? If you can't offer advice, how could
 you find a potential solution?
-
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-
-Go to [Thing 19](thing-19.md "thing 19") Exploring APIs and Apps or to [All Things](index.md)
-
-### Let's talk data
-Data conversations make sense - ensuring data is an asset.
-
-* [Thing 15](thing-15.md "Thing 15"): Data management plans
-* [Thing 16](thing-16.md "Thing 16"): Publishers & funders
-* [Thing 17](thing-17.md "Thing 17"): Literacy & outreach
-* [Thing 18](thing-18.md "Thing 18"): Data interviews
-

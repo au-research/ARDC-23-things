@@ -1,43 +1,16 @@
 ---
-layout: page
-HandheldFriendly: true
-author: ANDS
+thing: 10
+title: 'Sharing sensitive data'
 description: |
     Sharing sensitive data requires careful consideration, but it can be done.  Find out how.
-keywords: 'data, research, research data, australia'
-og:description: |
-    Sharing sensitive data requires careful consideration, but it can be done.  Find out how.
-og:site_name: ANDS
-og:title: 'Thing 10: Sharing sensitive data'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-10'
-robots: 'index,follow'
-title: 'Sharing sensitive data'
-thing: 10
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+overview:
+ -   Getting started: If it’s so sensitive - how can it possibly be shared and published?!
+ -   Learn more: Who are the “data gatekeepers”?
+ -   Challenge me: Make me anonymous
+categories:
+  - Rights, ethics & sensitive data
 ---
-
-#Thing 10: Sharing sensitive data
-
-{% include nav_back_forward.md %}
-
-Sharing sensitive data requires careful consideration, but it can be
-done.  Find out how.
-
--   **Getting started:** If it’s so sensitive - how can it possibly be
-    shared and published?!
--   **Learn more:** Who are the “data gatekeepers”?
--   **Challenge me:** Make me anonymous
-
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
 ## Getting started 
-
 ### Sensitive data *can* be shared!
 
 Major, familiar, categories of sensitive data are
@@ -82,15 +55,7 @@ survey:
     participants' questions about publishing “their data for all the
     world to see”?
 
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
 ## Learn more
-
 ### The ethics of sensitive data
 
 How we manage sensitive data through its lifecycle and who has a role in
@@ -115,17 +80,8 @@ discussion or workshop.
 **Consider:** Try answering two of the squares in the data ethics canvas
 based on a research project you a familiar with.
 
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
 ## Challenge me
-
 ### Anonymising sensitive data
-
 
 De-identification (also called anonymisation or confidentialisation in
 some cases) is most commonly undertaken to protect the privacy of
@@ -146,14 +102,3 @@ findings or endangered species.
 
 **Consider:** What types of data are there for which de-identification
 might not be needed or appropriate?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-{% include nav_forward.md %}
-
-### Rights, ethics & sensitive data
-
--   [Thing 9:](thing-9.md) Licensing
--   [Thing 10:](thing-10.md) Sensitive data

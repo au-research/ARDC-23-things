@@ -1,48 +1,22 @@
 ---
-layout: page
-HandheldFriendly: true
-author: ANDS
-description: |
-    Thing 15: Some research institutions and research funders now require researchers
-    to submit a Data Management Plan (DMP) for new projects. What should a
-    DMP cover? Could you help with one?
-keywords: 'data, research, research data, australia'
-og:description: |
-    Thing 15: Some research institutions and research funders now require researchers
-    to submit a Data Management Plan (DMP) for new projects. What should a
-    DMP cover? Could you help with one?
-og:site_name: ANDS
-og:title: 'Thing 15: Data management plans'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-15'
-robots: 'index,follow'
-title: 'Data management plans'
 thing: 15
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+title: 'Data management plans'
+description: |
+    Some research institutions and research funders now require researchers
+    to submit a Data Management Plan (DMP) for new projects. What should a
+    DMP cover? Could you help with one?
+overview:
+ - Getting started: What’s a DMP?
+ - Learn more: Why machine-actionable DMPs?
+ - Challenge me: Exploring DMP Tools
+categories:
+    - Let's talk data
 ---
-# Thing 15: Data management plans
-
-{% include nav_back_forward.md %}
-
-Some research institutions and research funders now require researchers
-to submit a Data Management Plan (DMP) for new projects. What should a
-DMP cover? Could you help with one?
-
--   **Getting started**: What’s a DMP?
--   **Learn more**: Why machine-actionable DMPs?
--   **Challenge me**: Exploring DMP Tools
 
 [Find out about the work of the Australasian DMP Interest
 Group](http://tiny.cc/DMP-IG)
 
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
 ## Getting started 
-
 ### An introduction to Data Management Plans
 
 A Data Management Plan (DMP) documents how data will be managed, stored
@@ -64,14 +38,7 @@ project proposal.
 extremely long and complex. What do you think are the two or three
 pieces of information essential to include in every DMP and why?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
-
-{% include nav_forward.md %}
-
 ## Learn more
-
 ### Templates for Data Management Plans
 
 Imagine if the information contained in a DMP could flow across other
@@ -102,14 +69,7 @@ definition](https://www.ddialliance.org/taxonomy/term/198)).
 **Consider:** Do you think machine-actionable DMPs will make them more
 valuable to researchers? Institutions? Funders?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
-
-{% include nav_forward.md %}
-
 ## Challenge me 
-
 ### Data Management Plans for the Humanities
 
 1.  First have a look at the [The DMPTool: A Brief Overview 90 sec
@@ -131,18 +91,3 @@ goals or further enhancements?
 
 [Find out about the work of the Australasian DMP Interest
 Group](http://tiny.cc/DMP-IG)
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag#23things
-
-{% include nav_forward.md %}
-
-### Let's talk data
-
-Data conversations make sense - ensuring data is an asset.
-
--   [Thing15:](thing-15.md) Data management plans
--   [Thing16:](thing-16.md) Publishers & funders
--   [Thing17:](thing-17.md) Literacy & outreach
--   [Thing18:](thing-18.md) Data interviews

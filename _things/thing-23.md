@@ -1,12 +1,11 @@
 ---
-author: ARDC
+thing: 23
+title: 'Making connections'
 description: |
     Keep learning and stay connected after 23 (research data) Things.  Take
     time to celebrate and reflect on all you've learned since joining the 23
     (research data) Things.    
-keywords: 'data, research, research data, australia'
-title: 'Making connections'
-
+overview:
 ---
 
 Keep learning and stay connected after 23 (research data) Things.  Take
@@ -16,7 +15,7 @@ time to celebrate and reflect on all you've learned since joining the 23
 ## Time to celebrate and make a plan
 
 How will you celebrate your new found skills and knowledge and what do
-you plan to do next to further your data literacy journey? **** There
+you plan to do next to further your data literacy journey? There
 are so many ways to keep in touch and up to date with data. The info
 below is not exhaustive - you are now data literate and can help us grow
 this list!
@@ -212,17 +211,3 @@ with your supervisor.
 -   Download your [participation
     certificate](https://www.ands.org.au/__data/assets/word_doc/0004/590773/ParticipationCertificate.docx "23(research data) Things participation certificate")
 -   Update your PD records and ALIA PD points
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-
-### Ready, set, data
-
-Kick off your research data journey with some data basics.
-
-
--   [Thing 1](thing-1.md): Start
--   [Thing 2](thing-2.md): RDM Issues
--   [Thing 3](thing-3.md): Lifecycle

@@ -1,25 +1,17 @@
 ---
-author: ARDC
+thing: 13
+title: 'Walk the crosswalk'
+short_title: 'Crosswalks'
 description: |
     There are times when metadata created using one standard will need to be transformed
     or crosswalked to another standard so that metadata can been shared between systems.
-keywords: 'data, research, research data, australia'
-title: 'Walk the crosswalk'
-short_title: 'Crosswalks'
-thing: 13
+overview:
+ - Getting started: start walking the crosswalks for metadata
+ - Learn more: Hands on with crosswalking Dublin Core
+ - Challenge me: Hands-on with XSLT
 categories:
     - "Metadata & more"
 ---
-
-There are times when metadata created using one standard will need to be
-transformed or crosswalked to another standard so that metadata can been
-shared between systems.
-
--   **Getting started:** start walking the crosswalks for metadata
--   **Learn more**: Hands on with crosswalking Dublin Core
--   **Challenge me**: Hands-on with XSLT
-
-
 ## Getting started
 ### Why do we need crosswalks?
 
@@ -54,13 +46,6 @@ records provide exactly the same information? Or are there differences?
 Why can’t we have one metadata schema to rule them all, and not worry
 about having to crosswalk?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 14](thing-14.md) Identifiers and linked data or [All
-Things](index.md)
-
 ## Learn more
 ### Try your hand at a crosswalk
 
@@ -91,13 +76,6 @@ get a feel for the process.
 **Consider:** the most confounding issue you encountered in make your
 Crosswalk. How did you overcome it?
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 14](thing-14.md) Identifiers and linked data or [All
-Things](index.md)
-
 ## Challenge me
 ### An introduction to XSL for crosswalks
 
@@ -125,20 +103,3 @@ to create, edit and display XML.
 
 **Consider:** do you think experience with XML would be useful in your
 workplace?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 14](thing-14.md) Identifiers and linked data or [All
-Things](index.md)
-
-### Metadata & more
-
-    Data is only as valuable as the metadata which describes and
-    connects it.
-
--   [Thing 11](thing-11.md): Metadata
--   [Thing 12](thing-12.md): Vocabularies
--   [Thing 13](thing-13.md): Crosswalks
--   [Thing 14](thing-14.md): Identifiers

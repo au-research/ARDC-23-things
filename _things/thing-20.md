@@ -1,26 +1,17 @@
 ---
-author: ARDC
-description: |
-    It has been said that 80% of all research data has a geographic or
-spatial component.
-keywords: 'data, research, research data, australia'
+thing: 20
 title: 'Find it with data!'
 short_title: 'Do it with data'
+description: |
+    It has been said that 80% of all research data has a geographic or
+    spatial component.
+overview:
+ - Getting started: get inspired by geospatial data saving lives and kick starting our economy
+ - Learn more: geospatial metadata is often the ‘missing link’ for cross disciplinary studies - find out how to fill in this missing link
+ - Challenge me: R, free GIS and Fusion are all available to tempt you for this Thing!
 categories:
     - 'Hands on with data & tools'
 ---
-
-It has been said that 80% of all research data has a geographic or
-spatial component.
-
--   **Getting started**: get inspired by geospatial data saving lives
-    and kick starting our economy
--   **Learn more**: geospatial metadata is often the ‘missing link’ for
-    cross disciplinary studies - find out how to fill in this missing
-    link
--   **Challenge me**: R, free GIS and Fusion are all available to tempt
-    you for this Thing!
-
 ## Getting started
 ### Spatial data: maps and more
 
@@ -49,12 +40,6 @@ You may be surprised at how ‘alive’ your street is. ****
 
 **Consider:** why do you think these geospatial visualisations are so
 powerful?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 21](thing-21.md) or [All Things](index.md)
 
 ## Learn more
 ### Searching for spatial data
@@ -100,12 +85,6 @@ got over 300 datasets.
 **Reflect:** were you surprised by the breadth of data available for
 your location? What new research questions could be explored because of
 the diversity of data search results for your chosen location?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 21](thing-21.md) or [All Things](index.md)
 
 ## Challenge me
 ### Hands on with spatial data
@@ -156,17 +135,3 @@ customise your map.
 **Consider**: the data world is hungry for Geospatial tools and metadata
 and there is growing demand for people with these skills. How can these
 skills be encouraged in your institution?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 21](thing-21.md) or [All Things](index.md)
-
-### Hands on with data & tools
-
-Delve into domain specific data and play with some cool tools!
-
--   [Thing 19:](thing-19.md) APIs & Apps
--   [Thing 20:](thing-20.md) Do it with data
--   [Thing 21:](thing-21.md) Tools

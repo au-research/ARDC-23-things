@@ -1,27 +1,19 @@
 ---
-author: ARDC
+thing: 19
+title: 'Exploring APIs and Apps'
+short_title: 'APIs & Apps'
 description: |
     APIs and Apps are the engines behind making data usable. Find out what
     they are and how they make data accessible to us all. Get hands on to
     explore and use APIs relevant to research data including services
     offered by ANDS and the National Library of Australia.
-keywords: 'data, research, research data, australia'
-title: 'Exploring APIs and Apps'
-short_title: 'APIs & Apps'
+overview:
+ - Getting started: try some Culture Collage and get some apps to become a citizen scientist
+ - Learn more: explore the API treasures of Trove
+ - Challenge me: play with some APIs for ANDS services
 categories:
     - 'Hands on with data & tools'
-
 ---
-APIs and Apps are the engines behind making data usable. Find out what
-they are and how they make data accessible to us all. Get hands on to
-explore and use APIs relevant to research data including services
-offered by ANDS and the National Library of Australia.
-
--   **Getting started**: try some Culture Collage and get some apps to
-    become a citizen scientist
--   **Learn more**: explore the API treasures of Trove
--   **Challenge me**: play with some APIs for ANDS services
-
 ## Getting started
 ### An introduction to APIs and Apps
 
@@ -89,12 +81,6 @@ Choose one or both of these links to explore:
 think about the source of the data which enables real time transport
 information to be presented to you via an easy to read App and/or API.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 20](thing-20.md) Find it with data! or [All Things](index.md)
-
 ## Learn more
 ### Discover the treasures in Trove
 
@@ -135,12 +121,6 @@ get an API key and add '&key=\[Your API key\]' to the url.
 
 **Consider:** the success of your code query - how could you get
 different results by varying the query?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 20](thing-20.md) Find it with data! or [All Things](index.md)
 
 ## Challenge me
 ### Unleash the power of APIs
@@ -194,17 +174,3 @@ National organisations:
 International organisations:
 
 -   [Re3data.org](https://www.re3data.org/search?query=api "Re3data")
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 20](thing-20.md) Find it with data! or [All Things](index.md)
-
-### Hands on with data & tools
-
-Delve into domain specific data and play with some cool tools!
-
--   [Thing 19:](thing-19.md) APIs & Apps
--   [Thing 20:](thing-20.md) Do it with data
--   [Thing 21:](thing-21.md) Tools

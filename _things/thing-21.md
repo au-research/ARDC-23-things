@@ -1,22 +1,15 @@
 ---
-author: ARDC
+thing: 21
+title: 'Tools of the trade'
+short_title: Tools
 description: |
     Dig in to dirty data.  What is it?  Why should we care? Try your hand at
     using an open source data cleansing tool.
-keywords: 'data, research, research data, australia'
-title: 'Tools of the trade'
+overview:
+ - Getting started: Pregnant men? The data says so! Getting down and dirty with data
+ - Learn more: Turn a PDF ‘tabula rasa’ into usable data with Tabula
+ - Challenge me: OpenRefine is a powerful tool for cleaning up lots of  dirty data
 ---
-
-Dig in to dirty data.  What is it?  Why should we care? Try your hand at
-using an open source data cleansing tool.
-
--   **Getting started**: Pregnant men? The data says so! Getting down
-    and dirty with data
--   **Learn more**: Turn a PDF ‘tabula rasa’ into usable data with
-    Tabula
--   **Challenge me**: OpenRefine is a powerful tool for cleaning up lots
-    of  dirty data
-
 ## Getting started
 ### Dirty data stories
 
@@ -55,13 +48,6 @@ use real data from e.g. the World Bank.
 
 **Consider:** the wide ranging implications of how dirty data can impact
 on your life.
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 22](thing-22.md) What’s in a name? or [All Things](index.md)
-
 
 ## Learn more
 ### Extracting and scraping data
@@ -116,16 +102,9 @@ creeping into your
 [dataset](http://schoolofdata.org/handbook/courses/data-cleaning/#sthash.O6t7fVMJ.dpuf).
 The School of Data have some really interesting [Data
 Cleansing](http://schoolofdata.org/courses/#IntroDataCleaning) modules.
-****
 
 **Consider: **strategies for encouraging data to be published in more
 re-usable formats rather than PDF.
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 22](thing-22.md) What’s in a name? or [All Things](index.md)
 
 ## Challenge me
 ### Roll up your sleeves: clean up dirty data
@@ -159,17 +138,3 @@ either:
 **Consider:** Carpentry course Trainers and Helpers are often in high
 demand. Would you consider becoming a trainer to teach tools such as
 Open Refine?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 22](thing-22.md) What’s in a name? or [All Things](index.md)
-
-### Ready, set, data
-
-Kick off your research data journey with some data basics.
-
--   [Thing 1](thing-1.md): Start
--   [Thing 2](thing-2.md): RDM Issues
--   [Thing 3](thing-3.md): Lifecycle

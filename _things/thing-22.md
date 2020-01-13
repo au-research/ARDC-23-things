@@ -1,24 +1,15 @@
 ---
-author: ARDC
+thing: 22
+title: "What's in a name?"
 description: |
     Learn about the key players in Australia’s research data management
     ecosystem and how these players combine to make generation, management
     and publication big data possible.
-keywords: 'data, research, research data, australia'
-title: "What's in a name?"
-
+overview:
+ - Getting started: sample some acronym soup
+ - Learn more: it doesn’t get much bigger than a telescope which is a square kilometre big!
+ - Challenge me: explore some virtual laboratories and continental maps
 ---
-
-Learn about the key players in Australia’s research data management
-ecosystem and how these players combine to make generation, management
-and publication big data possible.
-
--   **Getting started**: sample some acronym soup
--   **Learn more**: it doesn’t get much bigger than a telescope which is
-    a square kilometre big!
--   **Challenge me**: explore some virtual laboratories and continental
-    maps
-
 ## Getting started
 ### Who's who in the acronym soup?
 
@@ -81,12 +72,6 @@ Commons ([ARDC](ardc.edu.au "ARDC")).
     transformed for the benefit of all New Zealanders - and ICT is a key
     tool that will make this possible.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 22](thing-22.md) Making connections or [All Things](index.md)
-
 ## Learn more
 ### Big data: the sky is not the limit!
 
@@ -147,12 +132,6 @@ these organisations in isolation could never have achieved.
 called 'long tail of research data' (smaller data sets) are often not
 published.
 
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 22](thing-22.md) Making connections or [All Things](index.md)
-
 ## Challenge me
 ### National infrastructure supporting Australian research
 
@@ -175,17 +154,3 @@ particularly for social science and health.
 
 **Consider:** how researchers can use NCRIS facilities to help generate,
 manage, share and publish their data.
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using \#23things
-
-Go to [Thing 22](thing-22.md) Making connections or [All Things](index.md)
-
-### Ready, set, data
-
-Kick off your research data journey with some data basics.
-
--   [Thing 1](thing-1.md): Start
--   [Thing 2](thing-2.md): RDM Issues
--   [Thing 3](thing-3.md): Lifecycle

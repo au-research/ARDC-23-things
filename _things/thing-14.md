@@ -1,44 +1,18 @@
 ---
-HandheldFriendly: true
-author: ANDS
+thing: 14
+title: 'Identifiers and linked data'
 description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
-keywords: 'data, research, research data, australia'
-og:description: |
-    The Australian National Data Service (ANDS) is a program funded by the
-    Australian Government to develop research data infrastructure and enable
-    more effective use of Australia's research data assets.
-og:site_name: ANDS
-og:title: 'Thing 14: Identifiers and linked data'
-og:type: website
-og:url: 'https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-14'
-robots: 'index,follow'
-title: 'Thing 14: Identifiers and linked data - ANDS'
-viewport: |
-    width=device-width, initial-scale=1.0, maximum-scale=1.0,
-    user-scalable=0
+    Identifiers are crucial to disambiguation of people, accurate
+    attribution and impact metrics.  We look at identifiers for people -
+    specifically the global people identifier: ORCID, and stray into the
+    fascinating world of linked data.
+overview:
+ - Getting started: What is ORCID and why is the Australian academic world buzzing about it?
+ - Learn more: Choose from 3 ways to cultivate your own ORCIDs
+ - Challenge me: Get hands on with linked data and the semantic web.
+categories:
+    - Metadata & more
 ---
-# Thing 14: Identifiers and linked data
-**[&lt;&lt;Jump to Thing 13](thing-13.md) &nbsp; [Jump to Thing 15&gt;&gt;](thing-15.md)**
-
-Identifiers are crucial to disambiguation of people, accurate
-attribution and impact metrics.  We look at identifiers for people -
-specifically the global people identifier: ORCID, and stray into the
-fascinating world of linked data.
-
--   **Getting started**:  What is ORCID and why is the Australian
-    academic world buzzing about it?
--   **Learn more**:  Choose from 3 ways to cultivate your own ORCIDs
--   **Challenge me**: Get hands on with linked data and the semantic
-    web.
-
-* [Getting started](#getting-started)
-* [Learn more](#learn-more)
-* [Challenge me](#challenge-me)
-
-
 ## Getting started 
 ### How unique are you?
 
@@ -73,12 +47,6 @@ David Burton. How many versions of his name do you see?
 
 **Consider:** why do you think there is an exclamation mark in the
 previous sentence about the publication type for research data?
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-Go to [Thing 15](thing-15.md "thing 15") Data Management Plans or to [All Things](index.md)
 
 ## Learn more 
 ### Creating or updating your ORCID profile
@@ -122,13 +90,6 @@ members).
 **Consider:** how funders and publishers are using ORCID and what impact
 that will have on you, your institution and researchers.
 
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-Go to [Thing 15](thing-15.md "thing 15") Data Management Plans or to [All Things](index.md)
-
 ## Challenge me 
 ### Identifiers and linked data
 
@@ -166,18 +127,3 @@ and the Semantic Web and what is all the hype about?
 [Introducing RDFS & OWL](http://www.linkeddatatools.com/introducing-rdfs-owl)) to describe any research objects familiar to you.
 
 **Consider:** how these tools could be used to support linked data.
-
-Do you have a question?  Want to share a resource?
-- Post to the [Data Librarians Slack group](https://tiny.cc/data-librarians) to connect with the community.
-- Tweet to [@ardc_au](https://twitter.com/ARDC_AU) using hashtag #23things
-
-Go to [Thing 15](thing-15.md "thing 15") Data Management Plans or to [All Things](index.md)
-
-### Metadata & more
-Data is only as valuable as the metadata which describes and connects it.
-
-* [Thing 11](thing-11.md "Thing 11"): Metadata
-* [Thing 12](thing-12.md "Thing 12"): Vocabularies
-* [Thing 13](thing-13.md "Thing 13"): Crosswalks
-* [Thing 14](thing-14.md "Thing 14"): Identifiers
-
