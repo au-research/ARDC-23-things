@@ -9,8 +9,7 @@ overview:
  - Getting started: what are DOIs and why are they critical for accurate citation metrics?
  - Learn more: delves into altmetrics (and donuts!)
  - Challenge me: what about minting DOIs for software, algorithms and grey literature?
- categories:
-    - Data citation & impact
+category: Data citation & impact
 ---
 **Did you know?** You don't need to do all three streams, or even stay
 in the same stream. 23 Things is about picking which Things and streams

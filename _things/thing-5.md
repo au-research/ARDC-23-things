@@ -7,8 +7,7 @@ overview:
 - Getting started: "looks at sharing data via access methods: Open, Shared and Closed Data"
 - Learn more: "explores data sharing trends of some countries and by disciplines"
 - Challenge me: "dips into ensuring that data can be shared for a long time via some preservation tools"
-categories:
- - Repositories for data
+category: Repositories for data
 ---
 ## Getting started
 ### Access to research data

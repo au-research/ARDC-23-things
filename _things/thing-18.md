@@ -9,8 +9,7 @@ overview:
  - Getting started: asking the essential questions to create metadata records, or find out about research data needs
  - Learn more: conversations starters about research data services, or think about how interviews uncover vital information useful for data planning
  - Challenge me: in depth interviews reveal the extent to which data reuse is dependent on tools and software - what’s your advice?
-categories:
-    - Let's talk data
+category: Let's talk data
 ---
 ## Getting started 
 ### Starting a data conversation

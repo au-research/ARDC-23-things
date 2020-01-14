@@ -8,10 +8,9 @@ description: |
     about the skills we need as information and data professionals
 overview:
  - Getting started: enjoy a quirky video and find some resources to build data literacy
- - Learn more: tinker, tailor, soldier, sailor?: is data literacy the same for all of us?
+ - Learn more: "tinker, tailor, soldier, sailor?: is data literacy the same for all of us?"
  - Challenge me: B(uild)YO data technical skills through the 4 Carpentries
-categories: 
-    - "Let's talk data"
+category: "Let's talk data"
 ---
 ## Getting started
 ### Building data literacy - what can you do?

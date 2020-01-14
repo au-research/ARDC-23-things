@@ -9,8 +9,7 @@ overview:
  - Getting started: start walking the crosswalks for metadata
  - Learn more: Hands on with crosswalking Dublin Core
  - Challenge me: Hands-on with XSLT
-categories:
-    - "Metadata & more"
+category: "Metadata & more"
 ---
 ## Getting started
 ### Why do we need crosswalks?

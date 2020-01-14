@@ -4,8 +4,7 @@ title: 'Making connections'
 description: |
     Keep learning and stay connected after 23 (research data) Things.  Take
     time to celebrate and reflect on all you've learned since joining the 23
-    (research data) Things.    
-overview:
+    (research data) Things.
 ---
 
 Keep learning and stay connected after 23 (research data) Things.  Take

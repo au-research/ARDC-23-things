@@ -9,8 +9,7 @@ overview:
  - Getting started: don’t let CC pass you BY!
  - Learn more: Licensing - a keystone for innovation and business
  - Challenge me: How does Licensing work in tricky or complex situations?
-categories:
-  - Rights, ethics & sensitive data
+category: Rights, ethics & sensitive data
 ---
 ## Getting started
 ### Why license research data?

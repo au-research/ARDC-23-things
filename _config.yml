@@ -27,7 +27,6 @@ baseurl: "/ARDC-23-things" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ARDC_AU
 github_username:  au-research
-last_thing: 23 # the last thing... used to limit navigation
 # Build settings
 theme: minima
 collections:
@@ -54,3 +53,12 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      author: ARDC
+      layout: page 

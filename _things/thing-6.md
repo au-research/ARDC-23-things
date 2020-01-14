@@ -10,8 +10,7 @@ overview:
  - Getting started: how would you advise someone what to do to make sure their fragile born digital data is robust and long lived?
  - Learn more: how does archiving, preserving and curating data "Stack" up?
  - Challenge me: what's in a (PRO)NOM?
- categories:
- - Repositories for data
+category: Repositories for data
 ---
 ## Getting started
 ### Preserving born digital objects

@@ -9,8 +9,7 @@ overview:
  - Getting started: get inspired by geospatial data saving lives and kick starting our economy
  - Learn more: geospatial metadata is often the ‘missing link’ for cross disciplinary studies - find out how to fill in this missing link
  - Challenge me: R, free GIS and Fusion are all available to tempt you for this Thing!
-categories:
-    - 'Hands on with data & tools'
+category: 'Hands on with data & tools'
 ---
 ## Getting started
 ### Spatial data: maps and more

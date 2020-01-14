@@ -10,8 +10,7 @@ overview:
  - Getting started: experience what it’s like to navigate journal data policies
  - Learn more: this newly announced journal data policy might affect data around the globe...
  - Challenge me: 2020 vision about the future of data and funders
-categories:
- - Let's talk data
+category: Let's talk data
 ---
 ## Getting started
 ### Two choices for Thing 16!

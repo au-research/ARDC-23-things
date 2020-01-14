@@ -5,10 +5,11 @@ short_title: Start
 description: |
     Research data comes in many shapes and sizes. Kick off your research 
     data journey and start sharing your stories.
-Overview:
-    - Getting started: is for you if you are just beginning to learn about research data
-    - Learn more: is if you know a bit but want to know more
-    - Challenge me: is often more technical or assumes that you are familiar with at least the basics of managing and wrangling research data.
+overview:
+    Getting started: is for you if you are just beginning to learn about research data
+    Learn more: is if you know a bit but want to know more
+    Challenge me: is often more technical or assumes that you are familiar with at least the basics of managing and wrangling research data.
+layout: thing
 ---
 
 **Do I have to do them all?** No - you can pick'n'mix a different stream

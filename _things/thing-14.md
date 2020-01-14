@@ -10,8 +10,7 @@ overview:
  - Getting started: What is ORCID and why is the Australian academic world buzzing about it?
  - Learn more: Choose from 3 ways to cultivate your own ORCIDs
  - Challenge me: Get hands on with linked data and the semantic web.
-categories:
-    - Metadata & more
+category: Metadata & more
 ---
 ## Getting started 
 ### How unique are you?

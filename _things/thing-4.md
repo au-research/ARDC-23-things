@@ -8,6 +8,7 @@ overview:
  - Getting started: explore Research Data Australia to find research data
  - Learn more: what's in (and what's not in) the 2,000+ data repositories in re3data?
  - Challenge me: can we Trust that repository and how would we know?
+category: Repositories for data
 ---
 ## Getting started
 ### Repositories for data discovery

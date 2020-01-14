@@ -9,8 +9,7 @@ overview:
  - Get started: Control your language, please!
  - Learn more: Make a contribution to Research Vocabularies Australia
  - Challenge me: KWA - the CSIRO  Science Keyword Aggregator - a service and widget
-categories:
-    - Metadata & more
+category: Metadata & more
 ---
 ## Getting started: 
 ### Controlled vocabularies for data description

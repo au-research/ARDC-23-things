@@ -10,8 +10,6 @@ overview:
  - Learn more: how would you modify a Lifecycle model for your institution?
  - Challenge me: share the current emerging opportunities for institutions to integrate management systems for your research data assets
 ---
-
-
 ## Getting Started
 ### The lifecycle of research data
 

@@ -9,8 +9,7 @@ overview:
  - Getting started: What’s a DMP?
  - Learn more: Why machine-actionable DMPs?
  - Challenge me: Exploring DMP Tools
-categories:
-    - Let's talk data
+category: Let's talk data
 ---
 
 [Find out about the work of the Australasian DMP Interest

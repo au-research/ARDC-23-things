@@ -7,8 +7,7 @@ overview:
  -   Getting started: If it’s so sensitive - how can it possibly be shared and published?!
  -   Learn more: Who are the “data gatekeepers”?
  -   Challenge me: Make me anonymous
-categories:
-  - Rights, ethics & sensitive data
+category: Rights, ethics & sensitive data
 ---
 ## Getting started 
 ### Sensitive data *can* be shared!

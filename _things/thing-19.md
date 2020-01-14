@@ -11,8 +11,7 @@ overview:
  - Getting started: try some Culture Collage and get some apps to become a citizen scientist
  - Learn more: explore the API treasures of Trove
  - Challenge me: play with some APIs for ANDS services
-categories:
-    - 'Hands on with data & tools'
+category: 'Hands on with data & tools'
 ---
 ## Getting started
 ### An introduction to APIs and Apps
