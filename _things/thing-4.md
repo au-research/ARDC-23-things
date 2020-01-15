@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 4
 title: 'Data discovery'
 description: |

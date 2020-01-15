@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 5
 title: 'Data sharing'
 description: |

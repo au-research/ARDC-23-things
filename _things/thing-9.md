@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 9
 title: 'Licensing data for reuse'
 short_title: Licensing data

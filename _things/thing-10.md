@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 10
 title: 'Sharing sensitive data'
 description: |

@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 20
 title: 'Find it with data!'
 short_title: 'Do it with data'

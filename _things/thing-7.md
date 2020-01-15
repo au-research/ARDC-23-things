@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 7
 title: 'Data citation for access & attribution'
 short_title: Citation

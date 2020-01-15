@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 19
 title: 'Exploring APIs and Apps'
 short_title: 'APIs & Apps'

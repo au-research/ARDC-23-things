@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 21
 title: 'Tools of the trade'
 short_title: Tools

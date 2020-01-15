@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 17
 title: 'Data literacy & outreach'
 short_title: 'Literacy & outreach'

@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 13
 title: 'Walk the crosswalk'
 short_title: 'Crosswalks'

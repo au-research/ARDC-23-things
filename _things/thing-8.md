@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 8
 title: 'DOIs and citation metrics for data'
 short_title: Metrics

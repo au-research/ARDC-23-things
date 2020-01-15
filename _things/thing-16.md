@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 16
 title: 'What are publishers & funders saying about data?'
 short_title: 'Publishers & funders'

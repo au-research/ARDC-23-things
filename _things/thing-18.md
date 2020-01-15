@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 18
 title: 'Data interviews: talk the talk'
 short_title: 'Data interviews'

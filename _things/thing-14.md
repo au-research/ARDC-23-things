@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 14
 title: 'Identifiers and linked data'
 description: |

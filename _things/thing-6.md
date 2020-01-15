@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 6
 title: 'Long-lived data: curation & preservation'
 short_title: "Curation & preservation"

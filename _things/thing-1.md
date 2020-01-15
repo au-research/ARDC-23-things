@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 1
 title: 'Getting started with research data'
 short_title: Start

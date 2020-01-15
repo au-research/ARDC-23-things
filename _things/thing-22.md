@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 22
 title: "What's in a name?"
 description: |

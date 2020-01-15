@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 12
 title: 'Vocabularies for data description'
 description: |

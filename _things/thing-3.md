@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 3
 title: 'Data in the research lifecycle'
 short_title: Lifecycle

@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 23
 title: 'Making connections'
 description: |

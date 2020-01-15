@@ -1,4 +1,5 @@
 ---
+layout: thing
 thing: 15
 title: 'Data management plans'
 description: |
