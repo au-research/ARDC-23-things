@@ -6,9 +6,9 @@ description: |
     It has been said that 80% of all research data has a geographic or
     spatial component.
 overview:
- - Getting started: get inspired by geospatial data saving lives and kick starting our economy
- - Learn more: geospatial metadata is often the ‘missing link’ for cross disciplinary studies - find out how to fill in this missing link
- - Challenge me: R, free GIS and Fusion are all available to tempt you for this Thing!
+ Getting started: get inspired by geospatial data saving lives and kick starting our economy
+ Learn more: geospatial metadata is often the ‘missing link’ for cross disciplinary studies - find out how to fill in this missing link
+ Challenge me: R, free GIS and Fusion are all available to tempt you for this Thing!
 category: 'Hands on with data & tools'
 ---
 ## Getting started

@@ -6,9 +6,9 @@ description: |
     Citation analysis and citation metrics are important to the academic 
     community. Find out where data fits in the citation picture.
 overview:
- - Getting started: how to cite data
- - Learn more: may the FORCE(11) be with you (while you cite data)
- - Challenge me: are some data formats more likely to be cited?
+ Getting started: how to cite data
+ Learn more: may the FORCE(11) be with you (while you cite data)
+ Challenge me: are some data formats more likely to be cited?
 category: Data citation & impact
 ---
 ## Getting started 

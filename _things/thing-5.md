@@ -4,9 +4,9 @@ title: 'Data sharing'
 description: |
     Research data may be shared in many ways.  This week we look at 3 ways.
 overview:
-- Getting started: "looks at sharing data via access methods: Open, Shared and Closed Data"
-- Learn more: "explores data sharing trends of some countries and by disciplines"
-- Challenge me: "dips into ensuring that data can be shared for a long time via some preservation tools"
+ Getting started: "looks at sharing data via access methods: Open, Shared and Closed Data"
+ Learn more: "explores data sharing trends of some countries and by disciplines"
+ Challenge me: "dips into ensuring that data can be shared for a long time via some preservation tools"
 category: Repositories for data
 ---
 ## Getting started

@@ -8,9 +8,9 @@ description: |
     explore and use APIs relevant to research data including services
     offered by ANDS and the National Library of Australia.
 overview:
- - Getting started: try some Culture Collage and get some apps to become a citizen scientist
- - Learn more: explore the API treasures of Trove
- - Challenge me: play with some APIs for ANDS services
+ Getting started: try some Culture Collage and get some apps to become a citizen scientist
+ Learn more: explore the API treasures of Trove
+ Challenge me: play with some APIs for ANDS services
 category: 'Hands on with data & tools'
 ---
 ## Getting started

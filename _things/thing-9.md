@@ -6,9 +6,9 @@ description: |
     Understand the importance of data licensing and learn about Creative
     Commons.
 overview:
- - Getting started: don’t let CC pass you BY!
- - Learn more: Licensing - a keystone for innovation and business
- - Challenge me: How does Licensing work in tricky or complex situations?
+ Getting started: don’t let CC pass you BY!
+ Learn more: Licensing - a keystone for innovation and business
+ Challenge me: How does Licensing work in tricky or complex situations?
 category: Rights, ethics & sensitive data
 ---
 ## Getting started

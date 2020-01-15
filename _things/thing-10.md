@@ -4,9 +4,9 @@ title: 'Sharing sensitive data'
 description: |
     Sharing sensitive data requires careful consideration, but it can be done.  Find out how.
 overview:
- -   Getting started: If it’s so sensitive - how can it possibly be shared and published?!
- -   Learn more: Who are the “data gatekeepers”?
- -   Challenge me: Make me anonymous
+ Getting started: If it’s so sensitive - how can it possibly be shared and published?!
+ Learn more: Who are the “data gatekeepers”?
+ Challenge me: Make me anonymous
 category: Rights, ethics & sensitive data
 ---
 ## Getting started 

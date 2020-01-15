@@ -6,9 +6,9 @@ description: |
     What are Digital Object Identifiers (DOIs) and how do they support data
     citation and metrics for data and related research objects?
 overview:
- - Getting started: what are DOIs and why are they critical for accurate citation metrics?
- - Learn more: delves into altmetrics (and donuts!)
- - Challenge me: what about minting DOIs for software, algorithms and grey literature?
+ Getting started: what are DOIs and why are they critical for accurate citation metrics?
+ Learn more: delves into altmetrics (and donuts!)
+ Challenge me: what about minting DOIs for software, algorithms and grey literature?
 category: Data citation & impact
 ---
 **Did you know?** You don't need to do all three streams, or even stay

@@ -6,11 +6,6 @@ description: |
     time to celebrate and reflect on all you've learned since joining the 23
     (research data) Things.
 ---
-
-Keep learning and stay connected after 23 (research data) Things.  Take
-time to celebrate and reflect on all you've learned since joining the 23
-(research data) Things.
-
 ## Time to celebrate and make a plan
 
 How will you celebrate your new found skills and knowledge and what do
@@ -28,9 +23,7 @@ this list!
     Things [Repurpose
     Toolkit](https://www.ands.org.au/working-with-data/skills/23-research-data-things/toolkit "repurpose toolkit")
 
-
 ### Keep in touch and keep on learning
-
 
 -   [Sign up to ARDC
     News](https://ands-nectar-rds.us7.list-manage.com/track/click?u=b542ef52e49302569068046d9&id=603e0435ba&e=08d3e46578)
@@ -69,7 +62,6 @@ Get social with Twitter
 
 @ARDC\_au  @openaccess\_oz   @ScientificData   @UKDataArchive   \#ResearchData   @resdatall
 
-
 ### Keep on learning through “Do It Yourself“
 
 -   Bookmark [23 (research data)
@@ -93,7 +85,6 @@ Get social with Twitter
     Curriculum](https://library.umassmed.edu/resources/necdmc/modules "New England Collaborative data Management curriculum"):
     7 modules (using Word and Powerpoint)  which you can customise for
     your institution
-
 
 ### Get data tech-savvy
 

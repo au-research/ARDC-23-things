@@ -6,9 +6,9 @@ description: |
     Data and its management change over time. Here we look at data and 
     research lifecycles and make connections between them.
 overview:
- - Getting started: follow the pink circles around the data lifecycle
- - Learn more: how would you modify a Lifecycle model for your institution?
- - Challenge me: share the current emerging opportunities for institutions to integrate management systems for your research data assets
+ Getting started: follow the pink circles around the data lifecycle
+ Learn more: how would you modify a Lifecycle model for your institution?
+ Challenge me: share the current emerging opportunities for institutions to integrate management systems for your research data assets
 ---
 ## Getting Started
 ### The lifecycle of research data

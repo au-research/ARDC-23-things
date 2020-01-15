@@ -6,9 +6,9 @@ description: |
     when discussing metadata.  Learn about the use of controlled
     vocabularies to enhance data discovery.
 overview:
- - Get started: Control your language, please!
- - Learn more: Make a contribution to Research Vocabularies Australia
- - Challenge me: KWA - the CSIRO  Science Keyword Aggregator - a service and widget
+ Get started: Control your language, please!
+ Learn more: Make a contribution to Research Vocabularies Australia
+ Challenge me: KWA - the CSIRO  Science Keyword Aggregator - a service and widget
 category: Metadata & more
 ---
 ## Getting started: 

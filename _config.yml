@@ -55,10 +55,15 @@ collections:
 #   - vendor/ruby/
 
 defaults:
-  -
+   -
     scope:
-      path: ""
-      type: pages
+      path: ''
     values:
       author: ARDC
       layout: page 
+   -
+    scope:
+      path: "_things"
+    values:
+      author: ARDC
+      layout: thing

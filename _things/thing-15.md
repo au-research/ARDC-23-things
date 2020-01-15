@@ -6,9 +6,9 @@ description: |
     to submit a Data Management Plan (DMP) for new projects. What should a
     DMP cover? Could you help with one?
 overview:
- - Getting started: What’s a DMP?
- - Learn more: Why machine-actionable DMPs?
- - Challenge me: Exploring DMP Tools
+ Getting started: What’s a DMP?
+ Learn more: Why machine-actionable DMPs?
+ Challenge me: Exploring DMP Tools
 category: Let's talk data
 ---
 

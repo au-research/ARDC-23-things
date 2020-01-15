@@ -6,9 +6,9 @@ description: |
     There are times when metadata created using one standard will need to be transformed
     or crosswalked to another standard so that metadata can been shared between systems.
 overview:
- - Getting started: start walking the crosswalks for metadata
- - Learn more: Hands on with crosswalking Dublin Core
- - Challenge me: Hands-on with XSLT
+ Getting started: start walking the crosswalks for metadata
+ Learn more: Hands on with crosswalking Dublin Core
+ Challenge me: Hands-on with XSLT
 category: "Metadata & more"
 ---
 ## Getting started

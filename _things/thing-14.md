@@ -7,9 +7,9 @@ description: |
     specifically the global people identifier: ORCID, and stray into the
     fascinating world of linked data.
 overview:
- - Getting started: What is ORCID and why is the Australian academic world buzzing about it?
- - Learn more: Choose from 3 ways to cultivate your own ORCIDs
- - Challenge me: Get hands on with linked data and the semantic web.
+ Getting started: What is ORCID and why is the Australian academic world buzzing about it?
+ Learn more: Choose from 3 ways to cultivate your own ORCIDs
+ Challenge me: Get hands on with linked data and the semantic web.
 category: Metadata & more
 ---
 ## Getting started 

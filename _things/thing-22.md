@@ -6,9 +6,9 @@ description: |
     ecosystem and how these players combine to make generation, management
     and publication big data possible.
 overview:
- - Getting started: sample some acronym soup
- - Learn more: it doesn’t get much bigger than a telescope which is a square kilometre big!
- - Challenge me: explore some virtual laboratories and continental maps
+ Getting started: sample some acronym soup
+ Learn more: it doesn’t get much bigger than a telescope which is a square kilometre big!
+ Challenge me: explore some virtual laboratories and continental maps
 ---
 ## Getting started
 ### Who's who in the acronym soup?

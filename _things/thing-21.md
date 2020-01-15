@@ -6,9 +6,9 @@ description: |
     Dig in to dirty data.  What is it?  Why should we care? Try your hand at
     using an open source data cleansing tool.
 overview:
- - Getting started: Pregnant men? The data says so! Getting down and dirty with data
- - Learn more: Turn a PDF ‘tabula rasa’ into usable data with Tabula
- - Challenge me: OpenRefine is a powerful tool for cleaning up lots of  dirty data
+ Getting started: Pregnant men? The data says so! Getting down and dirty with data
+ Learn more: Turn a PDF ‘tabula rasa’ into usable data with Tabula
+ Challenge me: OpenRefine is a powerful tool for cleaning up lots of  dirty data
 ---
 ## Getting started
 ### Dirty data stories

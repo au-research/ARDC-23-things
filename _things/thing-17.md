@@ -7,9 +7,9 @@ description: |
     - not just scientists and science disciplines?  Find resources and think
     about the skills we need as information and data professionals
 overview:
- - Getting started: enjoy a quirky video and find some resources to build data literacy
- - Learn more: "tinker, tailor, soldier, sailor?: is data literacy the same for all of us?"
- - Challenge me: B(uild)YO data technical skills through the 4 Carpentries
+ Getting started: enjoy a quirky video and find some resources to build data literacy
+ Learn more: "tinker, tailor, soldier, sailor?: is data literacy the same for all of us?"
+ Challenge me: B(uild)YO data technical skills through the 4 Carpentries
 category: "Let's talk data"
 ---
 ## Getting started
