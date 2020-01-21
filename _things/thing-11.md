@@ -1,5 +1,4 @@
 ---
-layout: thing
 thing: 11
 title: "What's my metadata schema?"
 description: |
