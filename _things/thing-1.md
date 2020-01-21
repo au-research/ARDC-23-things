@@ -10,6 +10,7 @@ overview:
  Getting started: is for you if you are just beginning to learn about research data
  Learn more: is if you know a bit but want to know more
  Challenge me: is often more technical or assumes that you are familiar with at least the basics of managing and wrangling research data.
+category: Ready, set, data
 ---
 **Do I have to do them all?** No - you can pick'n'mix a different stream
 each week, or stay in the one stream. You can do as much or as little as
