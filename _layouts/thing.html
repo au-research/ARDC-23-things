@@ -1,0 +1,43 @@
+---
+layout: default
+
+---
+    <nav>
+    	{% if page.previous.url %}
+    	<a href="{{site.baseurl}}{{page.previous.url}}">Previous Thing: {{page.previous.title}}</a> <<
+    	{% endif %}
+    	<a href="{{site.baseurl}}/researchdata/things/">All the things</a>
+    	{% if page.next.url %}
+    	 >> <a href="{{site.baseurl}}{{page.next.url}}">Next Thing: {{page.next.title}}</a>
+    	{% endif %}
+    </nav>
+    <h1>Thing {{page.thing}}: {{ page.title }}</h1>
+    <section>
+    	<p>{{ page.description}}</p>
+    	{% if page.overview %}
+    	<p><ul>
+	    	{% for section in page.overview %}
+	    	<li><a href="#{{section[0] | slugify}}">{{section[0]}}:</a> {{section[1]}}</li>
+	    	{% endfor %}
+    	</ul></p>
+    	{% endif %}
+    </section>
+    <section> 
+      {{ content }}
+    </section>
+    <section>
+     	<p>Do you have a question?  Want to share a resource?</p>
+		<ul>
+			<li>Post to the <a href="https://tiny.cc/data-librarians">Data Librarians Slack group</a> to connect with the community.</li>
+			<li>Tweet to <a href="https://twitter.com/ARDC_AU">@ardc_au</a> using hashtag <a href="https://twitter.com/search?q=%2323things">#23things</a></li>
+		</ul>
+		<p>
+			{% if page.next.url %}
+		 		Keep on going to the <a href="{{site.baseurl}}{{page.next.url}}">next thing: {{page.next.title}}</a> or 
+			{% endif %}
+			return to <a href="{{site.baseurl}}/researchdata/things/">all the things</a>
+		</p>
+    </section>
+    <footer>
+      &copy; {{page.author}}
+    </footer>
