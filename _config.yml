@@ -32,29 +32,7 @@ theme: minima
 collections:
   things:
     output: true
-    order:
-      - thing-1.md
-      - thing-2.md
-      - thing-3.md
-      - thing-4.md
-      - thing-5.md
-      - thing-6.md
-      - thing-7.md
-      - thing-8.md
-      - thing-9.md
-      - thing-10.md
-      - thing-11.md
-      - thing-12.md
-      - thing-13.md
-      - thing-14.md
-      - thing-15.md
-      - thing-16.md
-      - thing-17.md
-      - thing-18.md
-      - thing-19.md
-      - thing-20.md
-      - thing-21.md
-      - thing-22.md
+    sort_by: thing
     permalink: /researchdata/:name
 # Exclude from processing.
 # The following items will not be processed, by default.
