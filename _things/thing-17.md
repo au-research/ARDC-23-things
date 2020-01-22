@@ -4,8 +4,8 @@ thing: 17
 title: 'Data literacy & outreach'
 short_title: 'Literacy & outreach'
 description: |
-    What resources exist for building an inclusive culture of data literacy
-    - not just scientists and science disciplines?  Find resources and think
+    What resources exist for building an inclusive culture of data literacy - 
+    not just scientists and science disciplines?  Find resources and think
     about the skills we need as information and data professionals
 overview:
  Getting started: enjoy a quirky video and find some resources to build data literacy
