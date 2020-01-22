@@ -11,7 +11,7 @@ overview:
  - Challenge me: Hands on with ANZLIC or XML - You choose!
 category: Metadata & more
 ---
-## Getting started
+## Getting started/
 ### Metadata: describing research data
 
 Metadata is your best data friend. Metadata is structured information
