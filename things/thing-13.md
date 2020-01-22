@@ -82,9 +82,7 @@ Go to [Thing 14](thing-14.md) Identifiers and linked data or [All
 Things](index.md)
 
 ## Challenge me
-### An introduction to XSL for crosswalks
-
-Hands on with XML!
+### An introduction to the technical side of crosswalks
 
 This activity will provide an interactive introduction to XSLT using a
 free online tool.
@@ -92,19 +90,96 @@ free online tool.
 Many well-known metadata standards are expressed as XML schemas,
 including MARCXML, Dublin Core, MODS, METS, EAD, RIF-CS and others. The
 flexible structure of XML makes it possible to convert data from one
-metadata standard to another using an XSLT. XSLT (Extensible Stylesheet
-Language Transformations) is a language for transforming XML documents
-into other XML documents.
+metadata standard to another using XSLT (Extensible Stylesheet
+Language Transformations). XSLT is a language for transforming XML documents
+into other XML documents (or into HTML), and XSLT files can be considered machine-readable crosswalks.
 
-1\. Start by having a look at some of the
-[crosswalks](http://www.ands.org.au/online-services/rif-cs-schema/crosswalks-transform-your-metadata "Research Data Australia crosswalks")
-developed for ingesting records into Research Data Australia.
+1. Start by having a look at some of the [machine-readable crosswalk XSLT files](http://www.ands.org.au/online-services/rif-cs-schema/crosswalks-transform-your-metadata "Research Data Australia crosswalks") for ingesting records into Research Data Australia.
 
-2\. Go to the free online tool [XSLT Test
-Tool](http://xslttest.appspot.com/ "XSLT test tool") free online tool.
-Follow the steps in [this
-exercise](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13/technical-crosswalk-exercise "23 things crosswalk exercise")
-to create, edit and display XML.
+2. Go to the free online tool [XSLT Test Tool](http://xslttest.appspot.com/ "XSLT test tool").
+Follow these steps to create, edit and display XML:
+
+-  Copy the **XML** below and paste it into the page at http://xslttest.appspot.com in the first edit box:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <author>Pam Jacobs</author>
+        <title>The Book About Pam</title>
+        <publisher>Good Books</publisher>
+    </book>
+    <book>
+        <author>Neil Simon</author>
+        <title>Neil's Book</title>
+        <publisher>Books to Go</publisher>
+    </book>
+</books>
+```
+
+- Next, copy the **XSL** below and paste it into the second edit box:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsl:stylesheet version="1.0"
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    
+    <xsl:template match="/">
+        <html>
+            <body>
+                <h2>Book Collection</h2>
+                <table border="1">
+                    <tr bgcolor="#FC99EF">
+                        <th>Title</th>
+                        <th>Author</th>
+                        <th>Publisher</th>
+                    </tr>
+                    <xsl:for-each select="books/book">
+                        <tr>
+                            <td><xsl:value-of select="title"/></td>
+                            <td><xsl:value-of select="author"/></td>
+                            <td><xsl:value-of select="publisher"/></td>
+                         </tr>
+                    </xsl:for-each>
+                </table>
+            </body>
+        </html>
+    </xsl:template>
+</xsl:stylesheet>
+```
+
+-  Click **Run Transformation** to generate the resultant XML, that looks like:
+
+```xml
+<html>
+   <body>
+      <h2>Book Collection</h2>
+      <table border="1">
+         <tr bgcolor="#FC99EF">
+            <th>Title</th>
+            <th>Author</th>
+            <th>Publisher</th>
+         </tr>
+         <tr>
+            <td>The Book About Pam</td>
+            <td>Pam Jacobs</td>
+            <td>Good Books</td>
+         </tr>
+         <tr>
+            <td>Neil's Book</td>
+            <td>Neil Simon</td>
+            <td>Books to Go</td>
+         </tr>
+      </table>
+   </body>
+</html>
+```
+
+**Note** the above XML is in fact also **HTML** that constructs a table.
+
+- Preview the table by clicking **Open Result**
+- or save the result to a .html file and open it in a browser to see the formatted table!
 
 **Consider:** do you think experience with XML would be useful in your
 workplace?
