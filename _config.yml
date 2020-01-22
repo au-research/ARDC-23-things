@@ -32,7 +32,29 @@ theme: minima
 collections:
   things:
     output: true
-    sort_by: thing
+    order:
+      - thing-1.md
+      - thing-2.md
+      - thing-3.md
+      - thing-4.md
+      - thing-5.md
+      - thing-6.md
+      - thing-7.md
+      - thing-8.md
+      - thing-9.md
+      - thing-10.md
+      - thing-11.md
+      - thing-12.md
+      - thing-13.md
+      - thing-14.md
+      - thing-15.md
+      - thing-16.md
+      - thing-17.md
+      - thing-18.md
+      - thing-19.md
+      - thing-20.md
+      - thing-21.md
+      - thing-22.md
     permalink: /researchdata/:name
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -42,12 +64,15 @@ collections:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - REUSE.md
+  - README.md
+  - LICENCE.md
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
