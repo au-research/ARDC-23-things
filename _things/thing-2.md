@@ -1,15 +1,15 @@
 ---
 layout: thing
 thing: 2
-title: Issues in research data managament
+title: Issues in research data management
+overview:
+ - Getting started: "Watch a cartoon about what happens when a researcher hasn't managed their data (at all...) What could possibly go wrong!?"
+ - Learn more: "the 5Vs about Big Data everyone must know"
+ - Challenge me: "what are the issues when data is part of an eLab Notebook?"
+category: Ready, set, data
 description: |
     Research data is critical to solving the big questions of our time. So
     what are some of the issues we face in managing research data?
-overview:
- - Getting started: Watch a cartoon about what happens when a researcher hasn't managed their data (at all...) What could possibly go wrong!?
- - Learn more: the 5Vs about Big Data everyone must know
- - Challenge me: what are the issues when data is part of an eLab Notebook?
-category: Ready, set, data
 ---
 ## Getting started
 ### Managing data for reuse
