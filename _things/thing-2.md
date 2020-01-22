@@ -1,5 +1,6 @@
 ---
-
+layout: thing
+thing: 2
 title: 'Issues in research data management'
 description: |
     Research data is critical to solving the big questions of our time. So
