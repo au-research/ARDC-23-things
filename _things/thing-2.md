@@ -1,7 +1,7 @@
 ---
 layout: thing
 thing: 2
-title: 'Issues in research data management'
+title: Issues in research data managament
 description: |
     Research data is critical to solving the big questions of our time. So
 	what are some of the issues we face in managing research data?
