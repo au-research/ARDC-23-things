@@ -2,16 +2,16 @@
 thing: 11
 title: "What's my metadata schema?"
 description: |
-    **Metadata** are the lifeblood for finding and reusing research
+    **Metadata** is the lifeblood for finding and reusing research
     data. Data is only as valuable as the metadata which describes and
     connects it.
 overview:
  - Getting started: What is metadata and what sort of metadata is critical for research data?
- - Learn more: Metadata schema go formal and become standards
+ - Learn more: Metadata schemas go formal and become standards
  - Challenge me: Hands on with ANZLIC or XML - You choose!
 category: Metadata & more
 ---
-## Getting started/
+## Getting started
 ### Metadata: describing research data
 
 Metadata is your best data friend. Metadata is structured information
@@ -20,34 +20,30 @@ quality, format, location and contact information. Creating metadata to
 describe research data is very similar to the process for descriptive
 cataloguing of library resources.
 
-Metadata schema are sets of metadata elements (or fields) for describing
-a particular type of information resource. Numerous metadata schema
+A metadata schema is a set of metadata elements (or fields) for describing
+a particular type of information resource. Numerous metadata schemas
 exist for describing research data across different disciplines.
-Probably our most familiar metadata schema are those commonly used in
+Probably our most familiar metadata schemas are those commonly used in
 library catalogues and publication repositories such as MARC and Dublin
 Core.
 
-1\. Start by reading the ANDS [Introduction to
-Metadata](https://www.ands.org.au/working-with-data/metadata) to
+1. Start by reading the ARDC [Metadata](https://ardc.edu.au/resources/working-with-data/metadata/) page to
 understand what metadata is and why it is the lifeblood of research data
-sharing.\
-\
+sharing.
+
 2. Now look closely at this good quality metadata record for research
-data: [Long-term variation of surface phytoplankton chlorophyll a in the
-Southern Ocean during
-1965-2002](http://gcmd.nasa.gov/KeywordSearch/Metadata.do?Portal=amd_au&KeywordPath=Parameters%7CCLIMATE+INDICATORS%7CATMOSPHERIC%26%2347%3BOCEAN+INDICATORS%7CTELECONNECTIONS%7CANTARCTIC+OSCILLATION&OrigMetadataNode=AADC&EntryId=chlorophyll_65-02&MetadataView=Full&MetadataType=0&lbnode=mdlb3).Why
+data: [Long-term variation of surface phytoplankton chlorophyll a in the Southern Ocean during 1965-2002](http://dx.doi.org/doi:10.4225/15/5a384270f2b61). Why
 do you think this record is considered ‘high quality’? **Hint:**
 consider both the type and quality of information provided. What
 metadata included in this record help discovery and reuse of the data?
-Look back at the ANDS Introduction to Metadata for ideas and think about
+Look back at the ARDC Metadata page for ideas and think about
 previous Things such as licensing and sensitive data.
 
-3\. **If you have time:** Sadly, it’s not hard to find examples of low
+3. **If you have time:** Sadly, it’s not hard to find examples of low
 quality metadata describing research data. Read this short two page
 article [Avoiding Data Dumpsters - Toward Equitable and Useful Data
-Sharing](http://www.nejm.org/doi/pdf/10.1056/NEJMp1605148) on the power
-of good quality, schema-compliant metadata (N Engl J Med. 374 2016 May
-11. DOI: 10.1056/NEJMp1605148).
+Sharing](https://doi.org/10.1056/NEJMp1605148)/(Merson, L., Gaye, O., & Guerin, P. J. (2016). Avoiding Data Dumpsters — Toward Equitable and Useful Data Sharing. New England Journal of Medicine, 374(25), 2414–2415. doi:10.1056/nejmp1605148) on the power
+of good quality, schema-compliant metadata.
 
 **Consider:** Why, if metadata is the lifeblood of data discoverability
 and reuse, is it often neglected or not richly done when data is
