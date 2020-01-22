@@ -42,7 +42,7 @@ which provides advice for researchers on how to manage their data.
 **Consider:** how just one of the data disasters depicted in the cartoon
 could have been avoided.
 
-## Learn More
+## Learn more
 ### How do you manage "Big Data"?
 
 "Big Data" is a term we're hearing with increasing frequency. Data
@@ -57,7 +57,7 @@ support better management and reuse of Big Data. If you don't think the
 5 Vs is of value, is there another framework or concept model which
 could be useful for exploring data management for big data?
 
-## Challenge Me
+## Challenge me
 ### Digital data in Lab Notebooks
 
 Laboratory Notebooks are used by researchers to formally record their
