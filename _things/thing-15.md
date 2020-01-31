@@ -63,8 +63,8 @@ definition](https://www.ddialliance.org/taxonomy/term/198)).
     use-cases, interoperability, data discovery and more.
 2.  Take a look at Australia's DMP tools from a European perspective
     in the blog post [DMP Inspiration Down Under](http:http://www.dcc.ac.uk/blog/dmp-inspiration-down-under),
-    and see what lessons we can learn from Europe in [this Webinar from Sarah Jones 
-    of the Digital Curation Centre](https://ardc.edu.au/resource/data-management-planning-lessons-for-europe-webinar-video/).
+    and see what lessons we can learn from Europe in [this Webinar](https://ardc.edu.au/resource/data-management-planning-lessons-for-europe-webinar-video/) from Sarah Jones
+    of the Digital Curation Centre.
 
 
 **Consider:** Do you think machine-actionable DMPs will make them more
