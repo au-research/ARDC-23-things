@@ -75,4 +75,4 @@ either during or after the project has ended.
 
 1. Read this [short guide](https://dx.doi.org/10.1038/d41586-018-05895-3) to choosing an ELN 
 2. Then read this article [International team of scientists open sources search for malaria cure](https://opensource.com/life/14/6/international-team-open-sources-search-malaria-cure) about how an international team of scientists and citizen scientists are using open source ELNs to speed up a cure for malaria. You can see their open ELNs [here](http://malaria.ourexperiment.org/). Click on Matthew Todd's ELN to see what is recorded.
-3. Check out [Harvard Medical School’s](http://malaria.ourexperiment.org/) comparative matrix of ELN platforms
+3. Check out [Harvard Medical School’s](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks) comparative matrix of ELN platforms
