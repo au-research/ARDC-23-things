@@ -8,7 +8,7 @@ description: |
     citation and metrics for data and related research objects?
 overview:
  Getting started: what are DOIs and why are they critical for accurate citation metrics?
- Learn more: delves into altmetrics (and donuts!)
+ Learn more: delve into altmetrics (and donuts!)
  Challenge me: what about minting DOIs for software, algorithms and grey literature?
 category: Data citation & impact
 ---
@@ -21,9 +21,8 @@ you want to explore or know more about.
 
 Digital Object Identifiers (DOIs) are unique identifiers that provide
 persistent access to published articles, datasets, software versions and
-a range of other research inputs and outputs. There are over 120 million
-DOIs in use, and last year DOIs were “resolved” (clicked on) over five
-billion times.
+a range of other research inputs and outputs. There are over [190 million
+DOIs in use](https://www.doi.org/factsheets/DOIKeyFacts.html), and last year DOIs were “resolved” (clicked on) over five billion times.
 
 Each DOI is unique but a typical DOI looks like this: <https://doi.org/10.4225/08/50F62E0D359D5>
 
