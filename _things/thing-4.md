@@ -49,9 +49,9 @@ catalogue.
 What data repositories exist and how are Australian researchers sharing
 their data?
 
--   Start by going to [re3data.org](http://www.re3data.org/)
--   Click on Browse &gt; By Country &gt; click on Australia in the map
--   How many repositories are listed for Australia? Does this represent
+1. Start by going to [re3data.org](http://www.re3data.org/)
+2. Click on Browse &gt; By Country &gt; click on Australia in the map
+3. How many repositories are listed for Australia? Does this represent
     all the research data repositories Australia has to offer? Is
     anything missing?
 
