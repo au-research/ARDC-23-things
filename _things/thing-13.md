@@ -41,11 +41,9 @@ Why can’t we have one metadata schema to rule them all, and not worry
 about having to crosswalk?
 
 ## Learn more
-### Try your hand at a crosswalk
+### Let's map metadata!
 
-Let’s map schemas!
-
-Mapping and crosswalking metadata from one schema to another enables
+Mapping or crosswalking metadata fields from one schema to another enables
 metadata harvesting and sharing between systems.
 
 1. Crosswalks are viewed more easily in a table or spreadsheet format.
@@ -58,13 +56,11 @@ This will be your “source” record.
 from \#1 above into a blank document or spreadsheet. 
 Can you create a high level metadata mapping from your source record to Dublin Core? (**Hint:** Click on
 “Registry View” in the bottom right-hand corner of the footer in the source RDA
-record). The Dublin Core Metadata Element Set [explained in more
-detail](http://dublincore.org/documents/dces/ "Dublin core set explained in more details").
+record). This explains the [Dublin Core Metadata Element Set](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3 "Dublin core set explained in more detail") in more detail.
 Don’t worry if you don’t have time to complete the entire record - just
 get a feel for the process.
 
-**Consider:** the most confounding issue you encountered in make your
-Crosswalk. How did you overcome it?
+**Consider:** the most confounding issue you encountered in mapping metadata from one schema to another. How did you overcome it?
 
 ## Challenge me
 ### An introduction to the technical side of crosswalks
