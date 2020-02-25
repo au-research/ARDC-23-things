@@ -20,7 +20,7 @@ noticed that not all the data described was available for immediate
 access. This activity explains why different datasets may have different
 access conditions.
 
-1.  Watch this 2.5 minute [video](https://vimeo.com/125783029)from the
+1.  Watch this 2.5 minute [video](https://vimeo.com/125783029) from the
     Open Data Institute titled *Open/Closed/Shared: the world of data.*
 2.  Now open [this page](https://www.ands.org.au/working-with-data/articulating-the-value-of-open-data/open-data "Value of open data")
     to see a more in-depth view of why data is sometimes open, shared or
