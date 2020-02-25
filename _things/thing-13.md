@@ -4,11 +4,11 @@ thing: 13
 title: 'Walk the crosswalk'
 short_title: 'Crosswalks'
 description: |
-    There are times when metadata created using one standard will need to be transformed
-    or crosswalked to another standard so that metadata can been shared between systems.
+    There are times when metadata created using one schema will need to be transformed
+    or crosswalked to another schema so that metadata can been shared between systems.
 overview:
- Getting started: start walking the crosswalks for metadata
- Learn more: Hands on with crosswalking Dublin Core
+ Getting started: Start walking the crosswalk
+ Learn more: Hands-on with mapping to Dublin Core
  Challenge me: Hands-on with XSLT
 category: "Metadata & more"
 ---
@@ -54,10 +54,10 @@ to work with. Here’s an [example](https://researchdata.ands.org.au/eeg-percept
 This will be your “source” record. 
 -  Copy the Dublin Core-DDI crosswalk [table](http://www.ddialliance.org/resources/ddi-profiles/dc "DDI crosswalk table")
 from \#1 above into a blank document or spreadsheet. 
-Can you create a high level metadata mapping from your source record to Dublin Core? (**Hint:** Click on
+-  Can you create a high level metadata mapping from your source record to Dublin Core? This explains the [Dublin Core Metadata Element Set](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3 "Dublin core set explained in more detail") in more detail. (**Hint:** Click on
 “Registry View” in the bottom right-hand corner of the footer in the source RDA
-record). This explains the [Dublin Core Metadata Element Set](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3 "Dublin core set explained in more detail") in more detail.
-Don’t worry if you don’t have time to complete the entire record - just
+record). 
+-  Don’t worry if you don’t have time to complete the entire record - just
 get a feel for the process.
 
 **Consider:** the most confounding issue you encountered in mapping metadata from one schema to another. How did you overcome it?
