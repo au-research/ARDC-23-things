@@ -20,9 +20,8 @@ work and ideas. Along with books, journals and other scholarly works, it
 is now possible to formally cite research datasets and even the software
 that was used to create or analyse the data.
 
-1.  Start by looking back to the [Weddell Seal
-    dataset](https://researchdata.ands.org.au/measuring-effects-human-leptonychotes-weddellii/699460 "Wendell seal dataset")
-    we explored in Thing 4.  Check out how many times it has been cited.
+1.  Start by looking at the [Weddell Seal
+    dataset](https://researchdata.ands.org.au/measuring-effects-human-leptonychotes-weddellii/699460 "Wendell seal    dataset"). Check out how many times it has been cited.
     This citation count has been measured by Thomson Reuters Data
     Citation Index product.
 2.  Scan through the ANDS introduction to [data
