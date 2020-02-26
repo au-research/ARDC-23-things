@@ -24,8 +24,8 @@ that was used to create or analyse the data.
     dataset](https://researchdata.ands.org.au/measuring-effects-human-leptonychotes-weddellii/699460 "Wendell seal    dataset"). Check out how many times it has been cited.
     This citation count has been measured by Thomson Reuters Data
     Citation Index product.
-2.  Scan through the ANDS introduction to [data
-    citation](https://www.ands.org.au/working-with-data/citation-and-identifiers/data-citation "data citation")
+2.  Scan through the ARDC introduction to [data
+    citation](https://ardc.edu.au/resources/working-with-data/citation-identifiers/data-citation/ "data citation")
 3.  Now look at the [Hutchinson Drought
     Index](https://researchdata.ands.org.au/monthly-drought-australia-drought-index/61872 "Hutchinson drought index")
     data record in Research Data Australia. This research data makes
