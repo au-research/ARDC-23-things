@@ -61,9 +61,9 @@ definition](https://www.ddialliance.org/taxonomy/term/198)).
     Plans](http://riojournal.com/articles.php?id=13086). This White
     Paper is long, but incredibly rich - scroll down for lots of
     use-cases, interoperability, data discovery and more.
-2.  Check out how The University of Queensland is re-imagining DMPs in
-    the blog post [DMRs, making DMP’s relevant
-    again](https://web.archive.org/web/20180509004414/http://andscentral.blogspot.com.au/2017/05/dmrs-making-dmps-relevant-again.html).
+2.  Take a look at a European perspective on Australia's tools for creating and
+    integrating DMPs in the blog post [DMP Inspiration Down Under](http://www.dcc.ac.uk/blog/dmp-inspiration-down-under), and see what lessons we can learn from Europe in [this Webinar](https://ardc.edu.au/resource/data-management-planning-lessons-for-europe-webinar-video/) from Sarah Jones
+    of the Digital Curation Centre.
 
 
 **Consider:** Do you think machine-actionable DMPs will make them more
