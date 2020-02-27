@@ -2,7 +2,8 @@
 title: All the Research Data things
 permalink: /researchdata/things/
 ---
-{% for thing in site.things %}
-- [Thing {{thing.thing}}:]({{site.baseurl}}/researchdata/thing-{{thing.thing | prepend: "00" | slice: -1,2 }}) {{thing.title}}
-  - {{thing.description}}
+
+{% for this_thing in site.things %}
+- [Thing {{this_thing.thing}}:]({{site.baseurl}}/researchdata/thing-{{this_thing.thing}}) {{this_thing.title}}
+  - {{this_thing.description}}
 {% endfor %}
