@@ -4,6 +4,7 @@ permalink: /researchdata/things/
 ---
 
 {% for this_thing in site.things %}
-- [Thing {{this_thing.thing}}:]({{site.baseurl}}/researchdata/thing-{{this_thing.thing | downcase | prepend: "0" | slice: -1,2 }}) {{this_thing.title}}
+  {% assign padded_thing = this_thing.thing | downcase | prepend: '000' | slice: -1,2}
+- [Thing {{this_thing.thing}}:]({{site.baseurl}}/researchdata/thing-{{padded_thing}}) {{this_thing.title}}
   - {{this_thing.description}}
 {% endfor %}
