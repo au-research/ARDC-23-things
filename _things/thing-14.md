@@ -38,8 +38,7 @@ David Burton. How many versions of his name do you see?
     his ORCID.
 -   Scroll through his list of works and look closely at *Source* to see
     the wide range of sources of his publications. Are any datasets
-    included? (Hint: look for Source: Australian National Data Service
-    (ANDS) Registry but note the publication type for research data!)
+    included? (Hint: look for Source: Research Data Australia but note the publication type for research data!)
 
 **Consider:** why do you think there is an exclamation mark in the
 previous sentence about the publication type for research data?
