@@ -23,7 +23,7 @@ another so that metadata can been shared between systems.
 1. Read the Wikipedia [introduction to
 crosswalks](https://en.wikipedia.org/wiki/Schema_crosswalk).
 
-2.  Now we’ll look at an example of a CSIRO metadata record that has been
+2. Now we’ll look at an example of a CSIRO metadata record that has been
 crosswalked to comply with different metadata standards so it can be
 found in various repositories. In separate windows in your browser, take
 a look at how the metadata for the 'WAMSI Node 1.1 - Marmion Lagoon CTD and Mooring Measurement Program (July 2007 to May 2008)' has been transformed (or crosswalked) so it complies with different metadata standards and
