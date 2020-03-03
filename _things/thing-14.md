@@ -16,16 +16,12 @@ category: Metadata & more
 ## Getting started 
 ### How unique are you?
 
-In Thing 8 we learned about DOIs as persistent identifiers for data, as
-well as their role in supporting data citation.
-
-What about identifiers for people? Think about the many forms a person’s
+DOIs are persistent identifiers for data, but what about identifiers for people? Think about the many forms a person’s
 name may take or common names. Is the author JK Rowling the same person
 as Joanne Rowling and Jo Rowling? More than 38,000 Americans have the
 name James Smith.
 
-It’s important to know who’s who when looking at citation metrics as
-discussed in Thing 8. Universities, funders and publishers worldwide now
+It’s important to know who’s who when looking at citation metrics. Universities, funders and publishers worldwide now
 use ORCID to differentiate between people with the same name by
 assigning a unique identifier to individuals.
 
@@ -95,10 +91,7 @@ that will have on you, your institution and researchers.
 
 Identifiers are an important component of research data management.
 Computer applications use them for identifying datasets, for searching
-and retrieval, and for linking or connecting data. In Thing 8 we looked
-at Digital Object Identifiers (DOIs) for identifying data. In the
-Getting started and Learn more activities of Thing 14 we focused on
-ORCIDs for identifying people. So, how do identifiers fit with Linked
+and retrieval, and for linking or connecting data. How do identifiers fit with Linked
 Data?
 
 The term **Linked Data** refers to a set of best practices for
