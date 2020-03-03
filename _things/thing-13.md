@@ -29,11 +29,11 @@ found in various repositories. In separate windows in your browser, take
 a look at how the metadata for the 'WAMSI Node 1.1 - Marmion Lagoon CTD and Mooring Measurement Program (July 2007 to May 2008)' has been transformed (or crosswalked) so it complies with different metadata standards and
 systems:
 
--   in [marlin](http://www.marine.csiro.au/marq/edd_search.Browse_Citation?txtSession=8603)
+    - in [marlin](http://www.marine.csiro.au/marq/edd_search.Browse_Citation?txtSession=8603)
     This record was created to comply with the ISO19115 standard for
     describing geospatial data
--   in the [CSIRO Data Access Portal](http://doi.org/10.4225/08/50F624A9E6D5C "CSIRO data access portal - record")
--   in [Research Data Australia](https://researchdata.ands.org.au/wamsi-node-11-2007-2008/444960/ "Research data Australia record") where it has been cross-walked to [RIF-CS](https://documentation.ands.org.au/display/DOC/About+RIF-CS).
+    - in the [CSIRO Data Access Portal](http://doi.org/10.4225/08/50F624A9E6D5C "CSIRO data access portal - record")
+    - in [Research Data Australia](https://researchdata.ands.org.au/wamsi-node-11-2007-2008/444960/ "Research data Australia            record") where it has been cross-walked to [RIF-CS](https://documentation.ands.org.au/display/DOC/About+RIF-CS).
 
 **Consider:** What do you notice about these schemas? Do all three
 records provide exactly the same information? Or are there differences?
@@ -52,12 +52,12 @@ Take a look at this mapping of [Dublin Core to DDI](http://www.ddialliance.org/r
 2. Time to get hands on! Start by choosing any existing metadata record
 to work with. Here’s an [example](https://researchdata.ands.org.au/eeg-perception-microtones-information-stimuli).
 This will be your “source” record. 
--  Copy the Dublin Core-DDI crosswalk [table](http://www.ddialliance.org/resources/ddi-profiles/dc "DDI crosswalk table")
+    -  Copy the Dublin Core-DDI crosswalk [table](http://www.ddialliance.org/resources/ddi-profiles/dc "DDI crosswalk table")
 from \#1 above into a blank document or spreadsheet. 
--  Can you create a high level metadata mapping from your source record to Dublin Core? This explains the [Dublin Core Metadata Element Set](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3 "Dublin core set explained in more detail") in more detail. (**Hint:** Click on
+    -  Can you create a high level metadata mapping from your source record to Dublin Core? This explains the [Dublin Core Metadata Element Set](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3 "Dublin core set explained in more detail") in more detail. (**Hint:** Click on
 “Registry View” in the bottom right-hand corner of the footer in the source RDA
 record). 
--  Don’t worry if you don’t have time to complete the entire record - just
+    -  Don’t worry if you don’t have time to complete the entire record - just
 get a feel for the process.
 
 **Consider:** the most confounding issue you encountered in mapping metadata from one schema to another. How did you overcome it?
