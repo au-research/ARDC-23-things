@@ -107,8 +107,7 @@ The ANZLIC Metadata Profile is most commonly used to describe geographic (or spa
 **Option 2: Hands on with XML**
 
 -   does not require you to install software
--   Is a hands-on experience with XML and may help prepare you for Thing
-    13 (Crosswalks)
+-   Is a hands-on experience with XML
     
 XML is the language most commonly used for machine to machine transfer of metadata. An understanding of XML is valuable for anyone working ‘under the hood’ with metadata: for example, harvesting or crosswalking metadata.
 
