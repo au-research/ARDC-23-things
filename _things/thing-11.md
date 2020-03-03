@@ -125,5 +125,5 @@ For this activity we will use Dublin Core. It is a well-used metadata standard a
 **Reflect** on XML as a metadata tool.
 
 
-**Consider** the metadata creation tools we have explored in Thing 11 -
+**Consider** the metadata creation tools we have explored in this thing -
 what needs to happen for these tools to have much wider uptake?
