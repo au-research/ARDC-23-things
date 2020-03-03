@@ -59,7 +59,7 @@ is critical to enabling data reuse.
     (2 pages) that was released by Prime Minister Malcolm Turnbull in
     December 2015.  Note in particular, the last dot point.
 3.  Have a look at the [Research Data Rights Management
-    Guide](https://www.ands.org.au/guides/research-data-rights-management "research data Rights Management Guide").
+    Guide](https://ardc.edu.au/resource/research-data-rights-management-guide-2/ "research data Rights Management Guide").
     Take particular note of the three flowcharts, and think about the
     different licensing obligations for rights holders, data users and
     data suppliers.
