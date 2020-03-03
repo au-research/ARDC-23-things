@@ -77,7 +77,7 @@ standard you explored in detail.
 ## Challenge me
 ### Tools for creating metadata
 
-We couldn't decide on a single activity for Thing 11, so you get to
+We couldn't decide on a single activity for this thing, so you get to
 choose between two!
 
 **Option 1: Hands on with ANZLIC**
