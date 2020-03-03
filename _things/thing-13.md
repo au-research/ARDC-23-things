@@ -15,7 +15,7 @@ category: "Metadata & more"
 ## Getting started
 ### Why do we need crosswalks?
 
-We learned in Thing 11 that lots of metadata schemas exist to support
+Lots of metadata schemas exist to support
 different data types and disciplines. There are times when metadata
 created in one schema will need to be mapped, transformed, or "crosswalked" to
 another so that metadata can been shared between systems.
