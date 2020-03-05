@@ -23,7 +23,7 @@ and cited.
 
 1.  Start by reading this [brief
     introduction](https://www.ands.org.au/working-with-data/publishing-and-reusing-data/licensing-for-reuse)
-    to licensing research data.\
+    to licensing research data.
     **For our colleagues in New Zealand**, find out about data licensing
     in NZ at
     [NZGOAL](https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/)
@@ -47,7 +47,7 @@ is critical to enabling data reuse.
     [video](https://youtu.be/LmyzF7iJp3E?list=PLG25fMbdLRa7QH8_yyNSgzkQOTBVsTK2r)
     in which Dr Kevin Cullen from the University of New South Wales
     explains their approach to licensing which aims to strengthen the
-    University’s relationship with business and industry.\
+    University’s relationship with business and industry.
     **For our NZ colleagues:** choose a video or two from [NZGOAL
     training video
     playlist](https://www.youtube.com/playlist?list=PLKAGOg1JYnPntUL_WE2evkt-jLY2Ng2bB) -
@@ -59,15 +59,15 @@ is critical to enabling data reuse.
     (2 pages) that was released by Prime Minister Malcolm Turnbull in
     December 2015.  Note in particular, the last dot point.
 3.  Have a look at the [Research Data Rights Management
-    Guide](https://www.ands.org.au/guides/research-data-rights-management "research data Rights Management Guide").
+    Guide](https://ardc.edu.au/resource/research-data-rights-management-guide-2/ "research data Rights Management Guide").
     Take particular note of the three flowcharts, and think about the
     different licensing obligations for rights holders, data users and
-    data suppliers.\
+    data suppliers.
 
 **Consider:** possible implications for data managers, researchers,
 librarians and others as we move forward with the [National Science
-and Innovation Agenda](http://www.innovation.gov.au/page/agenda)?\
-\
+and Innovation Agenda](http://www.innovation.gov.au/page/agenda)?
+
 Does your institution have a policy or guidelines around data
 licensing?
 

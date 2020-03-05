@@ -81,8 +81,8 @@ embed in their application and thus provide a term search there.
     record](https://data.csiro.au/dap/landingpage?pid=csiro:15631 "KWA metadata record")
     describing the Keyword Aggregator (KWA) noting the rich description
     e.g. links to the source code and related materials.
-2.  Now go to the [Science KWA](http://scikey.org/) to read more about
-    the KWA and try out the [widget](http://scikey.org/page/widget).
+2.  Now go to the [Science KWA](http://kwa.csiro.au/) to read more about
+    the KWA and try out the [widget](http://kwa.csiro.au/page/widget).
 3.  Then take a look at the [service
     documentation](https://confluence.csiro.au/display/VOCAB/Keyword+Aggregator+Web+Service+Documentation)
     for the KWA web service.
