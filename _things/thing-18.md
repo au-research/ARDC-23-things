@@ -58,7 +58,7 @@ aid in the planning of data services that meet the needs of researchers.
 1.  Start by reading the [Data Curation Profiles
     overview](https://docs.lib.purdue.edu/dcp/about.html "Data curation profiles overview")
 2.  Then have a look at the description of one of the most popular Data
-    Curation Profiles which has been downloaded over 800 times: [History
+    Curation Profiles which has been downloaded over 1000 times: [History
     / Sustainable Development - Purdue
     University](http://docs.lib.purdue.edu/dcp/vol5/iss1/1/ "Purdue University - History/Sustainable development").
     Note the citation and DOI for this Profile.
