@@ -19,7 +19,7 @@ category: 'Hands on with data & tools'
 
 Apps and APIs are tools which make data much more discoverable and
 usable for all of us - not just researchers!  You can choose to explore
-both APIs and APPs or just one.
+both APIs and Apps or just one.
 
 **Option 1: How are APIs used with data?**
 
