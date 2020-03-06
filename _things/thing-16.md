@@ -104,6 +104,6 @@ a look at their data sharing policies:
     Trust](https://wellcome.ac.uk/funding/managing-grant/policy-data-management-and-sharing)
     in the UK (1 page)
 
-**consider** what you think Australian research
+**Consider:** what you think Australian research
 funders will be requiring of researchers who are seeking project
 funding in the future. What does this mean for those working in data support areas?
