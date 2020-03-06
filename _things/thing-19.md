@@ -51,11 +51,7 @@ to see some clever uses of Trove APIs. ****
 Galley](http://help.nla.gov.au/trove/building-with-trove/application-gallery "Trove")
 to find out what was making news **today** in history?
 
-Click on *Culture Collage* icon ![Trove-Culture
-Collage](https://www.ands.org.au/__data/assets/image/0003/574536/trove-culturecollage.png)
-&gt;&gt; then click on the *On this day ![Trove On this
-day](https://www.ands.org.au/__data/assets/image/0008/574550/trove-on-this-day.png)*
-API icon !
+- Click on *Culture Collage* then click on the *On this day* API icon !
 
 **Option 2: Apps for researchers and citizen scientists (is that you?)**
 
