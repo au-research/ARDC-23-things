@@ -5,12 +5,12 @@ title: 'What are publishers & funders saying about data?'
 short_title: 'Publishers & funders'
 description: |
     Data sharing policies are becoming increasingly common in Australia and
-    internationally.  Learn why research funders and journal publishers are
+    internationally. Learn why research funders and journal publishers are
     particularly influential when it comes to encouraging data availability.
 overview:
  Getting started: experience what it’s like to navigate journal data policies
- Learn more: this newly announced journal data policy might affect data around the globe...
- Challenge me: 2020 vision about the future of data and funders
+ Learn more: this journal data policy might affect data around the globe...
+ Challenge me: the future of data and funders
 category: Let's talk data
 ---
 ## Getting started
