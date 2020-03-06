@@ -55,8 +55,8 @@ to find out what was making news **today** in history?
 
 **Option 2: Apps for researchers and citizen scientists (is that you?)**
 
-Often several little APIs underpin **** a (software) **App(**lication)
-(program).  Data gatherers in the field use apps to make data collection
+Often several little APIs underpin a (software) App(lication)
+(program). Data gatherers in the field use apps to make data collection
 easier, more accurate and more rich. eg fill out data forms offline on
 their smartphones and tablets, capture images, photos, videos and
 sounds, track locations on maps (probably using the Google Map API), and
