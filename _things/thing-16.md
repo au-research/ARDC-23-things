@@ -14,19 +14,16 @@ overview:
 category: Let's talk data
 ---
 ## Getting started
-### Two choices for Thing 16!
+### Two choices for this Thing!
 
-Two exciting things are happening with data and journal publishers. More
-and more journal publishers are asking authors to make the
+More and more journal publishers are asking authors to make the
 data underpinning a journal article available. And, new forms of data
 publishing are emerging: data journals.
 
 ![publishers with data policies](../images/funders-slide.png)
 
 It’s all about ensuring that the research being described in the article
-is based on solid, reproducible science. Thinking back to [Thing 5: Data
-Sharing](thing-5.md), remember that *available* can be “open” or “shared” through mediated
-access.
+is based on solid, reproducible science.
 
 ### Choice 1: Journal data policies
 
