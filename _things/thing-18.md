@@ -112,7 +112,7 @@ was possible?
 **Option 2: Sociology / Demographics**
 
 [Section 9 of this Sociology / Demographics Data Curation
-Profile](http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1026&context=dcp)
+Profile](http://dx.doi.org/10.5703/1288284315013)
 states that:
 
 *“If this data were hosted in an external data repository, it would be a
