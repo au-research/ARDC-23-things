@@ -60,8 +60,6 @@ perspectives of these diverse roles:
     Capability Framework in 2016 to ensure employees across the APS can
     develop a minimum level of data literacy.
     [Report](http://www.dpmc.gov.au/sites/default/files/publications/Implementation%20of%20the%20Public%20Sector%20Data%20Management%20Report.pdf "Public Sector Data Management ")
--   **Librarians**: [What is data literacy in
-    Libraryland](http://databrarians.org/2015/02/what-is-data-literacy/)?
 -   **Entrepreneurs**: [Data Literacy -- What It Is And Why None of Us
     Have
     It](https://www.forbes.com/sites/homaycotte/2014/10/28/data-literacy-what-it-is-and-why-none-of-us-have-it/ "Data literacy - what it is an why none of us have it")
