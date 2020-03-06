@@ -30,7 +30,7 @@ citizens.
     (Note: most universities have similar resources for those in
     universities or research institutes)
 -   **For Federal, State or Local Govt**: [Publishing your
-    data](https://toolkit.data.gov.au/index.php?title=Publishing_your_data)
+    data](https://toolkit.data.gov.au/Publishing_your_data.html)
     in Govt data portals
 -   **For Business**: [Open data that drives
     business](http://theodi.org/open-data-that-drives-business)
