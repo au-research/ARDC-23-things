@@ -16,16 +16,12 @@ category: Metadata & more
 ## Getting started 
 ### How unique are you?
 
-In Thing 8 we learned about DOIs as persistent identifiers for data, as
-well as their role in supporting data citation.
-
-What about identifiers for people? Think about the many forms a person’s
+DOIs are persistent identifiers for data, but what about identifiers for people? Think about the many forms a person’s
 name may take or common names. Is the author JK Rowling the same person
 as Joanne Rowling and Jo Rowling? More than 38,000 Americans have the
 name James Smith.
 
-It’s important to know who’s who when looking at citation metrics as
-discussed in Thing 8. Universities, funders and publishers worldwide now
+It’s important to know who’s who when looking at citation metrics. Universities, funders and publishers worldwide now
 use ORCID to differentiate between people with the same name by
 assigning a unique identifier to individuals.
 
@@ -42,8 +38,7 @@ David Burton. How many versions of his name do you see?
     his ORCID.
 -   Scroll through his list of works and look closely at *Source* to see
     the wide range of sources of his publications. Are any datasets
-    included? (Hint: look for Source: Australian National Data Service
-    (ANDS) Registry but note the publication type for research data!)
+    included? (Hint: look for Source: Research Data Australia but note the publication type for research data!)
 
 **Consider:** why do you think there is an exclamation mark in the
 previous sentence about the publication type for research data?
@@ -95,10 +90,7 @@ that will have on you, your institution and researchers.
 
 Identifiers are an important component of research data management.
 Computer applications use them for identifying datasets, for searching
-and retrieval, and for linking or connecting data. In Thing 8 we looked
-at Digital Object Identifiers (DOIs) for identifying data. In the
-Getting started and Learn more activities of Thing 14 we focused on
-ORCIDs for identifying people. So, how do identifiers fit with Linked
+and retrieval, and for linking or connecting data. How do identifiers fit with Linked
 Data?
 
 The term **Linked Data** refers to a set of best practices for
@@ -112,15 +104,15 @@ and the Semantic Web and what is all the hype about?
     [LinkedDataTools](http://www.linkeddatatools.com/semantic-web-basics).
 2. Have a go at completing some or all of the five short  Semantic Web
     Primer tutorials (5 min):
-    1.  [Introducing Graph
+    - [Introducing Graph
         Data](http://www.linkeddatatools.com/introducing-rdf "Introducing graph data")
-    2.  [Introducing
+    - [Introducing
         RDF](http://www.linkeddatatools.com/introducing-rdf-part-2 "Introducing RDF")
-    3.  [Semantic
+    - [Semantic
         Modeling](http://www.linkeddatatools.com/semantic-modeling "Semantic modeling")
-    4.  [Introducing RDFS &
+    - [Introducing RDFS &
         OWL](http://www.linkeddatatools.com/introducing-rdfs-owl "Introducing RDFS&OWL")
-    5.  [Querying Semantic
+    - [Querying Semantic
         Data](http://www.linkeddatatools.com/querying-semantic-data "Querying semantic data")
 
 **If you have time**: try out W3C's free online [RDF data validator](http://www.w3.org/RDF/Validator/) (mentioned in

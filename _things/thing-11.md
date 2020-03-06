@@ -77,7 +77,7 @@ standard you explored in detail.
 ## Challenge me
 ### Tools for creating metadata
 
-We couldn't decide on a single activity for Thing 11, so you get to
+We couldn't decide on a single activity for this thing, so you get to
 choose between two!
 
 **Option 1: Hands on with ANZLIC**
@@ -107,8 +107,7 @@ The ANZLIC Metadata Profile is most commonly used to describe geographic (or spa
 **Option 2: Hands on with XML**
 
 -   does not require you to install software
--   Is a hands-on experience with XML and may help prepare you for Thing
-    13 (Crosswalks)
+-   Is a hands-on experience with XML
     
 XML is the language most commonly used for machine to machine transfer of metadata. An understanding of XML is valuable for anyone working ‘under the hood’ with metadata: for example, harvesting or crosswalking metadata.
 
@@ -126,5 +125,5 @@ For this activity we will use Dublin Core. It is a well-used metadata standard a
 **Reflect** on XML as a metadata tool.
 
 
-**Consider** the metadata creation tools we have explored in Thing 11 -
+**Consider** the metadata creation tools we have explored in this thing -
 what needs to happen for these tools to have much wider uptake?
