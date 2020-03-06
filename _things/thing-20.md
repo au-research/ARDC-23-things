@@ -36,7 +36,7 @@ then, for all of us to have an understanding of spatial data.
 **Just for fun**: enter your address in the Atlas of Living Australia
 and see what birds and plants have been reported [in your street or
 suburb](https://biocache.ala.org.au/explore/your-area "ALA: Explore Your Area").
-You may be surprised at how ‘alive’ your street is. ****
+You may be surprised at how ‘alive’ your street is.
 
 **Consider:** why do you think these geospatial visualisations are so
 powerful?
