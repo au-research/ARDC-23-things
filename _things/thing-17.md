@@ -103,7 +103,5 @@ all:]
 4.  [Author
     Carpentry](https://authorcarpentry.github.io/ "Author carpentry")
 
-We will get more hands-on with Carpentry in Thing 21
-
 **Consider:** your ideas or experience about the value of the various
 Carpentry courses.
