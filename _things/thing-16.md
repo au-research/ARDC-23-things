@@ -87,26 +87,25 @@ data sharing upon publication at the end.
 ### Research funders and data sharing
 
 The Australian National Health and Medical Research Council (NHMRC)
-funded more than \$896 million (2015) for health and medical research
+funded more than $896 million (2015) for health and medical research
 including 1030 new grants to universities, medical research institutions
 and hospitals across Australia.
 
-1\. Start by reading the [NHMRC Open Access
+1. Start by reading the [NHMRC Open Access
 Policy](https://www.nhmrc.gov.au/about-us/resources/open-access-policy)
 (section 3.2 and Appendix 2) and note the lifecycle diagram for data
 sharing.
 
-2\. Then choose one of these major funders of research overseas and have
+2. Then choose one of these major funders of research overseas and have
 a look at their data sharing policies:
 
 -   [National Science
     Foundation](http://www.nsf.gov/bfa/dias/policy/dmp.jsp) in the US,
-    and note the Data Management Plan requirement (see [Thing 15:
-    DMPs](thing-16.md))
+    and note the Data Management Plan requirement
 -   [Wellcome
     Trust](https://wellcome.ac.uk/funding/managing-grant/policy-data-management-and-sharing)
     in the UK (1 page)
 
-Now, imagine it is 2025… **consider** what you think Australian research
+**consider** what you think Australian research
 funders will be requiring of researchers who are seeking project
-funding. What does this mean for those working in data support areas?
+funding in the future. What does this mean for those working in data support areas?
