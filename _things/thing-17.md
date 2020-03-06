@@ -95,7 +95,7 @@ Have a look at [this Environmental
 scan](https://docs.google.com/spreadsheets/d/1ZASH-NhsvXnyZNJkGzFNFp5_adn6Q-iX2N-tbv1Apbw/edit#gid=0)
 of courses offering data skills. Then [choose 1 Carpentry to explore in
 depth or browse over them
-all:]{style="font-size: 0.98em; line-height: 1.25;"}
+all:]
 
 1.  [Data Carpentry](http://www.datacarpentry.org)
 2.  [Library Carpentry](http://librarycarpentry.github.io/about/)
