@@ -20,8 +20,6 @@ More and more journal publishers are asking authors to make the
 data underpinning a journal article available. And, new forms of data
 publishing are emerging: data journals.
 
-![publishers with data policies](../images/funders-slide.png)
-
 It’s all about ensuring that the research being described in the article
 is based on solid, reproducible science.
 
