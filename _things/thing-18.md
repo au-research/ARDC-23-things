@@ -97,7 +97,7 @@ connecting the data to publications, and making the data discoverable.
 
 1.  Open this [Geophysics and Seismology/Structural Geology and
     Neotectonics Data Curation
-    Profile](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1027&context=dcp "Data curation profile")
+    Profile](http://dx.doi.org/10.5703/1288284315004 "Data curation profile")
 2.  Note the data formats and file sizes in the data table in Section
     3.2 (page 4) and the tools used to generate the data in Section 9
     (pages 8-9)
