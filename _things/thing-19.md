@@ -126,12 +126,9 @@ APIs can be applied to either data or services.
 
 **Option 1**: **Hands-on API tutorials**
 Are you new to APIs and want a hands-on introduction to commonly used
-APIs, including Twitter and YouTube? Choose one API from the [Codecademy
-APIs](https://www.codecademy.com/apis) and work through the online
-tutorial to learn more about the API you chose.
+APIs, including Twitter and YouTube? Work through some or all of the [tutorial from freeCodeCamp](https://www.youtube.com/watch?v=GZvSYJDk-us) to get hands on learning about working with APIs.
 
-**Consider:** how the APIs could be applied to a dataset to make it more
-reusable?
+**Consider:** how the APIs could be applied to a dataset to make it more reusable?
 
 **Option 2: APIs for ANDS Services**
 If your institution uses ANDS services, you might want to use one or
