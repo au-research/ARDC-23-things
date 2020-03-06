@@ -33,7 +33,7 @@ citizens.
     data](https://toolkit.data.gov.au/Publishing_your_data.html)
     in Govt data portals
 -   **For Business**: [Open data that drives
-    business](http://theodi.org/open-data-that-drives-business)
+    business](https://theodi.org/article/open-data-means-business/)
     (UK, 2015)
 -   **For teachers and school librarians**: Scroll down to [Resources
     for
