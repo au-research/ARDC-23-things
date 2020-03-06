@@ -15,7 +15,7 @@ category: Let's talk data
 ## Getting started 
 ### Starting a data conversation
 
-Thing 18 offers a simple way to think about key messages and possible
+This thing offers a simple way to think about key messages and possible
 responses that can be used to quickly and succinctly pitch research data
 management to researchers. The responses can be contextualised to suit
 what is available at your organisation.
