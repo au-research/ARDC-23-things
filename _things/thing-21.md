@@ -115,8 +115,8 @@ manipulate data; clean up dirty data; and to transform datasets.
 
 **Option 1: If you are new to OpenRefine**
 
-1.  Start by watching[introduction to
-    OpenRefine](https://youtu.be/B70J_H_zAWM) (6 .48mins) to learn how
+1.  Start by watching [introduction to
+    OpenRefine](https://youtu.be/B70J_H_zAWM) (6.48mins) to learn how
     it can be used to clean up messy data.
 2.  Now get hands on!  You will need to download OpenRefine and the
     dataset for this activity. Work your way through as much as [this
@@ -131,7 +131,7 @@ Take a look through the lesson materials used to teach OpenRefine in
 either:
 
 1.  OpenRefine in [Library
-    Carpentry](https://github.com/LibraryCarpentry/week-four-library-carpentry/blob/master/lesson-materials/Basic-OpenRefine-functions-I.md)
+    Carpentry](https://librarycarpentry.org/lc-open-refine/)
 2.  OpenRefine in [Data Carpentry for
     Ecology](http://www.datacarpentry.org/OpenRefine-ecology-lesson/)
 
