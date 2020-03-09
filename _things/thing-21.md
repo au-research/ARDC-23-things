@@ -18,7 +18,7 @@ Data horror stories: how did it happen?
 
 Why is "clean” data important? Public policy, changes to medical
 protocols and economic decisions all depend on accurate and complete
-data. Thing 21 looks at the why and what of “dirty data.”
+data. This thing looks at the why and what of “dirty data.”
 
 1.  Pregnant men? Yes! Read some [real data horror
     stories](http://www.relevategroup.com/blog/dirty-data-horror-stories-–-when-good-data-goes-bad "When good data goes bad: blog")
