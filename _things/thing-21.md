@@ -22,7 +22,7 @@ data. This thing looks at the why and what of “dirty data.”
 
 1.  Read some [real data horror stories](https://www.arnnet.com.au/article/197085/perils_dirty_data/? "Perils of dirty data:     blog") about dirty data.
 2.  How does data get dirty in the first place? This [short
-    video](http://aspcapro.org/resource/saving-lives-research-data/gis-video-what-makes-data-dirty "ASAPCA video")
+    video](https://vimeo.com/95289871 "ASAPCA video")
     (5 min) from the ASPCA (American Society for Prevention of Cruelty
     to Animals) shows simply how incomplete, inaccurate data can occur.
     You can imagine how the resultant problems would multiply
