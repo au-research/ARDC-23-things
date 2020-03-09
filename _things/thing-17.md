@@ -20,7 +20,7 @@ We all have a role to play in building a world of data literate
 citizens.
 
 1.  Enjoy this quirky and clever 1.48min video from a cartoonist: [What
-    is data literacy](https://youtu.be/qHz_ogTH2p4)? (YouTube)
+    is data literacy](https://youtu.be/qHz_ogTH2p4)?
 2.  Choose one of the sites from the list below. As you look around the
     site, think about how you might use these ideas to ‘grow’ your, or
     other people’s, data literacy
@@ -30,10 +30,10 @@ citizens.
     (Note: most universities have similar resources for those in
     universities or research institutes)
 -   **For Federal, State or Local Govt**: [Publishing your
-    data](https://toolkit.data.gov.au/index.php?title=Publishing_your_data)
+    data](https://toolkit.data.gov.au/Publishing_your_data.html)
     in Govt data portals
 -   **For Business**: [Open data that drives
-    business](http://theodi.org/open-data-that-drives-business)
+    business](https://theodi.org/article/open-data-means-business/)
     (UK, 2015)
 -   **For teachers and school librarians**: Scroll down to [Resources
     for
@@ -60,8 +60,6 @@ perspectives of these diverse roles:
     Capability Framework in 2016 to ensure employees across the APS can
     develop a minimum level of data literacy.
     [Report](http://www.dpmc.gov.au/sites/default/files/publications/Implementation%20of%20the%20Public%20Sector%20Data%20Management%20Report.pdf "Public Sector Data Management ")
--   **Librarians**: [What is data literacy in
-    Libraryland](http://databrarians.org/2015/02/what-is-data-literacy/)?
 -   **Entrepreneurs**: [Data Literacy -- What It Is And Why None of Us
     Have
     It](https://www.forbes.com/sites/homaycotte/2014/10/28/data-literacy-what-it-is-and-why-none-of-us-have-it/ "Data literacy - what it is an why none of us have it")
@@ -97,15 +95,13 @@ Have a look at [this Environmental
 scan](https://docs.google.com/spreadsheets/d/1ZASH-NhsvXnyZNJkGzFNFp5_adn6Q-iX2N-tbv1Apbw/edit#gid=0)
 of courses offering data skills. Then [choose 1 Carpentry to explore in
 depth or browse over them
-all:]{style="font-size: 0.98em; line-height: 1.25;"}
+all:]
 
 1.  [Data Carpentry](http://www.datacarpentry.org)
 2.  [Library Carpentry](http://librarycarpentry.github.io/about/)
 3.  [Software Carpentry](http://software-carpentry.org/)
 4.  [Author
     Carpentry](https://authorcarpentry.github.io/ "Author carpentry")
-
-We will get more hands-on with Carpentry in Thing 21
 
 **Consider:** your ideas or experience about the value of the various
 Carpentry courses.

@@ -15,7 +15,7 @@ category: Let's talk data
 ## Getting started 
 ### Starting a data conversation
 
-Thing 18 offers a simple way to think about key messages and possible
+This thing offers a simple way to think about key messages and possible
 responses that can be used to quickly and succinctly pitch research data
 management to researchers. The responses can be contextualised to suit
 what is available at your organisation.
@@ -58,7 +58,7 @@ aid in the planning of data services that meet the needs of researchers.
 1.  Start by reading the [Data Curation Profiles
     overview](https://docs.lib.purdue.edu/dcp/about.html "Data curation profiles overview")
 2.  Then have a look at the description of one of the most popular Data
-    Curation Profiles which has been downloaded over 800 times: [History
+    Curation Profiles which has been downloaded over 1000 times: [History
     / Sustainable Development - Purdue
     University](http://docs.lib.purdue.edu/dcp/vol5/iss1/1/ "Purdue University - History/Sustainable development").
     Note the citation and DOI for this Profile.
@@ -97,7 +97,7 @@ connecting the data to publications, and making the data discoverable.
 
 1.  Open this [Geophysics and Seismology/Structural Geology and
     Neotectonics Data Curation
-    Profile](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1027&context=dcp "Data curation profile")
+    Profile](http://dx.doi.org/10.5703/1288284315004 "Data curation profile")
 2.  Note the data formats and file sizes in the data table in Section
     3.2 (page 4) and the tools used to generate the data in Section 9
     (pages 8-9)
@@ -112,7 +112,7 @@ was possible?
 **Option 2: Sociology / Demographics**
 
 [Section 9 of this Sociology / Demographics Data Curation
-Profile](http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1026&context=dcp)
+Profile](http://dx.doi.org/10.5703/1288284315013)
 states that:
 
 *“If this data were hosted in an external data repository, it would be a

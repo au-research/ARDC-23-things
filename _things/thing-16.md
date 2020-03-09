@@ -5,28 +5,23 @@ title: 'What are publishers & funders saying about data?'
 short_title: 'Publishers & funders'
 description: |
     Data sharing policies are becoming increasingly common in Australia and
-    internationally.  Learn why research funders and journal publishers are
+    internationally. Learn why research funders and journal publishers are
     particularly influential when it comes to encouraging data availability.
 overview:
  Getting started: experience what it’s like to navigate journal data policies
- Learn more: this newly announced journal data policy might affect data around the globe...
- Challenge me: 2020 vision about the future of data and funders
+ Learn more: this journal data policy might affect data around the globe...
+ Challenge me: the future of data and funders
 category: Let's talk data
 ---
 ## Getting started
-### Two choices for Thing 16!
+### Two choices for this Thing!
 
-Two exciting things are happening with data and journal publishers. More
-and more journal publishers are asking authors to make the
+More and more journal publishers are asking authors to make the
 data underpinning a journal article available. And, new forms of data
 publishing are emerging: data journals.
 
-![publishers with data policies](../images/funders-slide.png)
-
 It’s all about ensuring that the research being described in the article
-is based on solid, reproducible science. Thinking back to [Thing 5: Data
-Sharing](thing-5.md), remember that *available* can be “open” or “shared” through mediated
-access.
+is based on solid, reproducible science.
 
 ### Choice 1: Journal data policies
 
@@ -90,26 +85,25 @@ data sharing upon publication at the end.
 ### Research funders and data sharing
 
 The Australian National Health and Medical Research Council (NHMRC)
-funded more than \$896 million (2015) for health and medical research
+funded more than $896 million (2015) for health and medical research
 including 1030 new grants to universities, medical research institutions
 and hospitals across Australia.
 
-1\. Start by reading the [NHMRC Open Access
+1. Start by reading the [NHMRC Open Access
 Policy](https://www.nhmrc.gov.au/about-us/resources/open-access-policy)
 (section 3.2 and Appendix 2) and note the lifecycle diagram for data
 sharing.
 
-2\. Then choose one of these major funders of research overseas and have
+2. Then choose one of these major funders of research overseas and have
 a look at their data sharing policies:
 
 -   [National Science
     Foundation](http://www.nsf.gov/bfa/dias/policy/dmp.jsp) in the US,
-    and note the Data Management Plan requirement (see [Thing 15:
-    DMPs](thing-16.md))
+    and note the Data Management Plan requirement
 -   [Wellcome
     Trust](https://wellcome.ac.uk/funding/managing-grant/policy-data-management-and-sharing)
     in the UK (1 page)
 
-Now, imagine it is 2025… **consider** what you think Australian research
+**Consider:** what you think Australian research
 funders will be requiring of researchers who are seeking project
-funding. What does this mean for those working in data support areas?
+funding in the future. What does this mean for those working in data support areas?
