@@ -20,9 +20,7 @@ Why is "clean” data important? Public policy, changes to medical
 protocols and economic decisions all depend on accurate and complete
 data. This thing looks at the why and what of “dirty data.”
 
-1.  Pregnant men? Yes! Read some [real data horror
-    stories](http://www.relevategroup.com/blog/dirty-data-horror-stories-–-when-good-data-goes-bad "When good data goes bad: blog")
-    about dirty data.
+1.  Read some [real data horror stories](https://www.arnnet.com.au/article/197085/perils_dirty_data/? "Perils of dirty data:     blog") about dirty data.
 2.  How does data get dirty in the first place? This [short
     video](http://aspcapro.org/resource/saving-lives-research-data/gis-video-what-makes-data-dirty "ASAPCA video")
     (5 min) from the ASPCA (American Society for Prevention of Cruelty
