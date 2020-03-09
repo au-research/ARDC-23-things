@@ -103,7 +103,7 @@ creeping into your
 The School of Data have some really interesting [Data
 Cleansing](http://schoolofdata.org/courses/#IntroDataCleaning) modules.
 
-**Consider: **strategies for encouraging data to be published in more
+**Consider:** strategies for encouraging data to be published in more
 re-usable formats rather than PDF.
 
 ## Challenge me
