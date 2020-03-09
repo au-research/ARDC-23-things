@@ -68,10 +68,11 @@ data from PDFs, with a focus on introducing Tabula, a free open-source
 tool build for this specific task.
 
 1.  Get ready: go to [Extracting Data From
-    PDFs](http://schoolofdata.org/extracting-data-from-pdfs/)
-    1.  Download the correct version of Tabula for your operating
-        system, and java runtime if required
-    2.  note this tutorial doesn’t work on scanned pdfs
+    PDFs](http://schoolofdata.org/extracting-data-from-pdfs/) and download the correct version of Tabula for your operating
+    system, and java runtime if required. 
+    
+    (Note: this tutorial doesn’t work on scanned pdfs)
+    
 2.  Work through as much of the Tabula tutorial as you can and remember
     this tutorial for the next time you get a PDF with valuable (and
     hard-to-extract) data.
