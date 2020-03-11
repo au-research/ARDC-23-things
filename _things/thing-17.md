@@ -84,18 +84,18 @@ if we have such diverse needs.
 ### DIY to build your own data literacy
 
 Technical data wrangling skills are fast becoming a new form of data
-literacy.  The four Carpentry concepts have really taken off over the
+literacy. The four Carpentry concepts have really taken off over the
 past couple of years.
 
-The “hour a week” for 23 (rd) Things doesn’t allow time to do any of the
+The “hour a week” for 23 (research data) Things doesn’t allow time to do any of the
 Carpentry modules (most need a couple of hours to complete) but here’s a
 chance to find out what all the Carpentry buzz is about.
 
 Have a look at [this Environmental
 scan](https://docs.google.com/spreadsheets/d/1ZASH-NhsvXnyZNJkGzFNFp5_adn6Q-iX2N-tbv1Apbw/edit#gid=0)
-of courses offering data skills. Then [choose 1 Carpentry to explore in
+of courses offering data skills. Then choose 1 Carpentry to explore in
 depth or browse over them
-all:]
+all:
 
 1.  [Data Carpentry](http://www.datacarpentry.org)
 2.  [Library Carpentry](http://librarycarpentry.github.io/about/)
