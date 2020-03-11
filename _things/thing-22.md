@@ -28,8 +28,7 @@ research alphabet soup) are:
 
 -   Universities - 41 universities generate data, graduate and train new
     researchers (ANU, UWA, UQ, UTas, UNSW etc)
--   CSIRO - have visited the CSIRO Data Access Portal several times in
-    23(rd) Things
+-   CSIRO - Australia's national science agency
 -   Funders - ARC and NHMRC
 -   Governments - state and federal departments fund research and
     produce their own data (e.g. Bureau of Meteorology for weather,
