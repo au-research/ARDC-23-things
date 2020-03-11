@@ -37,7 +37,7 @@ Join an online group
 -   Research Data Alliance - international [interest and working
     groups](https://rd-alliance.org/groups) on a wide range of data
     topics
--   ALIA[special interest
+-   ALIA [special interest
     groups](https://www.alia.org.au/our-communities/alia-groups) - data
     is increasingly a normal part of every interest group
 -   [RESEARCH-DATAMAN](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=RESEARCH-DATAMAN)
@@ -61,12 +61,12 @@ Hacky Hours are often fun - just search ‘hacky hour’ in your browser
 
 Get social with Twitter
 
-@ARDC\_au  @openaccess\_oz   @ScientificData   @UKDataArchive   \#ResearchData   @resdatall
+@ARDC_au  @openaccess_oz   @ScientificData   @UKDataArchive   #ResearchData   @resdatall
 
 ### Keep on learning through “Do It Yourself“
 
 -   Bookmark [23 (research data)
-    Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things "23(research data) Things")
+    Things](https://github.com/au-research/ARDC-23-things "23 (research data) Things")
     and make a regular date with yourself to refresh your skills
 -   [Managing Data
     @Melbourne](https://library.unimelb.edu.au/Digital-Scholarship/training_and_outreach/data "Managing data @Melbourne")
