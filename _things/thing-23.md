@@ -134,7 +134,7 @@ for everyone.
     Clearinghouse](http://dmtclearinghouse.esipfed.org "ESIP Data Management Training Clearinghouse")
 -   Free online [MOOC on Big Data
     Visualization](https://www.futurelearn.com/courses/big-data-visualisation "MOOC on big data visualisation")
--   Free online MOOC on [Big Data Measuring and predicting human
+-   Free online [MOOC on Big Data Measuring and predicting human
     behaviour](https://www.futurelearn.com/courses/big-data)
 
 Sometimes there are individual data units offered within a discipline
