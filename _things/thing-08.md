@@ -87,7 +87,7 @@ settings?  Why, or why not?
 ## Challenge me
 ### Minting DOIs for research data
 
-The ANDS DOI service (Cite My Data) enables research organisations to
+The ARDC DOI service enables research organisations to
 assign Digital Object Identifiers (DOIs) to research datasets and
 collections as well as well as associated software, workflows, models
 and grey literature. The service is intended for use by publicly funded
@@ -96,7 +96,7 @@ machine-to-machine or manual service.
 
 1.  Start by reading an overview of the [ARDC DOI
     service](https://ardc.edu.au/services/identifier/doi/ "DOI service")
-    and perhaps the ANDS DOI service [technical
+    and perhaps the ARDC DOI service [technical
     documentation](https://documentation.ands.org.au/display/DOC/DOI+Service).
 2.  Consider also the need for guidelines around when a DOI will be
     minted, by whom and how DOIs will be managed to ensure long term
@@ -108,9 +108,9 @@ machine-to-machine or manual service.
         and Management
         Guide](https://www2.griffith.edu.au/__data/assets/pdf_file/0039/198795/Griffith-University-DOI-guide_1.1-Rev.pdf "Griffith University DOI Guide")
 
-### Want to know more about the ANDS DOI minting service for data, and now grey literature?
+### Want to know more about the ARCD DOI minting service for data, and now grey literature?
 
-**Webinar: ANDS expanded DOI service: scope, requirements and FAQs**.
+**Webinar: ARDC expanded DOI service: scope, requirements and FAQs**.
 
 Watch the [recording](https://youtu.be/FZPbhHI-a_c "Recording") or go
 through the
