@@ -141,31 +141,18 @@ Sometimes there are individual data units offered within a discipline
 degree, others have a number of electives or majors. Some courses
 specifically in Data Management are also available
 
-e.g. **Charles Sturt University**[**Graduate Certificate and Masters
+e.g. **Charles Sturt University** [**Graduate Certificate and Masters
 Specialisation in Data
 Management**](https://study.csu.edu.au/courses/library-information-studies/graduate-certificate-data-management "Graduate Certificate and Masters Specialisation in Data Management")
 
-From 2017 onwards the School of Information Studies at Charles Sturt
-University will be offering a Graduate Certificate in Data Management
-(GCDM). As practicing information professionals or researchers, formal
+The School of Information Studies at Charles Sturt University will be
+offering a Graduate Certificate in Data Management(GCDM). 
+As practicing information professionals or researchers, formal
 study in Data Management will enable you to demonstrate you can fill an
 identified professional skill and knowledge gap. Completion of the GCDM
 qualification provides evidence you have studied the fundamental
 principles, key concepts, tools, standards, and techniques of data
 curation and data management.
-
-The GCDM will comprise of four subjects – the first three subjects are
-core and are:
-
--   INF461 Introduction to Data Management: Governance, Standards and
-    Ethics;
--   INF462 Data Curation; and,
--   INF463 Introduction to Data Tools and Analytics.
-
-For the 4^th^ subject, students are offered a choice of either:
-
--   INF449 Research Data Management; or,
--   INF522 Project Management in Information Agencies
 
 This Graduate Certificate is offered part time over one year (two
 subjects per session) and is completely online. This mode provides
