@@ -110,8 +110,7 @@ of the [sexiest jobs of the 21st
 century](http://www.smh.com.au/national/tertiary-education/data-scientists-are-the-rock-stars-of-business-20150819-gj2i0r.html)?
 And, data jobs aren’t always mathematical or statistical!
 
--   Data management and the role of the data
-    [librarians](http://www.caul.edu.au/caul-programs/research/data-management "Data management and the role of the data librarians")
+-   [Librarians as partners in research data service](https://doi.org/10.1108/PROG-02-2015-0013 "Librarians as partners in research data service")
 -   Fiona Tweedie is a fascinating example of someone who started her
     career in Roman History and is now [Data Scientist for the
     Australian
