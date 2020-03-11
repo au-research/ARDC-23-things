@@ -48,13 +48,9 @@ Let’s focus on NCRIS - it’s amazing.
 NCRIS is designed to take a national approach to providing the world’s
 best research infrastructure for Australia. NCRIS facilities provide
 storage for data ([RDS](http://www.rds.edu.au/)), research computer
-networking across Australia ([AARNet](https://www.aarnet.edu.au/)),
-tools and virtual laboratories for researchers
-([NeCTAR](https://nectar.org.au/)), very, very big data crunching
+networking across Australia ([AARNet](https://www.aarnet.edu.au/)), very, very big data crunching
 ([NCI](https://nci.org.au/)), as well as lots of specialised research
-facilities. ANDS is also one of the 27 NCRIS facilities. In 2018 ANDS,
-Nectar and RDS were combined to create the Australian Research Data
-Commons ([ARDC](ardc.edu.au "ARDC")).
+facilities. This includes the Australian Research Data Commons ([ARDC](ardc.edu.au "ARDC")).
 
 -   Browse over some [NCRIS case
     studies](http://www.education.gov.au/ncris-case-studies) to get an
