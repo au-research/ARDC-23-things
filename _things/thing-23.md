@@ -27,7 +27,7 @@ this list!
 ### Keep in touch and keep on learning
 
 -   [Sign up to ARDC
-    News](https://ands-nectar-rds.us7.list-manage.com/track/click?u=b542ef52e49302569068046d9&id=603e0435ba&e=08d3e46578)
+    News](https://us7.campaign-archive.com/home/?u=b542ef52e49302569068046d9&id=22b849a4ee)
     (ARDC fortnightly newsletter) to find out about events near you.
 
 Join an online group
@@ -92,7 +92,7 @@ Get social with Twitter
 Opportunities abound for those who want to stretch the technical
 boundaries of data management:
 
--   Start by checking out the **Challenge me** activities for 23Things
+-   Start by checking out the **Challenge me** activities for 23 (research data) Things
     and grow your tech-data literacy skills
 -   [The Carpentries](https://carpentries.org/) courses are offered around Australia by various community groups
 -   Get on the email lists for
@@ -104,7 +104,7 @@ boundaries of data management:
 
 ### Get serious about your data future
 
-Now you have completed 23 (research data) things think about:  Will you
+Now you have completed 23 (research data) Things think about:  Will you
 help to fill the growing shortage of people with data skills in the one
 of the [sexiest jobs of the 21st
 century](http://www.smh.com.au/national/tertiary-education/data-scientists-are-the-rock-stars-of-business-20150819-gj2i0r.html)?
@@ -144,7 +144,7 @@ specifically in Data Management are also available
 
 e.g. **Charles Sturt University**[**Graduate Certificate and Masters
 Specialisation in Data
-Management**](http://www.csu.edu.au/infostudies/ "Graduate Certificate and Masters Specialisation in Data Management")
+Management**](https://study.csu.edu.au/courses/library-information-studies/graduate-certificate-data-management "Graduate Certificate and Masters Specialisation in Data Management")
 
 From 2017 onwards the School of Information Studies at Charles Sturt
 University will be offering a Graduate Certificate in Data Management
