@@ -145,8 +145,8 @@ e.g. **Charles Sturt University** [**Graduate Certificate and Masters
 Specialisation in Data
 Management**](https://study.csu.edu.au/courses/library-information-studies/graduate-certificate-data-management "Graduate Certificate and Masters Specialisation in Data Management")
 
-The School of Information Studies at Charles Sturt University will be
-offering a Graduate Certificate in Data Management(GCDM). 
+The School of Information Studies at Charles Sturt University 
+offers a Graduate Certificate in Data Management(GCDM). 
 As practicing information professionals or researchers, formal
 study in Data Management will enable you to demonstrate you can fill an
 identified professional skill and knowledge gap. Completion of the GCDM
