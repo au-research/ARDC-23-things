@@ -133,13 +133,8 @@ published.
 
 **Option 1: Virtual Laboratories**
 
-Explore one or more of the Nectar Virtual Laboratories - who uses these
+Explore one or more of the [Nectar Virtual Laboratories](https://nectar.org.au/labs-and-tools/) - who uses these
 laboratories and what do they do?
-
--   Explore in [words](https://nectar.org.au/labs-and-tools/)
--   Explore in
-    [videos](https://www.youtube.com/playlist?list=PLkBeePYo-_VCwaNDa9q3Y4PtM71PJ7UB6)
--   Pick one or two and explore in depth
 
 **Option 2: Australian Urban Research Infrastructure Network (AURIN)**
 
