@@ -165,10 +165,10 @@ Information Studies at CSU, you can elect to do the subjects as above to
 graduate with a Specialisation in Data Management: a Master of
 Information Studies (Data Management).
 
-### How was your 23 (rd) Things adventure?
+### How was your 23 (research data) Things adventure?
 
-You don't have to have done all the 23 Things - 23T was about your
-learning, not completing all 23, whatever number of Things you did is
+You don't have to have done all the 23 Things - this is about your
+learning, not completing all 23. Whatever number of Things you did is
 fine.
 
 It's time to reflect on what you did, what you learned and what you got
