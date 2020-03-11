@@ -94,15 +94,11 @@ boundaries of data management:
 
 -   Start by checking out the **Challenge me** activities for 23Things
     and grow your tech-data literacy skills
--   Carpentry courses are offered around Australia by various data
-    community groups (for an overview see [Challenge me: Thing
-    17](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-17#t17-challenge "thing 17 - Challenge me")
-    of 23 (research data) Things
+-   [The Carpentries](https://carpentries.org/) courses are offered around Australia by various community groups
 -   Get on the email lists for
     [ResBaz](https://resbazblog.wordpress.com/ "ResBaz blog"),
     [GovHack](https://www.govhack.org/ "GovHack")
--   [](http://us7.campaign-archive2.com/home/?u=b542ef52e49302569068046d9&id=22b849a4ee)[ARDC
-    News](https://ands-nectar-rds.us7.list-manage.com/track/click?u=b542ef52e49302569068046d9&id=603e0435ba&e=08d3e46578)
+-   [ARDC News](https://us7.campaign-archive.com/home/?u=b542ef52e49302569068046d9&id=22b849a4ee)
     (ARDC fortnightly newsletter) has lots of webinars and tech-focused
     events
 
