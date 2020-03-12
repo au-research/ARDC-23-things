@@ -7,7 +7,7 @@ description: |
     Understand the importance of data licensing and learn about Creative
     Commons.
 overview:
- Getting started: don’t let CC pass you BY!
+ Getting started: Don’t let CC pass you BY!
  Learn more: Licensing - a keystone for innovation and business
  Challenge me: How does Licensing work in tricky or complex situations?
 category: Rights, ethics & sensitive data
@@ -29,7 +29,7 @@ and cited.
     [NZGOAL](https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/)
 2.  Now have a closer look at the
     [fact sheet](https://creativecommons.org.au/materials/factsheets/cc-licences.pdf) from creativecommons.org.  Click on the descriptions for more
-    information.  Notice they have used CC BY as the licensing
+    information. Notice they have used CC BY as the licensing
     information at the bottom of the fact sheet so you know what you can do
     with the fact sheet itself.
 
@@ -54,7 +54,7 @@ is critical to enabling data reuse.
     you might be particularly interested in [Training Video 11 NZGOAL,
     Creative Commons and
     Data](https://www.youtube.com/watch?v=OFOIsTgbKzg&index=11&list=PLKAGOg1JYnPntUL_WE2evkt-jLY2Ng2bB).
-2.  Now read the[Australian Government Public Data Policy
+2.  Now read the [Australian Government Public Data Policy
     Statement](https://www.dpmc.gov.au/sites/default/files/publications/aust_govt_public_data_policy_statement_1.pdf "Australian Government Public Data policy statement")
     (2 pages) that was released by Prime Minister Malcolm Turnbull in
     December 2015.  Note in particular, the last dot point.
