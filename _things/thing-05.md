@@ -15,8 +15,8 @@ category: Repositories for data
 
 Introducing 'open', 'shared' and 'closed' data.
 
-When we explored Research Data Australia in Thing 4, you may have
-noticed that not all the data described was available for immediate
+When you explore [Research Data Australia](https://researchdata.ands.org.au), you may 
+notice that not all the data described is available for immediate
 access. This activity explains why different datasets may have different
 access conditions.
 
