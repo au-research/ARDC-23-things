@@ -19,7 +19,7 @@ category: Data citation & impact
 Digital Object Identifiers (DOIs) are unique identifiers that provide
 persistent access to published articles, datasets, software versions and
 a range of other research inputs and outputs. There are over [190 million
-DOIs in use](https://www.doi.org/factsheets/DOIKeyFacts.html), and last year DOIs were “resolved” (clicked on) over five billion times.
+DOIs in use](https://www.doi.org/factsheets/DOIKeyFacts.html).
 
 Each DOI is unique but a typical DOI looks like this: <https://doi.org/10.4225/08/50F62E0D359D5>
 
