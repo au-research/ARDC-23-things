@@ -36,7 +36,7 @@ access conditions.
 
 Repositories are one means by which research data may be shared.
 
-1.  Take a look at these infographics from Wiley titled [*Research Data Sharing Insights*](http://doi.org/10.6084/m9.figshare.3555993.v1) \[PDF, 2.08MB\], and [Global Data Sharing Trends](https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/Wiley%20Global%20Data%20Sharing%20Infographic%20June%202017.pdf "Wiley - Global Data Sharing Trends"). They provide a succinct overview of current data sharing practice and perceptions.
+1.  Take a look at these infographics from Wiley titled [Research Data Sharing Insights](http://doi.org/10.6084/m9.figshare.3555993.v1) \[PDF, 2.08MB\], and [Global Data Sharing Trends](https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/Wiley%20Global%20Data%20Sharing%20Infographic%20June%202017.pdf "Wiley - Global Data Sharing Trends"). They provide a succinct overview of current data sharing practice and perceptions.
 2.  Now look closely at the sections titled 'Global Data Sharing Trends' and 'Data Sharing By Discipline'
 
 **Consider:** Why do you think there are differences between disciplines
