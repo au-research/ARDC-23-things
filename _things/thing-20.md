@@ -36,7 +36,7 @@ then, for all of us to have an understanding of spatial data.
 **Just for fun**: enter your address in the Atlas of Living Australia
 and see what birds and plants have been reported [in your street or
 suburb](https://biocache.ala.org.au/explore/your-area "ALA: Explore Your Area").
-You may be surprised at how ‘alive’ your street is. ****
+You may be surprised at how ‘alive’ your street is.
 
 **Consider:** why do you think these geospatial visualisations are so
 powerful?
@@ -54,14 +54,11 @@ a particular location. Let’s look at a couple of examples**.**
 
 1.  Go to [Research Data Australia](https://researchdata.ands.org.au/)
     and choose **Map Search** from under the search
-    box.![T20-RDA](https://www.ands.org.au/__data/assets/image/0012/577983/rda.png){width="339"
-    height="127"}
+    box.
 2.  Zoom in on a location in Australia and use the rectangle tool at the
     top of the map to draw a search box around your chosen location.
     Hint: choosing somewhere on the coast (such as the Newcastle area)
-    will give you a wider range of datasets.\
-    ![T20-click
-    image](https://www.ands.org.au/__data/assets/image/0011/577982/click.png)
+    will give you a wider range of datasets.
 3.  Then click on the green *Search* button
 4.  Browse through your results and look at the list of provider
     organisations and subject headings for the records in your result
