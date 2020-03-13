@@ -29,7 +29,7 @@ found in various repositories. In separate windows in your browser, take
 a look at how the metadata for the 'WAMSI Node 1.1 - Marmion Lagoon CTD and Mooring Measurement Program (July 2007 to May 2008)' has been transformed (or crosswalked) so it complies with different metadata standards and
 systems:
 
-    - in [marlin](http://www.marine.csiro.au/marq/edd_search.Browse_Citation?txtSession=8603)
+    - in [marlin](https://www.marlin.csiro.au/geonetwork/srv/eng/search#!2631d2d1-3d5e-4140-948a-450dba486c7c)
     This record was created to comply with the ISO19115 standard for
     describing geospatial data
     - in the [CSIRO Data Access Portal](http://doi.org/10.4225/08/50F624A9E6D5C "CSIRO data access portal - record")
