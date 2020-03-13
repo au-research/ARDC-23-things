@@ -20,12 +20,13 @@ Traditional information sources such as books, photos and maps can
 easily survive for years, decades or even centuries but digital items
 require special care to keep them usable over time.
 
-1.  This  [video](https://youtu.be/qEmmeFFafUs) (2.5 min) from the US
+1.  This [video](https://youtu.be/qEmmeFFafUs) (2.5 min) from the US
     Library of Congress shows the vulnerability of “born digital”
     objects like research data: they are fragile; they are dependent on
     software and hardware; and they require active management.
-2.  If you have time: look at the ANDS page on [data
+2.  Look at the ANDS page on [data
     preservation](https://www.ands.org.au/working-with-data/data-management/data-preservation).
+3.  If you have time, look at the [Digital Preservation Handbook](https://www.dpconline.org/handbook) by the Digital Preservation Coalition (DPC)
 
 **Consider:** What key advice would you give someone about preserving
 their born digital objects. For example the family historian, a
