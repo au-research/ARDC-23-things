@@ -7,10 +7,11 @@ description: |
     Dig in to dirty data.  What is it?  Why should we care? Try your hand at
     using an open source data cleansing tool.
 overview:
- Getting started: Pregnant men? The data says so! Getting down and dirty with data
- Learn more: Turn a PDF ‘tabula rasa’ into usable data with Tabula
- Challenge me: OpenRefine is a powerful tool for cleaning up lots of  dirty data
+    Getting started: Data horror stories! Getting down and dirty with data
+    Learn more: Turn a PDF ‘tabula rasa’ into usable data with Tabula
+    Challenge me: OpenRefine is a powerful tool for cleaning up lots of  dirty data
 ---
+ 
 ## Getting started
 ### Dirty data stories
 
@@ -18,13 +19,11 @@ Data horror stories: how did it happen?
 
 Why is "clean” data important? Public policy, changes to medical
 protocols and economic decisions all depend on accurate and complete
-data. Thing 21 looks at the why and what of “dirty data.”
+data. This thing looks at the why and what of “dirty data.”
 
-1.  Pregnant men? Yes! Read some [real data horror
-    stories](http://www.relevategroup.com/blog/dirty-data-horror-stories-–-when-good-data-goes-bad "When good data goes bad: blog")
-    about dirty data.
+1.  Read some [real data horror stories](https://www.arnnet.com.au/article/197085/perils_dirty_data/? "Perils of dirty data:     blog") about dirty data.
 2.  How does data get dirty in the first place? This [short
-    video](http://aspcapro.org/resource/saving-lives-research-data/gis-video-what-makes-data-dirty "ASAPCA video")
+    video](https://vimeo.com/95289871 "ASAPCA video")
     (5 min) from the ASPCA (American Society for Prevention of Cruelty
     to Animals) shows simply how incomplete, inaccurate data can occur.
     You can imagine how the resultant problems would multiply
@@ -70,10 +69,11 @@ data from PDFs, with a focus on introducing Tabula, a free open-source
 tool build for this specific task.
 
 1.  Get ready: go to [Extracting Data From
-    PDFs](http://schoolofdata.org/extracting-data-from-pdfs/)
-    1.  Download the correct version of Tabula for your operating
-        system, and java runtime if required
-    2.  note this tutorial doesn’t work on scanned pdfs
+    PDFs](http://schoolofdata.org/extracting-data-from-pdfs/) and download the correct version of Tabula for your operating
+    system, and java runtime if required. 
+    
+    (Note: this tutorial doesn’t work on scanned pdfs)
+    
 2.  Work through as much of the Tabula tutorial as you can and remember
     this tutorial for the next time you get a PDF with valuable (and
     hard-to-extract) data.
@@ -104,7 +104,7 @@ creeping into your
 The School of Data have some really interesting [Data
 Cleansing](http://schoolofdata.org/courses/#IntroDataCleaning) modules.
 
-**Consider: **strategies for encouraging data to be published in more
+**Consider:** strategies for encouraging data to be published in more
 re-usable formats rather than PDF.
 
 ## Challenge me
@@ -116,8 +116,8 @@ manipulate data; clean up dirty data; and to transform datasets.
 
 **Option 1: If you are new to OpenRefine**
 
-1.  Start by watching[introduction to
-    OpenRefine](https://youtu.be/B70J_H_zAWM) (6 .48mins) to learn how
+1.  Start by watching [introduction to
+    OpenRefine](https://youtu.be/B70J_H_zAWM) (6.48mins) to learn how
     it can be used to clean up messy data.
 2.  Now get hands on!  You will need to download OpenRefine and the
     dataset for this activity. Work your way through as much as [this
@@ -132,7 +132,7 @@ Take a look through the lesson materials used to teach OpenRefine in
 either:
 
 1.  OpenRefine in [Library
-    Carpentry](https://github.com/LibraryCarpentry/week-four-library-carpentry/blob/master/lesson-materials/Basic-OpenRefine-functions-I.md)
+    Carpentry](https://librarycarpentry.org/lc-open-refine/)
 2.  OpenRefine in [Data Carpentry for
     Ecology](http://www.datacarpentry.org/OpenRefine-ecology-lesson/)
 

@@ -27,7 +27,7 @@ this list!
 ### Keep in touch and keep on learning
 
 -   [Sign up to ARDC
-    News](https://ands-nectar-rds.us7.list-manage.com/track/click?u=b542ef52e49302569068046d9&id=603e0435ba&e=08d3e46578)
+    News](https://us7.campaign-archive.com/home/?u=b542ef52e49302569068046d9&id=22b849a4ee)
     (ARDC fortnightly newsletter) to find out about events near you.
 
 Join an online group
@@ -37,7 +37,7 @@ Join an online group
 -   Research Data Alliance - international [interest and working
     groups](https://rd-alliance.org/groups) on a wide range of data
     topics
--   ALIA[special interest
+-   ALIA [special interest
     groups](https://www.alia.org.au/our-communities/alia-groups) - data
     is increasingly a normal part of every interest group
 -   [RESEARCH-DATAMAN](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=RESEARCH-DATAMAN)
@@ -61,12 +61,12 @@ Hacky Hours are often fun - just search ‘hacky hour’ in your browser
 
 Get social with Twitter
 
-@ARDC\_au  @openaccess\_oz   @ScientificData   @UKDataArchive   \#ResearchData   @resdatall
+@ARDC_au  @openaccess_oz   @ScientificData   @UKDataArchive   #ResearchData   @resdatall
 
 ### Keep on learning through “Do It Yourself“
 
 -   Bookmark [23 (research data)
-    Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things "23(research data) Things")
+    Things](https://github.com/au-research/ARDC-23-things "23 (research data) Things")
     and make a regular date with yourself to refresh your skills
 -   [Managing Data
     @Melbourne](https://library.unimelb.edu.au/Digital-Scholarship/training_and_outreach/data "Managing data @Melbourne")
@@ -92,30 +92,25 @@ Get social with Twitter
 Opportunities abound for those who want to stretch the technical
 boundaries of data management:
 
--   Start by checking out the **Challenge me** activities for 23Things
+-   Start by checking out the **Challenge me** activities for 23 (research data) Things
     and grow your tech-data literacy skills
--   Carpentry courses are offered around Australia by various data
-    community groups (for an overview see [Challenge me: Thing
-    17](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-17#t17-challenge "thing 17 - Challenge me")
-    of 23 (research data) Things
+-   [The Carpentries](https://carpentries.org/) courses are offered around Australia by various community groups
 -   Get on the email lists for
     [ResBaz](https://resbazblog.wordpress.com/ "ResBaz blog"),
     [GovHack](https://www.govhack.org/ "GovHack")
--   [](http://us7.campaign-archive2.com/home/?u=b542ef52e49302569068046d9&id=22b849a4ee)[ARDC
-    News](https://ands-nectar-rds.us7.list-manage.com/track/click?u=b542ef52e49302569068046d9&id=603e0435ba&e=08d3e46578)
+-   [ARDC News](https://us7.campaign-archive.com/home/?u=b542ef52e49302569068046d9&id=22b849a4ee)
     (ARDC fortnightly newsletter) has lots of webinars and tech-focused
     events
 
 ### Get serious about your data future
 
-Now you have completed 23 (research data) things think about:  Will you
+Now you have completed 23 (research data) Things think about:  Will you
 help to fill the growing shortage of people with data skills in the one
 of the [sexiest jobs of the 21st
 century](http://www.smh.com.au/national/tertiary-education/data-scientists-are-the-rock-stars-of-business-20150819-gj2i0r.html)?
 And, data jobs aren’t always mathematical or statistical!
 
--   Data management and the role of the data
-    [librarians](http://www.caul.edu.au/caul-programs/research/data-management "Data management and the role of the data librarians")
+-   [Librarians as partners in research data service](https://doi.org/10.1108/PROG-02-2015-0013 "Librarians as partners in research data service")
 -   Fiona Tweedie is a fascinating example of someone who started her
     career in Roman History and is now [Data Scientist for the
     Australian
@@ -139,38 +134,25 @@ for everyone.
     Clearinghouse](http://dmtclearinghouse.esipfed.org "ESIP Data Management Training Clearinghouse")
 -   Free online [MOOC on Big Data
     Visualization](https://www.futurelearn.com/courses/big-data-visualisation "MOOC on big data visualisation")
--   Free online MOOC on [Big Data Measuring and predicting human
+-   Free online [MOOC on Big Data Measuring and predicting human
     behaviour](https://www.futurelearn.com/courses/big-data)
 
 Sometimes there are individual data units offered within a discipline
 degree, others have a number of electives or majors. Some courses
 specifically in Data Management are also available
 
-e.g. **Charles Sturt University**[**Graduate Certificate and Masters
+e.g. **Charles Sturt University** [**Graduate Certificate and Masters
 Specialisation in Data
-Management**](http://www.csu.edu.au/infostudies/ "Graduate Certificate and Masters Specialisation in Data Management")
+Management**](https://study.csu.edu.au/courses/library-information-studies/graduate-certificate-data-management "Graduate Certificate and Masters Specialisation in Data Management")
 
-From 2017 onwards the School of Information Studies at Charles Sturt
-University will be offering a Graduate Certificate in Data Management
-(GCDM). As practicing information professionals or researchers, formal
+The School of Information Studies at Charles Sturt University 
+offers a Graduate Certificate in Data Management(GCDM). 
+As practicing information professionals or researchers, formal
 study in Data Management will enable you to demonstrate you can fill an
 identified professional skill and knowledge gap. Completion of the GCDM
 qualification provides evidence you have studied the fundamental
 principles, key concepts, tools, standards, and techniques of data
 curation and data management.
-
-The GCDM will comprise of four subjects – the first three subjects are
-core and are:
-
--   INF461 Introduction to Data Management: Governance, Standards and
-    Ethics;
--   INF462 Data Curation; and,
--   INF463 Introduction to Data Tools and Analytics.
-
-For the 4^th^ subject, students are offered a choice of either:
-
--   INF449 Research Data Management; or,
--   INF522 Project Management in Information Agencies
 
 This Graduate Certificate is offered part time over one year (two
 subjects per session) and is completely online. This mode provides
@@ -183,10 +165,10 @@ Information Studies at CSU, you can elect to do the subjects as above to
 graduate with a Specialisation in Data Management: a Master of
 Information Studies (Data Management).
 
-### How was your 23 (rd) Things adventure?
+### How was your 23 (research data) Things adventure?
 
-You don't have to have done all the 23 Things - 23T was about your
-learning, not completing all 23, whatever number of Things you did is
+You don't have to have done all the 23 Things - this is about your
+learning, not completing all 23. Whatever number of Things you did is
 fine.
 
 It's time to reflect on what you did, what you learned and what you got

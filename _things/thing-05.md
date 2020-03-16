@@ -15,12 +15,12 @@ category: Repositories for data
 
 Introducing 'open', 'shared' and 'closed' data.
 
-When we explored Research Data Australia in Thing 4, you may have
-noticed that not all the data described was available for immediate
+When you explore [Research Data Australia](https://researchdata.ands.org.au), you may 
+notice that not all the data described is available for immediate
 access. This activity explains why different datasets may have different
 access conditions.
 
-1.  Watch this 2.5 minute [video](https://vimeo.com/125783029)from the
+1.  Watch this 2.5 minute [video](https://vimeo.com/125783029) from the
     Open Data Institute titled *Open/Closed/Shared: the world of data.*
 2.  Now open [this page](https://www.ands.org.au/working-with-data/articulating-the-value-of-open-data/open-data "Value of open data")
     to see a more in-depth view of why data is sometimes open, shared or
@@ -36,7 +36,7 @@ access conditions.
 
 Repositories are one means by which research data may be shared.
 
-1.  Take a look at these infographics from Wiley titled [*Research Data Sharing Insights*](http://doi.org/10.6084/m9.figshare.3555993.v1) \[PDF, 2.08MB\], and [Global Data Sharing Trends](https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/Wiley%20Global%20Data%20Sharing%20Infographic%20June%202017.pdf "Wiley - Global Data Sharing Trends"). They provide a succinct overview of current data sharing practice and perceptions.
+1.  Take a look at these infographics from Wiley titled [Research Data Sharing Insights](http://doi.org/10.6084/m9.figshare.3555993.v1) \[PDF, 2.08MB\], and [Global Data Sharing Trends](https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/Wiley%20Global%20Data%20Sharing%20Infographic%20June%202017.pdf "Wiley - Global Data Sharing Trends"). They provide a succinct overview of current data sharing practice and perceptions.
 2.  Now look closely at the sections titled 'Global Data Sharing Trends' and 'Data Sharing By Discipline'
 
 **Consider:** Why do you think there are differences between disciplines
