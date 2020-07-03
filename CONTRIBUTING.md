@@ -1,6 +1,6 @@
 ---
-title: All the Research Data things
-permalink: /researchdata/things/
+title: Contributing
+permalink: /researchdata/contributing
 ---
 
 We welcome contributions!
