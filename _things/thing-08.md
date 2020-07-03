@@ -31,12 +31,11 @@ or article.
     (4.5 min) from Research Data Netherlands. It gives you a succinct,
     clear explanation of how DOIs underpin data citation.
 2.  Have a look at the poster below (opens to an A4 size) - follow the
-    arrows to see how DOIs are attached to data sets.\
-    [![data citation
-    poster](https://www.ands.org.au/__data/assets/image/0008/471185/data-citation-poster-small.png)](https://www.ands.org.au/__data/assets/pdf_file/0003/383025/data_citation_poster.pdf "data citation poster")
+    arrows to see how DOIs are attached to data sets.
+    [![data citation poster]({{ site.baseurl }}/images/data-citation-poster-thumbnail.png)](https://www.ands.org.au/__data/assets/pdf_file/0003/383025/data_citation_poster.pdf "data citation poster")
 3.  This CSIRO data record shows how DOIs are used. Click on this DOI to
     ‘resolve’ the DOI and be taken to the record:
-    <https://doi.org/10.4225/08/50F62E0D359D5>\
+    <https://doi.org/10.4225/08/50F62E0D359D5>
     Click on both the Description and Files tabs and note how many times
     the DOI is used in this data record. It will give you some idea why
     DOIs are given such prominence.
