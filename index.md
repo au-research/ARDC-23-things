@@ -1,5 +1,5 @@
 ---
-  title:
+  title: ""
 ---
 
 ## What is 23 (research data) things?
