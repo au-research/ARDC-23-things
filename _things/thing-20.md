@@ -121,14 +121,6 @@ this might be a good activity [to flex your R
 muscles](https://www.researchgate.net/publication/274697165_Spatial_data_visualisation_with_R)
 (note you need to scroll down page 5 of the PDF to get to the tutorial).
 
-**Option 3: Create a map using Google Fusion Tables**
-
-This offers lots of features, but you need a google account. The
-excellent [Google Fusion
-tutorial](https://support.google.com/fusiontables/answer/2527132?hl=en&ref_topic=2592806)
-uses butterfly data to show you how to import data, map the data and
-customise your map.
-
 **Consider**: the data world is hungry for Geospatial tools and metadata
 and there is growing demand for people with these skills. How can these
 skills be encouraged in your institution?
