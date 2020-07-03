@@ -5,9 +5,6 @@ permalink: /researchdata/reuse
 
 # Re-purpose toolkit
 
-[![23RDThings
-Wordle](images/23T-W-235px.png){#top}](index.md "23 research data Things")
-
 ## 23 (research data) Things is here for you!
 
 -   Use as a self paced learning activity or as a refresher
