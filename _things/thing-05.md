@@ -22,9 +22,8 @@ access conditions.
 
 1.  Watch this 2.5 minute [video](https://vimeo.com/125783029) from the
     Open Data Institute titled *Open/Closed/Shared: the world of data.*
-2.  Now open [this page](https://www.ands.org.au/working-with-data/articulating-the-value-of-open-data/open-data "Value of open data")
-    to see a more in-depth view of why data is sometimes open, shared or
-    closed.
+2.  Read the [open data handbook](http://opendatahandbook.org/ "open data handbook")
+    for a more in-depth discussion of open data. Read about how [open sourcing genomes](http://opendatahandbook.org/value-stories/en/open-sourcing-genomes/) helped scientists to crowdsource solutions for killer outbreaks. 
 3.  If you have time, go to [Research Data Australia](https://researchdata.ands.org.au) and try searching for
     data that is 'open'. Hint: Look for the option to limit your search
     to data that is publicly accessible online.

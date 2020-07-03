@@ -3,7 +3,7 @@ layout: thing
 thing: 11
 title: "What's my metadata schema?"
 description: |
-    **Metadata** is the lifeblood for finding and reusing research
+    Metadata is the lifeblood for finding and reusing research
     data. Data is only as valuable as the metadata which describes and
     connects it.
 overview:
