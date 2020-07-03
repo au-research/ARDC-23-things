@@ -3,8 +3,6 @@ title: Reuse
 permalink: /researchdata/reuse
 ---
 
-# Re-purpose toolkit
-
 ## 23 (research data) Things is here for you!
 
 -   Use as a self paced learning activity or as a refresher
