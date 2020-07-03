@@ -12,16 +12,17 @@ If you are not comfortable submitting a pull request, then you can also [submit 
 By submitting content to 23 (research data) Things, you confirm and agree that all material submitted may be distributed under a [Creative Commons Attribution Licence](https://creativecommons.org/licenses/by/4.0/).
 
 2020 ARDC contributing team
-Matthias Liffers
-Liz Stokes
-Nichola Burton
-Andrew Kelly
-Tom Honeyman
-Rowan Brownlee
-Kerry Leavett
+* Matthias Liffers
+* Liz Stokes
+* Nichola Burton
+* Andrew Kelly
+* Tom Honeyman
+* Rowan Brownlee
+* Kerry Leavett
+* Catherine Brady
 
 2016 ANDS contributing team
-Karen Visser
-Kathryn Unsworth
-Natasha Simons
-Susannah Sabine
+* Karen Visser
+* Kathryn Unsworth
+* Natasha Simons
+* Susannah Sabine
