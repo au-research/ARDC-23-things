@@ -41,7 +41,7 @@ or article.
     the DOI is used in this data record. It will give you some idea why
     DOIs are given such prominence.
 4.  This [same
-    record](https://researchdata.ands.org.au/time-series-plankton-loganaposs-dam "time series plankton record") has
+    record](https://researchdata.edu.au/time-series-plankton-loganaposs-dam/445000 "time series plankton record") has
     been syndicated to Research Data Australia. Click on the Cite icon
     on the upper left of the record (under the green button Access the
     Data). Then click on the DOI in the data citation. No matter where
@@ -96,8 +96,8 @@ machine-to-machine or manual service.
 
 1.  Start by reading an overview of the [ARDC DOI
     service](https://ardc.edu.au/services/identifier/doi/ "DOI service")
-    and perhaps the ARDC DOI service [technical
-    documentation](https://documentation.ands.org.au/display/DOC/DOI+Service).
+    and perhaps the [ARDC Guide to DOI system and research data](https://ardc.edu.au/wp-content/uploads/2019/05/Digital_Object_Identifier_DOI_System_for_Research_Data.pdf) ARDC DOI service [technical
+    documentation](https://documentation.ardc.edu.au/display/DOC/DOI+Service).
 2.  Consider also the need for guidelines around when a DOI will be
     minted, by whom and how DOIs will be managed to ensure long term
     persistence. You might like to look at these examples of
