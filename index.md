@@ -1,3 +1,7 @@
+---
+   permalink: /
+---
+
 ## What is 23 (research data) things?
 
 23 (research data) things is self-directed learning for anybody who wants to know more about research data. "Things" is a neat concept for creating packaged content on any topic.
