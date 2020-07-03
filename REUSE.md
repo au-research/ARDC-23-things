@@ -12,13 +12,6 @@ permalink: /researchdata/reuse
 -   Contextualize it for your discipline or situation
 -   Adapt it to meet your specific research data knowledge needs
 
-    [Ideas for reusing these materials](#ideas-for-reusing-these-materials)
-    [Training materials for reuse](#training-materials-for-reuse)
-    [Examples of reuse](#examples-of-reuse)
-    [Institutional examples of reuse](#institional-examples-of-reuse)
-    [Resources](#resources)
-    [Incentives](#incentives)
-
 The 23 (research data) Things program was rolled out by ANDS during
 2016. More than 1500 people participated from across Australia, New
 Zealand and beyond. While the program formally ends in October, the
@@ -110,7 +103,7 @@ The source material is available in Markdown format from the [23 things GitHub r
 -   Information professionals  eg [Thing 4 (Discovery)]({{ site.baseurl }}/researchdata/thing-04), [Thing 5
     (Sharing)]({{ site.baseurl }}/researchdata/thing-05), [Thing 7 (Citation)]({{ site.baseurl }}/researchdata/thing-07), [Thing 8 (Metrics)]({{ site.baseurl }}/researchdata/thing-08), [Thing 17 (Data literacy)]({{ site.baseurl }}/researchdata/thing-17)
 -   Research impact professionals eg [Thing 8 (metrics)]({{ site.baseurl }}/researchdata/thing-08) and [Thing 16 (Funders and Publishers)]({{ site.baseurl }}/researchdata/thing-16)
--   Institutional data managers eg [Thing 11 (Schemas)]({{ site.baseurl }}/researchdata/thing-11), [Thing 12 (Vocabularies)](({{ site.baseurl }}/researchdata/thing-12), [Thing 13 (Crosswalks)]({{ site.baseurl }}/researchdata/thing-13), [Thing 14 (Identifiers)]({{ site.baseurl }}/researchdata/thing-14)
+-   Institutional data managers eg [Thing 11 (Schemas)]({{ site.baseurl }}/researchdata/thing-11), [Thing 12 (Vocabularies)]({{ site.baseurl }}/researchdata/thing-12), [Thing 13 (Crosswalks)]({{ site.baseurl }}/researchdata/thing-13), [Thing 14 (Identifiers)]({{ site.baseurl }}/researchdata/thing-14)
 -   Ethics committee members eg [Thing 9 (Licensing)]({{ site.baseurl }}/researchdata/thing-09), [Thing 10 (sharing
     sensitive data)]({{ site.baseurl }}/researchdata/thing-10)
 
