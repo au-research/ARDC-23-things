@@ -1,13 +1,13 @@
 # 23 Research Data Things
 
 This repository contains an update of the Australian National Data Service's
-(ANDS) 23 (research data) Things.
+(ANDS) 23 (research data) Things, which ran in 2016.
 
 ## What is 23 (research data) Things?
 
 23 (research data) Things is self-directed learning for anybody who wants to know more about research data. "Things" is a neat concept for creating packaged content on any topic.
 
-23 (research data) Things is an adaptation of previous 23 Things prgograms including:
+23 (research data) Things is an adaptation of previous 23 Things programs including:
 
 * 23 Things for Web 2.0 developed by Helene Blowers at Charlotte Mecklenburg Library
 * 23 Research Things @ Melbourne 2014 developed by The University of Melbourne
@@ -20,6 +20,11 @@ You can:
 * adapt it for your situation
 * adopt it as suggested training for all staff
 * contextualise it for your discipline
-* extend or contract it to meet your specific research data knowledge needs
+* extend it to meet your specific research data knowledge needs
 
 The core content for the things in the [_things](_things/) folder. 
+
+## Attribution and licensing
+
+23 (research data) things is licensed for reuse under a [Creative Commons Attibution 4.0 (International) license](https://creativecommons.org/licenses/by/4.0/).
+For more detail see [LICENCE](LICENSE.md)
