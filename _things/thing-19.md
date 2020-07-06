@@ -138,11 +138,11 @@ Explore one of these APIs to get a feel for what the API does and
 whether it may be useful to your organisation:
 
 -   [OAI-PMH
-    Provider](https://documentation.ands.org.au/display/DOC/OAI-PMH+Provider "OAI"):
+    Provider](https://documentation.ardc.edu.au/display/DOC/OAI-PMH+Provider "OAI"):
     use this API if your system is a harvester which is compatible with
     the OAI-PMH protocol.
 -   [Research Activity Grants
-    API](https://documentation.ands.org.au/display/DOC/Research+Activities+API "Grants API"):
+    API](https://documentation.ardc.edu.au/display/DOC/Research+Activities+API "Grants API"):
     provides machine access to research activity information contributed
     to Research Data Australia such as grants and projects. A
     light-weight method to query the ANDS Registry for specific

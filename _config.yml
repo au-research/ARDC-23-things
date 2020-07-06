@@ -21,8 +21,8 @@
 title: 23 (research data) things
 email: contact@ardc.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  23 (research data) Things is self-directed learning for anybody who wants to know more about research 
-  data. "Things" is a neat concept for creating packaged content on any topic.
+  23 (research data) things is self-directed learning for anybody who wants to know more about research 
+  data.
 baseurl: "/ARDC-23-things" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ARDC_AU
@@ -47,9 +47,7 @@ exclude:
   - .jekyll-cache/
   - Gemfile
   - Gemfile.lock
-  - REUSE.md
   - README.md
-  - LICENCE.md
 #   - gemfiles/
 #   - node_modules/
 #   - vendor/bundle/
