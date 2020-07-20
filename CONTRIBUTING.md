@@ -26,3 +26,12 @@ By submitting content to 23 (research data) things, you confirm and agree that a
 * Kathryn Unsworth
 * Natasha Simons
 * Susannah Sabine
+* Gerry Ryder
+
+2016 Thing suggesters:
+
+Anton Angelo, Stephanie Bradbury, Philippa  Broadley, Rowan Brownlee, Sue Cook, Ben Cornwell, Jodie Crimston, Carmi Cronje, Richard Ferrers, Deborah Fitchett, Jane Frazier, Cecily Gilbert, Katie Hannan, Dom Hogan, Matthias Liffers, Duncan Loxton, Alexia Maddox, Birgit Nielsen, Lucia Ravi, Ann Ritchie, Gerry Ryder, Susannah Sabine, Karen Shackleton, Natasha Simons, Eamon Smallwood, Anne Stevenson, Liz Stokes, Katina Toufexis, Katrina Trewin, Kathryn Unsworth, Karen Visser, Belinda Weaver, Andrew Williams
+
+2016 Thing expert advisers:
+
+Baden Appleyard, Melanie Barlow, David Benn, Carmi Cronje, Jane Frazier, Simon Goudie, Dom Hogan, Greg Laughlin, Angeletta Leggio, Kate LeMay, Kerry Levett, Gerry Ryder, Susannah Sabine, Natasha Simons, Paul Stone, Belinda Weaver
