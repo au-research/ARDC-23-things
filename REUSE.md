@@ -3,27 +3,29 @@ title: Reuse
 permalink: /researchdata/reuse
 ---
 
-## 23 (research data) Things is here for you!
+## 23 (research data) things are here for you!
 
 -   Use as a self paced learning activity or as a refresher
 -   Adopt it as suggested training for all staff
--   Contextualize it for your discipline or situation
+-   Contextualise it for your discipline or situation
 -   Adapt it to meet your specific research data knowledge needs
 
-The 23 (research data) Things program was rolled out by ANDS during
+The 23 (research data) things program was rolled out by ANDS during
 2016. More than 1500 people participated from across Australia, New
-Zealand and beyond. While the program formally ends in October, the
-materials developed for 23 (research data) Things will remain available
-on the ANDS website.
+Zealand and beyond. The program formally ended in October 2016, the
+materials developed for 23 (research data) things will remain available
+on this [ARDC github repository](https://github.com/au-research/ARDC-23-things/).
 
-Every effort will be made to ensure Things and activities remain
-current, but please submit an issue if you
+Every effort is made to ensure things and activities remain
+current, so please submit a [GitHub Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to our [ARDC-23-things repository](https://github.com/au-research/ARDC-23-things/) if you
 discover a broken link or have suggestions for a more recent example.
+
+You can also [submit an issue](https://github.com/au-research/ARDC-23-things/issues/new) with a clear description of your updates. Alternatively, [contact the ARDC directly](https://ardc.edu.au/contact-us)
 
 ## Ideas for reusing these materials
 
 The possibilities are endless! The materials developed for the 23
-(research data) Things program can be used however you wish. Some ideas
+(research data) things program can be used however you wish. Some ideas
 and suggestions are below:
 
 ### Self-directed learning activity
@@ -31,17 +33,17 @@ and suggestions are below:
 Individuals or small groups can work through the program at their own
 pace.
 
--   Step through the 23 ‘Things’
--   Have a choice of three learning activities for each Thing: Getting
+-   Step through the 23 ‘things’
+-   Have a choice of three learning activities for each thing: Getting
     started, Learn more or Challenge me
--   Do all 23 or 'cherry pick’ the Things you most need to know or have
+-   Do all 23 or 'cherry pick’ the things you most need to know or have
     an interest in
 
-### Customise Things for different audiences
+### Customise things for different audiences
 
 -   Change the activity links to showcase your data services
--   Select a few Things that could be offered as a 1 hour workshop
--   Adapt Things for specific audiences and discipline
+-   Select a few things to offer as a 1 hour workshop
+-   Adapt several things for specific audiences and discipline
 
 ### Run your own short courses
 
@@ -49,8 +51,8 @@ The materials and resources you need are in the [training materials](#training-m
 section. Run some short courses for your work group, new inductees or
 other groups at your institution.
 
--   Crash course covers the first 12 Things: can be run in three hours
--   Sprint to the finish covers Things 13 - 23: can be run in three
+-   Crash course covers the first 12 things: can be run in three hours
+-   Sprint to the finish covers things 13 - 23: can be run in three
     hours
 
 #### Shorter sessions:
@@ -60,16 +62,16 @@ other groups at your institution.
 -   Things 17-22: more technically focused for those wanting to
     understand how tools, apps and APIs support data
 
-If you have questions or comments about any of the Things you can share
-them by Tweeting to
+If you have questions or comments about any of the things you can share
+them by tweeting to
 [@ardc_au](http://www.twitter.com/@ardc_au "ARDC on Twitter") or in
 the [Data Librarians
 Slack Workspace](https://tiny.cc/data-librarians).
 
 ## Training materials for reuse
 
-All 23 (research data) things materials are licensed under Creative
-Commons (CC-BY), meaning you can reuse and republish with attribution to the
+All 23 (research data) things materials are licensed under a [Creative
+Commons Attribution 4.0 licence (CC-BY)](https://creativecommons.org/licenses/by/4.0/), meaning you can reuse and republish with attribution to the
 Australian Research Data Commons (ARDC).
 
 We want you to use, adopt, adapt and contextualise the activities and
@@ -134,5 +136,5 @@ key webpages.
     Things](https://github.com/ADACS-Australia/10_Astronomy_Things "10 astronomy Things")
     using Github format
 
-Have you adapted 23 (research data) Things for your institution? [Let us
-know](mailto:contact@ardc.org.au) so we can feature your program here
+Have you adapted 23 (research data) things for your institution? [Let us
+know](mailto:contact@ardc.org.au) so we can feature your program here.

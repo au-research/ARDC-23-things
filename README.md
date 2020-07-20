@@ -1,7 +1,7 @@
 # 23 (research data) things
 
 This repository contains an update of the Australian National Data Service's
-(ANDS) 23 (research data) Things, which ran in 2016.
+(ANDS) 23 (research data) things, which ran in 2016.
 
 ## What is 23 (research data) things?
 
@@ -28,3 +28,6 @@ The core content for the things in the [_things](_things/) folder.
 
 23 (research data) things is licensed for reuse under a [Creative Commons Attibution 4.0 (International) license](https://creativecommons.org/licenses/by/4.0/).
 For more detail see [LICENCE](LICENSE.md)
+
+<!-- If you would like to use these materials, we ask that you provide the following attribution which refers to a DOI on zenodo:
+Australian Research Data Commons, (2020) 23 (research data) things, Zenodo. https://doi.org/zenodo.dslkfjalksdj -->

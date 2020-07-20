@@ -79,7 +79,7 @@ Not all research data that is shared is licensed for reuse. It should
 be!
 
 1.  Start by going to [Research Data
-    Australia](https://researchdata.ands.org.au) and search for research
+    Australia](https://researchdata.edu.au) and search for research
     data using keywords eg. ‘water quality’ or ‘cancer’.  Note the
     number of records in your result set.
 2.  Now “Refine Results” to limit your search to only those datasets
