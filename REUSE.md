@@ -74,8 +74,6 @@ All 23 (research data) things materials are licensed under a [Creative
 Commons Attribution 4.0 licence (CC-BY)](https://creativecommons.org/licenses/by/4.0/), meaning you can reuse and republish with attribution to the
 Australian Research Data Commons (ARDC).
 
-<!-- Our preferred citation for attribution is: ARDC (2020) 23 (research data) things, Zenodo. https://doi.org/zenodo.asdkfjlaskj -->
-
 We want you to use, adopt, adapt and contextualise the activities and
 materials. Return to [Thing 9: Licensing data for reuse]({{ site.baseurl }}/researchdata/thing-09)
 if you are not sure what the CC-BY license allows you to do. If you do
