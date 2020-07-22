@@ -29,5 +29,6 @@ The core content for the things in the [_things](_things/) folder.
 23 (research data) things is licensed for reuse under a [Creative Commons Attibution 4.0 (International) license](https://creativecommons.org/licenses/by/4.0/).
 For more detail see [LICENCE](LICENSE.md)
 
-<!-- If you would like to use these materials, we ask that you provide the following attribution which refers to a DOI on zenodo:
-Australian Research Data Commons, (2020) 23 (research data) things, Zenodo. https://doi.org/zenodo.dslkfjalksdj -->
+If you would like to use these materials, we ask that you provide the following attribution in the form of a citation:
+
+Liffers, Matthias, Stokes, Liz, Burton, Nichola, Kelly, Andrew, Honeyman, Tom, Brownlee, Rowan, … Brady, Catherine. (2020). 23 (research data) Things. Zenodo. http://doi.org/10.5281/zenodo.3955523
