@@ -138,3 +138,7 @@ key webpages.
 
 Have you adapted 23 (research data) things for your institution? [Let us
 know](mailto:contact@ardc.org.au) so we can feature your program here.
+
+If you reuse these materials, we ask that you provide the following attribution in the form of a citation:
+
+Liffers, Matthias, Stokes, Liz, Burton, Nichola, Kelly, Andrew, Honeyman, Tom, Brownlee, Rowan, … Brady, Catherine. (2020). 23 (research data) Things. Zenodo. http://doi.org/10.5281/zenodo.3955523
