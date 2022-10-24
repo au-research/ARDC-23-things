@@ -22,7 +22,7 @@ you want to do, or need to know.
 What "research data" are we talking about?
 
 1.  Read the [Defining Research
-    Data](https://library.uoregon.edu/datamanagement/datadefined) from
+    Data](https://guides.library.oregonstate.edu/research-data-services/data-management-define-data) from
     the University of Oregon library - note that for data to be reusable
     the data collection often needs to include algorithms, scripts or
     software. It's not 'just data'.
